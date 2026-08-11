@@ -98,6 +98,10 @@ body {
   overflow: hidden;
   z-index: 0;
   pointer-events: none;
+  /* Scopes the maps' mix-blend-mode (below) to blending with each other -
+     without this, they'd multiply straight into the near-black page
+     background behind the whole stack and go nearly invisible. */
+  isolation: isolate;
 }
 
 .cave-bg::after {
@@ -112,6 +116,41 @@ body {
   position: absolute;
   transform: translateX(-50%);
   max-width: none;
+  /* Each export's own baked-in edge feather only runs ~150-200px, far
+     short of the 500-900px the maps are stacked to overlap by - and each
+     export also has its own undrawn/blank canvas margin (the cave shape
+     never fills its full frame) that can run most of the image's height,
+     not just near an edge. With normal alpha blending, either one means
+     a fully-opaque "nothing here" patch from the top map completely
+     blocks whatever real linework the map underneath has in the same
+     spot. Multiply keeps that from being a hard occlusion: a light
+     blank patch darkens rather than replaces what's beneath, so the
+     layer underneath's linework still comes through instead of a flat
+     dead zone (scoped to just these layers by .cave-bg's `isolation`,
+     above - otherwise this would multiply straight into the near-black
+     page background instead of the map below it). */
+  mix-blend-mode: multiply;
+  /* A short crossfade at each image's own top/bottom edge on top of that,
+     so the seam where one map's height range starts/ends doesn't read as
+     an abrupt cut either. Kept well inside the smallest overlap between
+     any two stacked maps (~508px) so two adjacent fades never outrun the
+     zone they share. */
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    transparent 0,
+    black 240px,
+    black calc(100% - 240px),
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    to bottom,
+    transparent 0,
+    black 240px,
+    black calc(100% - 240px),
+    transparent 100%
+  );
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
 }
 
 .masthead,
