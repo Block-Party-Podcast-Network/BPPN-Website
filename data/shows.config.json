@@ -1,0 +1,76 @@
+{
+  "shows": [
+    {
+      "slug": "dungeon-masters-block",
+      "name": "Dungeon Master's Block",
+      "tagline": "Advice, drills, and war stories for the people running the table.",
+      "logo": "assets/images/logos/dungeon-masters-block.jpg",
+      "appleId": "902679542",
+      "fallbackFeedUrl": "https://feed.podbean.com/dungeonmasterblock/feed.xml",
+      "platformLinks": {
+        "apple": "https://podcasts.apple.com/us/podcast/dungeon-masters-block/id902679542",
+        "spotify": "https://open.spotify.com/show/2AqNGKBprlwCNopQM6kxc3",
+        "podbean": "https://dungeonmasterblock.podbean.com/"
+      }
+    },
+    {
+      "slug": "titans-of-allterra",
+      "name": "The Titans of All'Terra",
+      "tagline": "A high fantasy campaign spanning kingdoms, told one session at a time.",
+      "logo": "assets/images/logos/titans-of-allterra.jpg",
+      "appleId": "1440428321",
+      "fallbackFeedUrl": "https://rss.libsyn.com/shows/136829/destinations/848429.xml",
+      "platformLinks": {
+        "apple": "https://podcasts.apple.com/us/podcast/the-titans-of-allterra/id1440428321",
+        "spotify": "https://open.spotify.com/show/5U3jHHiHsnFQ3bW8EEZmBU"
+      }
+    },
+    {
+      "slug": "badventure-club",
+      "name": "The Badventure Club",
+      "tagline": "Four friends, one long campaign, and way too many terrible plans.",
+      "logo": "assets/images/logos/badventure-club.jpg",
+      "appleId": "1683253562",
+      "fallbackFeedUrl": "https://anchor.fm/s/dea6f4d0/podcast/rss",
+      "platformLinks": {
+        "apple": "https://podcasts.apple.com/us/podcast/the-badventure-club/id1683253562"
+      }
+    },
+    {
+      "slug": "dungeons-dragons-daughters",
+      "name": "Dungeons & Dragons & Daughters",
+      "tagline": "A dad and his daughters, eight years and two campaigns deep.",
+      "logo": "assets/images/logos/dungeons-dragons-daughters.jpg",
+      "feedUrl": "https://feed.podbean.com/dungeonsdragonsdaughters/feed.xml",
+      "platformLinks": {
+        "apple": "https://podcasts.apple.com/us/podcast/dungeons-dragons-daughters/id1243939195",
+        "spotify": "https://open.spotify.com/show/3XxcR5unlIswafM6vtc1g7",
+        "podbean": "https://dungeonsdragonsdaughters.podbean.com/"
+      }
+    },
+    {
+      "slug": "knocked-prone",
+      "name": "Knocked Prone",
+      "tagline": "Voice acted actual play, following ordinary teens against extraordinary odds.",
+      "logo": "assets/images/logos/knocked-prone.jpg",
+      "feedUrl": "https://rss.buzzsprout.com/2201541.rss",
+      "platformLinks": {
+        "apple": "https://podcasts.apple.com/us/podcast/knocked-prone-dungeons-and-dragons-podcast/id1474405410",
+        "spotify": "https://open.spotify.com/show/0Oq2WkvkZaNEpD0rYq9WFQ",
+        "website": "https://www.knockedprone.com/"
+      }
+    },
+    {
+      "slug": "how-not-to-dm",
+      "name": "How Not to DM",
+      "tagline": "Conversations with dungeon masters about the mistakes that taught them the most.",
+      "logo": "assets/images/logos/how-not-to-dm.jpg",
+      "appleId": "1562359428",
+      "fallbackFeedUrl": "https://anchor.fm/s/f7870bac/podcast/rss",
+      "platformLinks": {
+        "apple": "https://podcasts.apple.com/us/podcast/how-not-to-dm/id1562359428",
+        "linktree": "https://linktr.ee/HN2DM"
+      }
+    }
+  ]
+}

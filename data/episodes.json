@@ -1,0 +1,637 @@
+{
+  "generatedAt": "2026-08-06T13:47:06.000Z",
+  "shows": [
+    {
+      "slug": "dungeon-masters-block",
+      "name": "Dungeon Master's Block",
+      "tagline": "Advice, drills, and war stories for the people running the table.",
+      "logo": "assets/images/logos/dungeon-masters-block.jpg",
+      "platformLinks": {
+        "apple": "https://podcasts.apple.com/us/podcast/dungeon-masters-block/id902679542",
+        "spotify": "https://open.spotify.com/show/2AqNGKBprlwCNopQM6kxc3",
+        "podbean": "https://dungeonmasterblock.podbean.com/"
+      },
+      "resolvedFeedUrl": "https://feed.podbean.com/dungeonmasterblock/feed.xml",
+      "lastFetchedAt": "2026-08-06T13:47:06.000Z",
+      "lastFetchOk": true,
+      "episodes": [
+        {
+          "id": "dungeonmasterblock.podbean.com/91d9fc3a-79d6-3957-9fc8-177ee219402e",
+          "title": "DM-Nastics: Players' Bucket List",
+          "pubDate": "2026-08-05T20:49:04.000Z",
+          "durationSeconds": 1698,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/5m86ma5n7xi62gt2/DMN122-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We talk through helping players fulfill some must do's Inspiration: 5 Things Players Should Try Exercise: Players' Bucket List Supplement: The Score: How to Stop Playing Somebody Else's Ga…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/67d77813-55f8-3db4-bc4c-ba339c1c67d9",
+          "title": "333: Table Top to Video Games and Back (feat. Sean Gailey)",
+          "pubDate": "2026-07-29T00:20:14.000Z",
+          "durationSeconds": 4497,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/gps5pskpzvm9yz4v/DMB333-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DM Neal sits down and talks to Sean Gailey, Founder of Talesworth Game Studio about how the ouroboros that is table top games and video games and how they influence each other. The Secret of Weepstone Talesworth Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterbl…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/013bdc3b-111e-3b0f-9206-6ccc1eb84ca1",
+          "title": "DM-Nastics: Shadowfell Through",
+          "pubDate": "2026-07-21T09:06:00.000Z",
+          "durationSeconds": 1780,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/z7swid5e4qzbj7dk/DMN121-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We plunge Dayeimbe's capital into the Shadowfell Inspiration: Discord Exercise Exercise: Shadowfell Through Lifting Partner: Bob World Builder Twitter: @DMs_Block DM Neal's @joatmoniac DM…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/6dea3ebd-4853-3e4b-95b1-4bc75781f826",
+          "title": "332: Ancestral Analysis; Gnomes",
+          "pubDate": "2026-07-15T06:44:46.000Z",
+          "durationSeconds": 2608,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/b4jkbju9zh3mwe6n/DMB332-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DMs Neal and Derrick sit down and talk about the Gnomes of the Gilded Glory of the Gregarious God Garl Glittergold. Bob World Builder Video Noble Knight Games Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Club Episode e…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/da0f787c-4bb4-3bad-9796-0b6b4bc89718",
+          "title": "DM-Nastics: House Rules! Vol. 1",
+          "pubDate": "2026-07-09T04:10:20.000Z",
+          "durationSeconds": 1793,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/q2hmhjyd63z6xea9/DMN120-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We totally love all these house rules ... for someone else. Inspiration: House Rules for Fun and Memorable Moments Exercise: Talking about House Rules Supplements: The Final Seance Twitter…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/a32c1db0-0682-3923-b29a-32c32ffcdec3",
+          "title": "331: Main Character Energy (feat. Jameson Olsen)",
+          "pubDate": "2026-07-01T07:17:12.000Z",
+          "durationSeconds": 4995,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/tiyembhvtc68pux6/DMB331-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DMs Neal and Derrick sit down with Jameson Olsen of Becoming the Main Character Podcast and discuss the ways we can add more Main Character Energy to our games. Becoming the Main Character Noble Knight Games Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/3afc2330-3177-367e-bdaf-113d9d0dd8f4",
+          "title": "DM-Nastics: Can’t Loot the Body",
+          "pubDate": "2026-06-16T09:00:00.000Z",
+          "durationSeconds": 1485,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/r3quwzqzs5j8ttnc/DMN119-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: Monsters that can't carry loot, but have some somewhere. Inspiration: Monsters With Hidden Treasure Exercise: Can’t Loot the Body Supplements: Ted's Treasure Trove Twitter: @DMs_Block DM N…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/df92874b-dbcb-37bd-ab3e-59b0e98b376a",
+          "title": "330: Best and Worst; Tier 1 Magic Items",
+          "pubDate": "2026-06-09T21:31:18.000Z",
+          "durationSeconds": 3780,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/qibpc479mdi3cdte/DMB330-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DMs Neal and Derrick sit down and discuss the Best and Worst items to give out in Tier 1. Noble Knight Games Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Club Episode edited by: Neal Powell"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/a3d39f73-7fbd-3ca5-af0b-0256488d68d8",
+          "title": "DM-Nastics: Quest for Knowledge!",
+          "pubDate": "2026-06-02T09:00:00.000Z",
+          "durationSeconds": 1932,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/cix3tvnty6rhn38a/DMN118-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We test our knowledge and talk about all the answers. Inspiration: Diabolical D&D Quiz Exercise: Our brains! Supplements: D&D Trivial Pursuit Twitter: @DMs_Block DM Neal's @joatmoniac DM C…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/4ca03369-2319-39bc-9b61-6057c093201b",
+          "title": "329: Plundering Pop Culture (feat. Dani aka Hofzinser)",
+          "pubDate": "2026-05-28T21:14:09.000Z",
+          "durationSeconds": 3133,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/5ja4d52niwex7u3r/DMB329-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DMs Neal and Derrick sit down with Dani aka Hofzinser from How to be a Better DM to discuss bringing new to your table from anywhere and everywhere! How To Be A Better DM Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Cl…"
+        }
+      ]
+    },
+    {
+      "slug": "titans-of-allterra",
+      "name": "The Titans of All'Terra",
+      "tagline": "A high fantasy campaign spanning kingdoms, told one session at a time.",
+      "logo": "assets/images/logos/titans-of-allterra.jpg",
+      "platformLinks": {
+        "apple": "https://podcasts.apple.com/us/podcast/the-titans-of-allterra/id1440428321",
+        "spotify": "https://open.spotify.com/show/5U3jHHiHsnFQ3bW8EEZmBU"
+      },
+      "resolvedFeedUrl": "https://rss.libsyn.com/shows/136829/destinations/848429.xml",
+      "lastFetchedAt": "2026-08-06T13:47:06.000Z",
+      "lastFetchOk": true,
+      "episodes": [
+        {
+          "id": "9c5e61a3-bea2-47de-ad02-65ddd085c510",
+          "title": "UPDATE and Guest Appearances: Side Character Quest - Abbot Faer Landing's Quest",
+          "pubDate": "2024-08-31T20:18:00.000Z",
+          "durationSeconds": 900,
+          "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Update_08312024.mp3?dest-id=848429",
+          "audioType": "audio/mpeg",
+          "description": "Hey everyone, Joshua here. I just got a quick update on my actual play guest appearances. Side Character Quest (SCQ) is an anthology of improvised fantasy adventures. In each short quest, the show's host takes a single guest player on a journey through a larger shared world. The…"
+        },
+        {
+          "id": "f244c532-b311-48c6-910a-8b29fb74205a",
+          "title": "Start Playing Games with Josh!",
+          "pubDate": "2024-05-09T21:28:00.000Z",
+          "durationSeconds": 262,
+          "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/PlayGamesWithJosh.mp3?dest-id=848429",
+          "audioType": "audio/mpeg",
+          "description": "Josh here with another big announcement! I have launched four weekly games you can join. visit: https://startplaying.games/gm/joshualorimer Each campaign has 6 open seats available to be booked now. Mondays at 11:00 am CST Tuesdays at 8:00 am CST Wednesdays at 9:00 am CST Thursd…"
+        },
+        {
+          "id": "63f4a2f8-59ba-468b-bb5d-8ffde0760494",
+          "title": "Clips from Joshua's Guest Appearances and More!",
+          "pubDate": "2024-05-01T19:01:00.000Z",
+          "durationSeconds": 3156,
+          "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Josh-Guesting-Clip-Show-2024_01.mp3?dest-id=848429",
+          "audioType": "audio/mpeg",
+          "description": "DM Joshua here. We have scheduled a time for the cast and me to record a new episode of Titans Season 3! In the meantime, I have some awesome news and several incredible shows to share with you! TIMESTAMPS I Cast Fireball - Skull and Shackles - Episode 1 Clip - OUT NOW! 04:15 Mo…"
+        },
+        {
+          "id": "31b3d03b-25ef-4aa2-92d6-48bf303a4740",
+          "title": "S3E10 Immortal Overboard",
+          "pubDate": "2024-02-15T19:00:00.000Z",
+          "durationSeconds": 4000,
+          "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_310_main_show_scored.mp3?dest-id=848429",
+          "audioType": "audio/mpeg",
+          "description": "While fighting the titan form of an undead god, Joan goes full Gandalf. And their journey to New Allestria get's a lot more interesting. - This podcast is made possible thanks to our patrons. You can become a patron and support the ongoing production of The Titans of All'Terra h…"
+        },
+        {
+          "id": "76efa2cf-7e46-4848-bbf3-7165cb1bd442",
+          "title": "S3E9 An Uninvited Encounter",
+          "pubDate": "2024-02-13T19:00:00.000Z",
+          "durationSeconds": 2836,
+          "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_309_main_show_scored.mp3?dest-id=848429",
+          "audioType": "audio/mpeg",
+          "description": "While traveling toward New Allestria aboard the Airship Harris, our heroes have little time to meet their fellow passengers before a rather large uninvited guest comes aboard. - This podcast is made possible thanks to our patrons. You can become a patron and support the ongoing…"
+        },
+        {
+          "id": "5f4c5830-b7e9-4e38-b497-34f6283b435e",
+          "title": "S3E8 Another Boat Based Adventure",
+          "pubDate": "2023-08-10T18:00:00.000Z",
+          "durationSeconds": 2842,
+          "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_308_main_show_scored.mp3?dest-id=848429",
+          "audioType": "audio/mpeg",
+          "description": "With added urgency, the party prepares to depart Lestraad. Boarding the airship Harris, Winnie learns of some \"improvements\" Tubie has made, and we meet some curious new passengers. - This podcast is made possible thanks to our patrons. You can become a patron and support the on…"
+        },
+        {
+          "id": "40ebd8e9-aae4-492f-bdb6-eaaf5ae8f36b",
+          "title": "S3E7 A Violent Visitation",
+          "pubDate": "2023-06-07T18:00:00.000Z",
+          "durationSeconds": 3320,
+          "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_307_main_show_scored.mp3?dest-id=848429",
+          "audioType": "audio/mpeg",
+          "description": "Joan comes clean about her amber orb issues, and the party receives some uninvited guests of the undead variety. - This podcast is made possible thanks to our patrons. You can become a patron and support the ongoing production of The Titans of All'Terra here: Patreon.com/thetita…"
+        },
+        {
+          "id": "8865a3fb-b7d0-4cc3-af5c-3d5ec8ba94fc",
+          "title": "S3E6 Immortal Library, Mortal Danger",
+          "pubDate": "2023-05-17T18:00:00.000Z",
+          "durationSeconds": 3392,
+          "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_306_main_show_scored.mp3?dest-id=848429",
+          "audioType": "audio/mpeg",
+          "description": "Donny invites everyone to Josua's Orrery, a massive library with seemingly endless tomes of untold knowledge. Is this a chance for the party to learn about immortals and even the gods? Or will the party find themselves face-to-face with powerful beings who cannot be killed? - Th…"
+        },
+        {
+          "id": "2c1e3cb5-c0f6-49b1-8ed1-f5dedf9baf63",
+          "title": "S3E5 Donny, Deep Plates, and Decisions",
+          "pubDate": "2023-04-06T19:08:00.000Z",
+          "durationSeconds": 2392,
+          "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_305_main_show_scored.mp3?dest-id=848429",
+          "audioType": "audio/mpeg",
+          "description": "Relnor confronts a very much alive Donny Russell. Afterward, the heroes gather at Dan & Relnor's Deep Plates to discuss what they should do next. - This podcast is made possible thanks to our patrons. You can become a patron and support the ongoing production of The Titans of Al…"
+        },
+        {
+          "id": "8e1a74ff-e963-4e8a-be5a-309e21003f69",
+          "title": "S3E4 The Dead and Not-So-Dead",
+          "pubDate": "2023-03-21T18:28:00.000Z",
+          "durationSeconds": 3797,
+          "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_304_w_music_and_fx.mp3?dest-id=848429",
+          "audioType": "audio/mpeg",
+          "description": "Amidst the HEXpo, our reunited crew comes home to Lestraad. After visiting old friends and family, they gather for Bordu's memorial service, along with an unexpected guest. - This podcast is made possible thanks to our patrons. You can become a patron and support the ongoing pro…"
+        }
+      ]
+    },
+    {
+      "slug": "badventure-club",
+      "name": "The Badventure Club",
+      "tagline": "Four friends, one long campaign, and way too many terrible plans.",
+      "logo": "assets/images/logos/badventure-club.jpg",
+      "platformLinks": {
+        "apple": "https://podcasts.apple.com/us/podcast/the-badventure-club/id1683253562"
+      },
+      "resolvedFeedUrl": "https://anchor.fm/s/dea6f4d0/podcast/rss",
+      "lastFetchedAt": "2026-08-06T13:47:06.000Z",
+      "lastFetchOk": true,
+      "episodes": [
+        {
+          "id": "6878572a-878c-4d20-901b-31e13dca1303",
+          "title": "Episode 48 - A Plan Set In Action",
+          "pubDate": "2026-04-30T13:29:00.000Z",
+          "durationSeconds": 4188,
+          "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/119260554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-30%2Ffeacfd33-7d5d-2e54-7371-d84ccfbbd51b.mp3",
+          "audioType": "audio/mpeg",
+          "description": "The assault on the Capitol has begun, our heroes are heading out to the castle to find the Dragon King and put an end to his reign of terror. Special Thanks To: JStewIllustrations for our artwork Airgl0w for our theme song The Badventure Club is a Block Party Network Podcast"
+        },
+        {
+          "id": "3fc98f07-54c1-4640-af58-21607d04629a",
+          "title": "Episode 47 - Trigger Warning: Emotional",
+          "pubDate": "2026-03-04T15:10:00.000Z",
+          "durationSeconds": 4142,
+          "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/116308054/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-3%2Fde88b0fd-7a10-aada-e738-f3537575ff35.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Our heroes are on the eve of their final battle. They're preparing in their own special ways for the dawn of a new kingdom. Special Thanks to: Airgl0w for our theme song JStewIllustrations for our artwork The Badventure Club is a Block Party Network Podcast"
+        },
+        {
+          "id": "ac396ab9-0797-452f-b726-ef8b155f22b5",
+          "title": "Episode 46 - Who's Afraid of Little Old Me?",
+          "pubDate": "2026-02-18T22:44:03.000Z",
+          "durationSeconds": 4122,
+          "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/115708732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-18%2F5bc5f75e-3a0a-667a-a600-e92d3f6f2ec1.mp3",
+          "audioType": "audio/mpeg",
+          "description": "The crew has managed to make it to the execution. Will they be able to rescue Ohzan and do so safely? Special Thanks to: Airgl0w for our theme music JStewIllustrations for our artwork The Badventure Club is a Block Party Network Podcast"
+        },
+        {
+          "id": "d020f950-a953-4164-9c21-ea9af2f47518",
+          "title": "Episode 45 - The Day of Reckoning",
+          "pubDate": "2026-01-28T13:33:00.000Z",
+          "durationSeconds": 5472,
+          "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/114468010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-24%2Fce058f45-c197-e768-f0a8-0a2f6428213f.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Our crew escaped the Ministry of Truth by the skin of their teeth, but according to the people, the timeline has been accelerated. Will our heroes reach Ohzan in time? Special thanks to: Airgl0w for our theme music JStewIllustrations for our artwork The Badventure Club is a Bloc…"
+        },
+        {
+          "id": "0d27a4da-874b-4b31-90ee-dc60d099988a",
+          "title": "Episode 44 - Alistair in Chains",
+          "pubDate": "2026-01-14T15:05:00.000Z",
+          "durationSeconds": 7684,
+          "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/113882335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2Fd86f3b71-1d33-027f-adb3-40fd0c8a31a3.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Our heroes are back, having just entered a chamber and hearing a voice say \"Let's begin\" - they're gearing up for their most intense battle yet! The Badventure Club is a Block Party Network Podcast Special thanks to : Airgl0w for our theme music JStewIllustrations for our artwor…"
+        },
+        {
+          "id": "857e2498-6442-4ffa-80ae-5096f0352f2b",
+          "title": "Christmas 2025 - Part 3",
+          "pubDate": "2026-01-08T15:20:00.000Z",
+          "durationSeconds": 4738,
+          "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/113672937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-8%2F195e240e-b6cf-e226-d751-0a0b28c4ced3.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Here we are at the thrilling conclusion of our Christmas arc! Will our three bros defeat the lich? Is Emily involved? Are the kids alright? The Badventure Club is a Block Party Network Podcast Special Thanks to: Airgl0w for our theme music JStewIllustrations for our artwork"
+        },
+        {
+          "id": "bdf15c92-20a3-4d70-bad3-6edd1a1d1c8b",
+          "title": "Christmas 2025 - Part 2",
+          "pubDate": "2025-12-17T15:25:00.000Z",
+          "durationSeconds": 2828,
+          "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/112751486/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-17%2F120a2a9e-65fd-afe2-47e2-557240200556.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Our 3 bros are heading into a cave, ready to kick some kobold butt! How will they save these kids? And how close are they to finding the Bitch Lich? The Badventure Club is a Block Party Network Podcast Special Thanks to: Airgl0w for our theme song JStewIllustrations for our artw…"
+        },
+        {
+          "id": "068092ba-d7af-4138-89b5-923bb6120bf8",
+          "title": "Christmas 2025 - Part 1",
+          "pubDate": "2025-12-10T16:00:00.000Z",
+          "durationSeconds": 3646,
+          "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/112406786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-10%2F0f5ee35d-b121-49e4-7232-9f4710c9ddae.mp3",
+          "audioType": "audio/mpeg",
+          "description": "We join 3 bros - Trout, Luke and Pip on a journey back to Luke's hometown. But trouble is brewing in the cozy Whomvale as a lich who's a bitch has made the town frown. The Badventure Club is a Block Party Network Podcast Special thanks to: Airgl0w for our theme song JStewIllustr…"
+        },
+        {
+          "id": "353fed80-2f75-44d1-92e8-73611e287f01",
+          "title": "Episode 43 - A Fight in the Catacombs",
+          "pubDate": "2025-11-07T15:06:00.000Z",
+          "durationSeconds": 4964,
+          "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/110813856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-6%2F410761583-44100-2-5fa815db18fef.m4a",
+          "audioType": "audio/x-m4a",
+          "description": "The party has found Lucie, but will they all make it out of these dungeons alive? Special Thanks to: Airgl0w for our theme music JStewIllustrations for our artwork The Badventure Club is a Block Party Network podcast"
+        },
+        {
+          "id": "2a1468cb-5946-4869-9f44-e0aaffbaaa35",
+          "title": "Episode 42 - A Crisis of Faith",
+          "pubDate": "2025-10-15T14:20:00.000Z",
+          "durationSeconds": 3948,
+          "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/109688419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-15%2F409283501-44100-2-8df1631c4d2b.m4a",
+          "audioType": "audio/x-m4a",
+          "description": "The party continues to delve into the depths of the Ministry of Unity. As they take Clarence along deeper and deeper, what kind of sick truths will they uncover? Special Thanks to: Airgl0w for our theme song JStewIllustrations for our artwork The Badventure Club is a Block Party…"
+        }
+      ]
+    },
+    {
+      "slug": "dungeons-dragons-daughters",
+      "name": "Dungeons & Dragons & Daughters",
+      "tagline": "A dad and his daughters, eight years and two campaigns deep.",
+      "logo": "assets/images/logos/dungeons-dragons-daughters.jpg",
+      "platformLinks": {
+        "apple": "https://podcasts.apple.com/us/podcast/dungeons-dragons-daughters/id1243939195",
+        "spotify": "https://open.spotify.com/show/3XxcR5unlIswafM6vtc1g7",
+        "podbean": "https://dungeonsdragonsdaughters.podbean.com/"
+      },
+      "resolvedFeedUrl": "https://feed.podbean.com/dungeonsdragonsdaughters/feed.xml",
+      "lastFetchedAt": "2026-08-06T13:47:06.000Z",
+      "lastFetchOk": true,
+      "episodes": [
+        {
+          "id": "dungeonsdragonsdaughters.podbean.com/f1e0a052-e4d0-3f89-924f-3ebb0554bb45",
+          "title": "97. DDD The Wild Beyond the Witchlight, Session 27",
+          "pubDate": "2026-07-25T02:34:19.000Z",
+          "durationSeconds": 6003,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/67n5qjyz6ydtt7va/DDD_Episode_97_podbean8uw5b.mp3",
+          "audioType": "audio/mpeg",
+          "description": "This is part 2 of this adventure. TBD sneaks into Endelyn’s room; they find Willow’s brother, Broseph; and then they come face-to-face with Endelyn herself, the dame of unhappy endings. This is a heavy combat episode, and the group accomplishes a milestone when it comes to deali…"
+        },
+        {
+          "id": "dungeonsdragonsdaughters.podbean.com/fbc9365f-0225-3f95-8c01-205527fa988f",
+          "title": "96. DDD The Wild Beyond the Witchlight, Session 26",
+          "pubDate": "2026-07-11T00:11:19.000Z",
+          "durationSeconds": 3662,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/hie4f4hdhgkr6fcc/DDD_Episode_96_podbean9j69q.mp3",
+          "audioType": "audio/mpeg",
+          "description": "This is part 1 of this adventure. The group comes back together, and with no negative consequences. No, really! The acrobatic twins, Gleam and Glister, are reunited and both Lyrup and Willow do their very best to convince them to stay and help with Endelyn before they try and bo…"
+        },
+        {
+          "id": "dungeonsdragonsdaughters.podbean.com/4c0d97d7-8bb0-3d87-9a8b-193fbb60f62c",
+          "title": "95. DDD The Wild Beyond the Witchlight, Session 25",
+          "pubDate": "2026-06-27T05:07:38.000Z",
+          "durationSeconds": 6288,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/r89gpmv5nkhutit5/DDD_Episode_95_podbean6y1al.mp3",
+          "audioType": "audio/mpeg",
+          "description": "TBD splits the party! Most of the group goes with Stagefright, the goblin stage manager, to put on a play for Endelyn, while a smaller group goes off to find the prison in Motherhorn to find Gleam’s twin sister and Willow’s brother! Improv and acrobatic skills are on full displa…"
+        },
+        {
+          "id": "dungeonsdragonsdaughters.podbean.com/18adb975-9ffe-3fb9-ae85-19bdcf22f13d",
+          "title": "94. DDD The Wild Beyond the Witchlight, Session 24",
+          "pubDate": "2026-05-23T19:18:20.000Z",
+          "durationSeconds": 4530,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/re8sia7bkuswdf7u/DDD_Episode_94_podbeanahc8r.mp3",
+          "audioType": "audio/mpeg",
+          "description": "TBD makes it to Motherhorn to do all the things! They are looking for Willow’s little brother, Brosef. They are looking for Gleam’s sister. They are looking to help the people of the fey wild get out from under the shadow of the Hourglass Coven. And when they arrive at Motherhor…"
+        },
+        {
+          "id": "dungeonsdragonsdaughters.podbean.com/fbbc90ac-66fd-37ba-b40d-58908ad543b3",
+          "title": "93. DDD The Wild Beyond the Witchlight, Session 23",
+          "pubDate": "2026-04-07T00:28:59.000Z",
+          "durationSeconds": 5302,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/i8fnjw4uaxiweuwy/DDD_Episode_93_podbean63fji.mp3",
+          "audioType": "audio/mpeg",
+          "description": "True to their new slogan, TBD chooses death with the troupe of eight perytons that have been making Alagarthas’ life miserable in his attempt to light the beacons and get home. In this episode, we officially make the switch to Dungeons & Dragons 5.5 rules and the players get to…"
+        },
+        {
+          "id": "dungeonsdragonsdaughters.podbean.com/15986375-a3b9-3d60-8957-50fbf3afd3ea",
+          "title": "92. DDD The Wild Beyond the Witchlight, Session 22",
+          "pubDate": "2026-02-04T00:58:52.000Z",
+          "durationSeconds": 6219,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/ii9ebthqpw4e3cti/DDD_Episode_92_podbeana04z1.mp3",
+          "audioType": "audio/mpeg",
+          "description": "The beginning of this episode gets serious as we discuss the impact that ICE has had on the state of Minnesota. Parents use your discretion. The actual adventure starts around the 15 minute mark. In this episode TBD finds that they need to defend Amador, the giant dandelion knig…"
+        },
+        {
+          "id": "dungeonsdragonsdaughters.podbean.com/3b46484a-46d7-3381-8d8a-cec15116c4cc",
+          "title": "91. DDD The Wild Beyond the Witchlight, Session 21",
+          "pubDate": "2025-12-15T01:15:17.000Z",
+          "durationSeconds": 6192,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/hdi7efftfdqktpsg/DDD_Episode_91_podbeanbu82n.mp3",
+          "audioType": "audio/mpeg",
+          "description": "TBD makes their way out of Thither and towards Yon. But before they leave Thither completely behind they run into another resident that seems to have a case of mistaken identity. Eventually the group does make it to Yon, with Squirt’s help through the mountains. Here they are in…"
+        },
+        {
+          "id": "dungeonsdragonsdaughters.podbean.com/5123c746-e8f7-315f-b455-c3e5e7c0d604",
+          "title": "90. DDD The Wild Beyond the Witchlight, Session 20",
+          "pubDate": "2025-10-26T21:14:33.000Z",
+          "durationSeconds": 6272,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/giu7hcm7ys3x7jz8/DDD_Episode_90_podbean6ce73.mp3",
+          "audioType": "audio/mpeg",
+          "description": "The breakfast dudes have to deal with Skabatha the hag’s really angry garden! But it’s not like a vegetable garden, and Pinky really has to show off her spells for the group to get through it. The group figures out where they want to go next, and Tude adopts a new coping mechani…"
+        },
+        {
+          "id": "dungeonsdragonsdaughters.podbean.com/0dd78af6-fd7a-3385-b296-ae760b9867ab",
+          "title": "89. DDD The Wild Beyond the Witchlight, Session 19",
+          "pubDate": "2025-09-24T03:46:47.000Z",
+          "durationSeconds": 6236,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/sib3ryqeqxxpb4jy/DDD_Episode_89_podbean9b0jp.mp3",
+          "audioType": "audio/mpeg",
+          "description": "With the group divided in Skabatha’s stronghold of Loomlurch, Lyrup works on freeing the prisoners in the kitchen, while the entire rest of the party moves on to Skabatha’s bedroom to find their lost things. Lyrup is successful through stubborn tenacity - while the rest of TBD i…"
+        },
+        {
+          "id": "dungeonsdragonsdaughters.podbean.com/c0c5b69d-9e15-3d43-81fd-646a3d81e759",
+          "title": "88. DDD The Wild Beyond the Witchlight, Session 18",
+          "pubDate": "2025-09-05T04:01:46.000Z",
+          "durationSeconds": 5700,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/nmv6a5vc4iczig86/DDD_Episode_88_podbean9xa68.mp3",
+          "audioType": "audio/mpeg",
+          "description": "The group tries to move through Skabatha’s fallen tree lair as quickly as they can while the hag is distracted. In this episode, we also level the characters to level 5 as they satisfied this adventures’ milestone leveling requirement of encountering a hag for the first time and…"
+        }
+      ]
+    },
+    {
+      "slug": "knocked-prone",
+      "name": "Knocked Prone",
+      "tagline": "Voice acted actual play, following ordinary teens against extraordinary odds.",
+      "logo": "assets/images/logos/knocked-prone.jpg",
+      "platformLinks": {
+        "apple": "https://podcasts.apple.com/us/podcast/knocked-prone-dungeons-and-dragons-podcast/id1474405410",
+        "spotify": "https://open.spotify.com/show/0Oq2WkvkZaNEpD0rYq9WFQ",
+        "website": "https://www.knockedprone.com/"
+      },
+      "resolvedFeedUrl": "https://rss.buzzsprout.com/2201541.rss",
+      "lastFetchedAt": "2026-08-06T13:47:06.000Z",
+      "lastFetchOk": true,
+      "episodes": [
+        {
+          "id": "Buzzsprout-19573656",
+          "title": "Eberron Ep. 4: Tag, You're It (The Sharnbound Saga)",
+          "pubDate": "2026-07-30T02:00:00.000Z",
+          "durationSeconds": 2410,
+          "audioUrl": "https://www.buzzsprout.com/2201541/episodes/19573656-eberron-ep-4-tag-you-re-it-the-sharnbound-saga.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Send us Fan Mail Who would have thought that tagging a random airship would come back to bite the dnd party? Now, an airship captained by a mysterious Warforged covered in every Dragonmark bears down on the crew&apos;s stolen speedboat, grappling hooks flying and revenge on the…"
+        },
+        {
+          "id": "Buzzsprout-19523227",
+          "title": "Eberron Ep. 3: RiteAid of the Dead (The Sharnbound Saga)",
+          "pubDate": "2026-07-21T01:00:00.000Z",
+          "durationSeconds": 2447,
+          "audioUrl": "https://www.buzzsprout.com/2201541/episodes/19523227-eberron-ep-3-riteaid-of-the-dead-the-sharnbound-saga.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Send us Fan Mail Our Adventurers happen upon a distillery of the Red Water Potion that seems to be permeating the forest floor with its fog. They see a group of sleepwalking zombies surrounding the owner of the Factory, who happens to have access to the party&apos;s ride to Shar…"
+        },
+        {
+          "id": "Buzzsprout-19368330",
+          "title": "Eberron Ep. 2 Redwater Redemption (The Sharnbound Saga)",
+          "pubDate": "2026-06-18T22:00:00.000Z",
+          "durationSeconds": 2568,
+          "audioUrl": "https://www.buzzsprout.com/2201541/episodes/19368330-eberron-ep-2-redwater-redemption-the-sharnbound-saga.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Send us Fan Mail After crash-landing the airship in the daggerwood forest, our party finds themselves in a magical red fog with only a handful of survivors. Wanting to come up with an action plan on how to get out of the forest before the fog makes them fall asleep (potentially…"
+        },
+        {
+          "id": "Buzzsprout-19329289",
+          "title": "Eberron Ep. 1: Frequent Flyers on Spirit Airlines (The Sharnbound Saga)",
+          "pubDate": "2026-06-11T23:00:00.000Z",
+          "durationSeconds": 3627,
+          "audioUrl": "https://www.buzzsprout.com/2201541/episodes/19329289-eberron-ep-1-frequent-flyers-on-spirit-airlines-the-sharnbound-saga.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Send us Fan Mail Welcome to Sharn!!! Well, not yet, I suppose. Our story will begin with three adventurers on their way to a modern-day version of Sharn in the campaign setting of Eberron. This campaign will host a rotating cast of player characters because scheduling is the tru…"
+        },
+        {
+          "id": "Buzzsprout-16742372",
+          "title": "Dead Season Ep. 33 - The Final Portal",
+          "pubDate": "2026-05-29T18:00:00.000Z",
+          "durationSeconds": 3597,
+          "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16742372-dead-season-ep-33-the-final-portal.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Send us Fan Mail Our group of dead souls fight against Hugh Pinkerton as he attempts to steal the will-o-wisp soul of the mortal remains of Eldath in hopes that Hugh can usurp Eldath&apos;s place as a god. Talroth becomes the ultimate thorn in Hugh Pinkerton&apos;s side, Xel sho…"
+        },
+        {
+          "id": "Buzzsprout-16715649",
+          "title": "Dead Season Ep 32 - From Lich To God",
+          "pubDate": "2025-03-01T22:00:00.000Z",
+          "durationSeconds": 2885,
+          "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16715649-dead-season-ep-32-from-lich-to-god.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Send us Fan Mail The party heads into the heart of the Firbolg Fortress to find Hugh Pinkerton and the members of the Falsely Departed mid ritual to return Lady Pinkerton to the Material Plane and to erase Eldath&apos;s place as a God. Javi retries a previously failed plan, Xel…"
+        },
+        {
+          "id": "Buzzsprout-16611329",
+          "title": "Dead Season Ep. 31 - Too Many Cooks in the Apothecary",
+          "pubDate": "2025-02-12T19:00:00.000Z",
+          "durationSeconds": 3438,
+          "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16611329-dead-season-ep-31-too-many-cooks-in-the-apothecary.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Send us Fan Mail The party continues through the final memory of Chai where they find things seem to be put back in order after taking out the soul anomaly. Talroth aids a sick Moosey Moose, Javi learns of his skill in a kitchen, Xel threatens to leave the party, and Chai saves…"
+        },
+        {
+          "id": "Buzzsprout-16582313",
+          "title": "Dead Season Ep 30 - Another Murder on the Feybreaker Engine",
+          "pubDate": "2025-02-07T17:00:00.000Z",
+          "durationSeconds": 3493,
+          "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16582313-dead-season-ep-30-another-murder-on-the-feybreaker-engine.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Send us Fan Mail Traversing through the phylactery factory the party finds a room with the final memory of Chai inside. Chai sits on the edge of her own mortality as the party realizes that her life seems to have been changed by astral forces, and that by correcting the evil add…"
+        },
+        {
+          "id": "Buzzsprout-16528880",
+          "title": "Dead Season Ep 29 - Fusion of A Soul",
+          "pubDate": "2025-01-29T23:00:00.000Z",
+          "durationSeconds": 3158,
+          "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16528880-dead-season-ep-29-fusion-of-a-soul.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Send us Fan Mail After dealing with the miniature figures of Hugh Pinkerton, the party ventures deeper into the Phylactery Factory where they find two Ichor cages like the one that used to contain Delry. The Inhabitants of the Ichor cages have keys to a long wondered mystery of…"
+        },
+        {
+          "id": "Buzzsprout-16485664",
+          "title": "Dead Season Ep 28 - Robo No Mo'",
+          "pubDate": "2025-01-22T20:00:00.000Z",
+          "durationSeconds": 2651,
+          "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16485664-dead-season-ep-28-robo-no-mo.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Send us Fan Mail The party continues through the Falsely Departed Headquarters as they find a room that seems to be dedicated to the death of Javi. The party assists Finn in the fight against a giant Javi bot bringing their own party member&apos;s life to an abrupt stop. Chai pu…"
+        }
+      ]
+    },
+    {
+      "slug": "how-not-to-dm",
+      "name": "How Not to DM",
+      "tagline": "Conversations with dungeon masters about the mistakes that taught them the most.",
+      "logo": "assets/images/logos/how-not-to-dm.jpg",
+      "platformLinks": {
+        "apple": "https://podcasts.apple.com/us/podcast/how-not-to-dm/id1562359428",
+        "linktree": "https://linktr.ee/HN2DM"
+      },
+      "resolvedFeedUrl": "https://anchor.fm/s/f7870bac/podcast/rss",
+      "lastFetchedAt": "2026-08-06T13:47:06.000Z",
+      "lastFetchOk": true,
+      "episodes": [
+        {
+          "id": "647c0ef7-ac12-471e-b3d0-e430d413ffb6",
+          "title": "HN2DM Post-Mortem - Final Episode",
+          "pubDate": "2024-04-27T07:00:00.000Z",
+          "durationSeconds": 1080,
+          "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434536-44100-2-97726a679c57bb42.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Thank you all so much for listening! It means a lot to me. Find me over on the Dungeon Master's Block Links DMB Linktree How Not to DM Links How Not to DM Linktree Sponsor Links Episodify.com Affiliate Links 1985 Games Gemmed Firefly: Use Code DRAGON for 15% Off! Hero Forge Adve…"
+        },
+        {
+          "id": "4369e37f-e678-47d0-94df-405cb7a98f20",
+          "title": "Season 4 Part 2 Update!",
+          "pubDate": "2024-01-27T11:00:00.000Z",
+          "durationSeconds": 257,
+          "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434539-44100-2-3e3fe2f4ecf103bc.mp3",
+          "audioType": "audio/mpeg",
+          "description": "How Not to DM Links How Not to DM Linktree Sponsor Links Episodify.com Adventure Dice Advent Calendars - Use HN2DM for 10% Off! Affiliate Links 1985 Games Gemmed Firefly: Use Code DRAGON for 15% Off! Hero Forge Adventure Dice - Use Code HN2DM for 10% off! DM's Guild DriveThru RP…"
+        },
+        {
+          "id": "d938d8c0-97b0-4b8e-84b5-40fe2c6ce5c3",
+          "title": "Benjamin and Dane Overthink the Magic in D&D",
+          "pubDate": "2023-11-15T11:00:00.000Z",
+          "durationSeconds": 3431,
+          "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434546-44100-2-fd655f31c1ab2cc3.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Benjamin and Dane liked to think about the real-life implications of the existence of certain spells, items, and monsters in their game worlds, and decided to start their show, Dispel Magic, to talk about the most outlandish examples! Guest Links Dispel Magic Twitter SterlingVer…"
+        },
+        {
+          "id": "df5cc942-5d1d-4750-ac4c-0a2f06ea16a1",
+          "title": "Eric Silver Chats Podcasting, Actual Plays, and Unique Storytelling",
+          "pubDate": "2023-11-08T11:00:00.000Z",
+          "durationSeconds": 4392,
+          "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434575-44100-2-bf6a4e40cdf19887.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Eric is an actual play dm, game designer, and a creative professional at multitude where he spends all day helping podcasters make their dreams come true Guest Links Join the Party Links Eric's Twitter Eric's Work How Not to DM Links How Not to DM Linktree Sponsor Links RPGMatch…"
+        },
+        {
+          "id": "25b15082-d3ec-4951-935b-50221166b93b",
+          "title": "RPG Match Wants You to Find Your RPG Soulmates",
+          "pubDate": "2023-11-01T11:00:00.000Z",
+          "durationSeconds": 3350,
+          "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434632-44100-2-c83ed2a92d4abe83.mp3",
+          "audioType": "audio/mpeg",
+          "description": "RPG Match started working on his website/app after he noticed there wasn't a great place to find people who want to play the same games and the same way as he did. Thus RPG Match was born! Guest Links RPG Match Twitter RPGMatch.org How Not to DM Links How Not to DM Linktree Spon…"
+        },
+        {
+          "id": "dbe0e231-606d-49e5-907f-db2d1ef9f2ba",
+          "title": "Doug Levandowski on Making Kids on Bikes, Kids on Brooms, Teens in Space Feel Different, Special",
+          "pubDate": "2023-10-25T11:00:00.000Z",
+          "durationSeconds": 3239,
+          "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434554-44100-2-49568aa8975ee408.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Doug started his game design career from a random Facebook post to his friends. He's in the middle of working on fulfilling Kids on Bikes 2e and the upcoming Kids in Capes! Guest Links Doug's Itch Page Kids on Bikes Kids on Brooms Teens in Space How Not to DM Links How Not to DM…"
+        },
+        {
+          "id": "54a028af-5471-4d1f-a297-392a223ddacb",
+          "title": "Neil is Adding Authentic Celtic Flavor to His TTRPG, \"Fey Earth\"",
+          "pubDate": "2023-10-18T11:00:00.000Z",
+          "durationSeconds": 4183,
+          "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434571-44100-2-cd072182c3767708.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Neil is the creator of Fey Earth, the TTRPG and actual play heavily influenced by real Celtic myth that he grew up learning. The game is coming out early 2024 on Kickstarter! Guest Links Fey Earth Links How Not to DM Links How Not to DM Linktree Sponsor Links Episodify.com RPGMa…"
+        },
+        {
+          "id": "8ca6e9a6-fbab-4553-bd27-7c041421f953",
+          "title": "A-Mac is Designing His Gundam TTRPG While Recording the Actual Play \"Feddie Scum\"",
+          "pubDate": "2023-10-11T11:00:00.000Z",
+          "durationSeconds": 2731,
+          "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921867/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434650-44100-2-9be0ecd83098b27f.mp3",
+          "audioType": "audio/mpeg",
+          "description": "A-Mac is designing a Gundam TTRPG from scratch! Join his friends from Dead Set Media on \"Feddie Scum\", an actual play exploring the complex world of Gundam! Guest Links A-Mac Twitter Feddie Scum Website RPG Stress Test Links How Not to DM Links How Not to DM Linktree Sponsor Lin…"
+        },
+        {
+          "id": "6d10cf0f-501c-4b4b-91f8-18af2f407b81",
+          "title": "Riley, GM of Friend & Foe Adventure Co. Embraces the Wacky and",
+          "pubDate": "2023-10-04T11:00:00.000Z",
+          "durationSeconds": 3809,
+          "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434674-44100-2-bb4d54b04508979f.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Riley is the host of two awesome indie podcasts, an actual play Borderlands TTRPG show called Friend & Foe Adventure Co and The Board Game Community Show. Riley loves creating shenanigans for his players and chatting with board game designers. Guest Links Friend & Foe Adventure…"
+        },
+        {
+          "id": "ea128600-8096-4ad7-af82-0d283f357d46",
+          "title": "Will & Brian of The Dungeoncast Talk Origins, Current Projects, and Future Goals",
+          "pubDate": "2023-09-27T11:00:00.000Z",
+          "durationSeconds": 2745,
+          "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434566-44100-2-108b0802a23dc825.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Will and Brian have been making the Dungeoncast for years now, but dare just getting started on engaging, helpful content for GMs and DMs out there. Guest Links TheDungeoncast.com Starseeker's Guide to Draken Star How Not to DM Links How Not to DM Linktree Sponsor Links RPGMatch…"
+        }
+      ]
+    }
+  ]
+}

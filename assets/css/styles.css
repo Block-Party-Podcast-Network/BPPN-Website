@@ -1,0 +1,778 @@
+/* ==========================================================================
+   Block Party Podcast Network
+   --------------------------------------------------------------------------
+   Design read v2 (revised after feedback: the first pass read as too
+   restrained/corporate for a brief that wants MAXIMUM personality):
+   redesign-overhaul fusing two moods on purpose - tavern-after-the-quest
+   celebration + torchlit adventure. The network's own real logo and
+   confetti graphic (recovered from the old site) anchor the brand; a real
+   second accent color (warm gold, sampled from that same confetti asset)
+   is used deliberately alongside the brand teal for festive elements -
+   an explicit override of "one accent" because the brief is a fusion of
+   two moods, not a single restrained one.
+   Dials: DESIGN_VARIANCE 8, MOTION_INTENSITY 7, VISUAL_DENSITY 5.
+   ========================================================================== */
+
+@font-face {
+  font-family: "Bricolage Grotesque";
+  src: url("../fonts/bricolage-grotesque-variable.woff2") format("woff2");
+  font-weight: 200 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  /* -- color: warm dark base (tavern, not boardroom), two deliberate accents -- */
+  --ink: #1a1512;
+  --ink-raised: #241d18;
+  --ink-line: rgb(255 255 255 / 0.1);
+  --text-primary: #f3ead8;
+  --text-muted: #b8ab97;
+
+  --teal: #155c69; /* interactive fills - tuned for contrast under cream text */
+  --teal-tint: #7fd0d9; /* links / small text on dark */
+  --teal-deep: #1d7485; /* true brand teal, matches the real logo exactly */
+  --gold: #e8b34d; /* second accent: party/festive fills */
+  --gold-soft: #ffe6a2; /* true confetti-bar color, decorative only */
+  --ink-on-accent: #241d18; /* text on gold fills */
+  --cream-on-accent: #f3ead8; /* text on teal fills */
+
+  /* -- shape lock: soft cards, pill controls -- */
+  --radius-card: 16px;
+  --radius-pill: 999px;
+
+  /* -- spacing scale -- */
+  --space-1: 0.5rem;
+  --space-2: 1rem;
+  --space-3: 1.5rem;
+  --space-4: 2.5rem;
+  --space-5: 4rem;
+
+  --font-display: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --font-body: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  background: var(--ink);
+  /* a faint echo of the brand's own confetti-bar pattern, running the
+     whole page rather than living in one hero image */
+  background-image: repeating-linear-gradient(
+    90deg,
+    rgb(255 230 162 / 0.05) 0 2px,
+    transparent 2px 64px
+  );
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  /* Inherited by everything, incl. copy that sits directly on the cave map
+     (no card behind it): a tight contact shadow plus a soft diffuse one
+     keeps text readable over the map's linework without having to crush
+     the map itself into invisibility. Harmless no-op look on the solid
+     card backgrounds (show__player, community-card). */
+  text-shadow: 0 1px 2px rgb(0 0 0 / 0.5), 0 2px 10px rgb(0 0 0 / 0.4);
+}
+
+/* -------------------------------------------------------------------- */
+/* Cave map background: one long dungeon map running behind the page.  */
+/* Stacked, feather-edged cave exports (see cave-bg.js for the height   */
+/* sync that keeps this clipped to the real page, not the other way    */
+/* around) with a mid-opacity scrim on top so body copy stays legible. */
+/* -------------------------------------------------------------------- */
+
+.cave-bg {
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  overflow: hidden;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.cave-bg::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--ink);
+  opacity: 0.5;
+}
+
+.cave-bg__img {
+  position: absolute;
+  transform: translateX(-50%);
+  max-width: none;
+}
+
+.masthead,
+main,
+.site-footer {
+  position: relative;
+  z-index: 1;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: var(--teal-tint);
+  text-decoration-color: rgb(127 208 217 / 0.4);
+  text-underline-offset: 0.2em;
+}
+
+a:hover {
+  text-decoration-color: currentColor;
+}
+
+:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: var(--gold);
+  color: var(--ink-on-accent);
+  padding: var(--space-1) var(--space-2);
+  border-radius: 0 0 8px 0;
+  z-index: 10;
+}
+
+.skip-link:focus-visible {
+  left: 0;
+}
+
+/* -------------------------------------------------------------------- */
+/* Masthead                                                             */
+/* -------------------------------------------------------------------- */
+
+.masthead {
+  display: flex;
+  align-items: center;
+  height: 68px;
+  padding-inline: var(--space-3);
+  border-bottom: 1px solid var(--ink-line);
+}
+
+.wordmark {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  color: var(--text-primary);
+  text-decoration: none;
+  font-family: var(--font-display);
+  line-height: 1.05;
+}
+
+.wordmark__mark {
+  height: 32px;
+  width: auto;
+}
+
+.wordmark__line1 {
+  display: block;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.wordmark__line2 {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  letter-spacing: 0.04em;
+}
+
+/* -------------------------------------------------------------------- */
+/* Layout containers                                                    */
+/* -------------------------------------------------------------------- */
+
+main {
+  max-width: 1100px;
+  margin-inline: auto;
+  padding-inline: var(--space-3);
+}
+
+/* -------------------------------------------------------------------- */
+/* Hero: a signboard, not a SaaS banner                                 */
+/* -------------------------------------------------------------------- */
+
+.hero {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-block: var(--space-3) var(--space-5);
+  overflow: visible;
+}
+
+.hero__bunting {
+  width: min(100%, 760px);
+  height: 70px;
+  overflow: visible;
+}
+
+.hero__bunting path {
+  fill: none;
+  stroke: var(--ink-line);
+  stroke-width: 2;
+}
+
+.hero__bunting .flag {
+  transform-origin: top center;
+  animation: bunting-sway 4.5s ease-in-out infinite;
+}
+
+.hero__bunting .flag--gold {
+  fill: var(--gold);
+}
+
+.hero__bunting .flag--teal {
+  fill: var(--teal-deep);
+}
+
+.hero__bunting-flags .flag:nth-child(odd) {
+  animation-delay: -1.2s;
+}
+
+@keyframes bunting-sway {
+  0%,
+  100% {
+    transform: rotate(-2deg);
+  }
+  50% {
+    transform: rotate(2deg);
+  }
+}
+
+.hero__stage {
+  position: relative;
+  max-width: 640px;
+  margin-top: var(--space-2);
+}
+
+.hero__logo {
+  width: min(100%, 520px);
+  margin-inline: auto;
+  filter: drop-shadow(0 18px 34px rgb(0 0 0 / 0.45));
+  animation: logo-rise 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@keyframes logo-rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px) rotate(-1.5deg) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) rotate(-1.5deg) scale(1);
+  }
+}
+
+.hero__subtext {
+  margin-top: var(--space-3);
+  max-width: 46ch;
+  margin-inline: auto;
+  color: var(--text-muted);
+  font-size: 1.05rem;
+}
+
+.hero__confetti-fall {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.confetti-piece {
+  position: absolute;
+  top: -8%;
+  opacity: 0;
+  transform: rotate(var(--confetti-rot-start, 0deg));
+  animation-name: confetti-fall;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.confetti-piece rect {
+  fill: var(--gold);
+}
+
+.confetti-piece--gold-soft rect {
+  fill: var(--gold-soft);
+}
+
+.confetti-piece--teal-deep rect {
+  fill: var(--teal-deep);
+}
+
+.confetti-piece--teal-tint rect {
+  fill: var(--teal-tint);
+}
+
+@keyframes confetti-fall {
+  0% {
+    top: -8%;
+    opacity: 0;
+    transform: rotate(var(--confetti-rot-start, 0deg));
+  }
+  12% {
+    opacity: 0.85;
+  }
+  75% {
+    opacity: 0.85;
+  }
+  100% {
+    top: 100%;
+    opacity: 0;
+    transform: rotate(var(--confetti-spin, 180deg));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .confetti-piece {
+    animation: none;
+    display: none;
+  }
+}
+
+/* -------------------------------------------------------------------- */
+/* Buttons                                                              */
+/* -------------------------------------------------------------------- */
+
+.button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: var(--space-3);
+  padding: 0.85rem 1.75rem;
+  border-radius: var(--radius-pill);
+  font-weight: 700;
+  font-size: 1.05rem;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.2s ease;
+}
+
+.button--primary {
+  background: var(--gold);
+  color: var(--ink-on-accent);
+  /* solid fill, not the cave map, so the page-wide text-shadow (meant to
+     keep copy readable over linework) just reads as blur here */
+  text-shadow: none;
+  box-shadow: 0 6px 0 0 color-mix(in srgb, var(--gold) 60%, black 25%);
+}
+
+.button--primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 0 0 color-mix(in srgb, var(--gold) 60%, black 25%);
+}
+
+.button:active {
+  transform: translateY(2px);
+  box-shadow: 0 2px 0 0 color-mix(in srgb, var(--gold) 60%, black 25%);
+}
+
+.button__sword {
+  width: 20px;
+  height: 20px;
+  fill: var(--ink-on-accent);
+  transition: transform 0.4s ease;
+}
+
+.button--primary:hover .button__sword {
+  transform: rotate(-18deg) scale(1.15);
+}
+
+/* -------------------------------------------------------------------- */
+/* Shows section                                                        */
+/* -------------------------------------------------------------------- */
+
+.shows {
+  padding-block: var(--space-4) var(--space-5);
+}
+
+.shows__intro {
+  position: relative;
+  max-width: 56ch;
+  margin-bottom: var(--space-4);
+}
+
+.shows__intro h2 {
+  font-size: clamp(2rem, 2.4vw + 1rem, 2.75rem);
+}
+
+.shows__intro p {
+  margin-top: var(--space-1);
+  color: var(--text-muted);
+}
+
+.show {
+  position: relative;
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: var(--space-4);
+  padding-block: var(--space-4);
+  border-top: 1px dashed var(--ink-line);
+}
+
+.show:first-of-type {
+  border-top: none;
+}
+
+.show__art {
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: var(--radius-card);
+  object-fit: cover;
+  border: 3px solid var(--ink-raised);
+  outline: 1px solid var(--ink-line);
+  transform: rotate(-2deg);
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.show:nth-of-type(even) .show__art {
+  transform: rotate(2deg);
+}
+
+.show:hover .show__art {
+  transform: rotate(0deg) scale(1.03);
+}
+
+.show__name {
+  margin-top: var(--space-2);
+  font-size: 1.25rem;
+}
+
+.show__tagline {
+  margin-top: 0.4rem;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.show__links {
+  margin-top: var(--space-2);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.9rem;
+  font-size: 0.85rem;
+}
+
+/* -------------------------------------------------------------------- */
+/* Player                                                                */
+/* -------------------------------------------------------------------- */
+
+.show__player {
+  background: var(--ink-raised);
+  border: 1px solid var(--ink-line);
+  border-radius: var(--radius-card);
+  padding: var(--space-3);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.show:hover .show__player {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgb(0 0 0 / 0.35);
+}
+
+.show__player-loading,
+.show__player-empty,
+.show__player-notice {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.show__player-notice {
+  margin-top: var(--space-2);
+}
+
+.player__now-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-on-accent);
+  background: var(--gold-soft);
+  padding: 0.15rem 0.6rem;
+  border-radius: var(--radius-pill);
+}
+
+.player__now-title {
+  margin-top: 0.5rem;
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.player__now audio {
+  width: 100%;
+  margin-top: var(--space-2);
+  accent-color: var(--teal-deep);
+}
+
+.player__now-meta {
+  margin-top: 0.5rem;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.player__more {
+  margin-top: var(--space-3);
+  border-top: 1px dashed var(--ink-line);
+  padding-top: var(--space-2);
+}
+
+.player__more summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--text-primary);
+}
+
+.player__more summary::marker {
+  color: var(--gold);
+}
+
+.player__list {
+  list-style: none;
+  margin: var(--space-2) 0 0;
+  padding: 0;
+  max-height: 320px;
+  overflow-y: auto;
+}
+
+.player__list-row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--space-2);
+  padding: 0.6rem 0.4rem;
+  border-radius: 8px;
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.player__list-row:hover,
+.player__list-row:focus-visible {
+  background: var(--ink-line);
+}
+
+.player__list-title {
+  font-size: 0.9rem;
+}
+
+.player__list-meta {
+  flex-shrink: 0;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+}
+
+/* -------------------------------------------------------------------- */
+/* Community: Patreon + Discord                                        */
+/* -------------------------------------------------------------------- */
+
+.community {
+  padding-block: var(--space-4) var(--space-5);
+  border-top: 1px solid var(--ink-line);
+}
+
+.community__intro {
+  max-width: 56ch;
+  margin-bottom: var(--space-4);
+}
+
+.community__intro h2 {
+  font-size: clamp(1.75rem, 2vw + 1rem, 2.25rem);
+}
+
+.community__intro p {
+  margin-top: var(--space-1);
+  color: var(--text-muted);
+}
+
+.community__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-3);
+}
+
+.community-card {
+  background: var(--ink-raised);
+  border: 1px solid var(--ink-line);
+  border-radius: var(--radius-card);
+  padding: var(--space-3);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.community-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgb(0 0 0 / 0.35);
+}
+
+.community-card__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius-pill);
+}
+
+.community-card__icon svg {
+  width: 22px;
+  height: 22px;
+}
+
+.community-card--gold .community-card__icon {
+  background: rgb(232 179 77 / 0.15);
+  color: var(--gold);
+}
+
+.community-card--teal .community-card__icon {
+  background: rgb(29 116 133 / 0.18);
+  color: var(--teal-tint);
+}
+
+.community-card h3 {
+  margin-top: var(--space-2);
+  font-size: 1.15rem;
+}
+
+.community-card p {
+  margin-top: 0.4rem;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.button--outline {
+  margin-top: var(--space-3);
+  background: none;
+  box-shadow: none;
+  padding: 0.7rem 1.4rem;
+  font-size: 0.95rem;
+}
+
+.button--outline-gold {
+  border: 2px solid var(--gold);
+  color: var(--gold);
+}
+
+.button--outline-gold:hover {
+  background: var(--gold);
+  color: var(--ink-on-accent);
+  transform: translateY(-2px);
+}
+
+.button--outline-teal {
+  border: 2px solid var(--teal-tint);
+  color: var(--teal-tint);
+}
+
+.button--outline-teal:hover {
+  background: var(--teal-tint);
+  color: var(--ink-on-accent);
+  transform: translateY(-2px);
+}
+
+.button--outline:active {
+  box-shadow: none;
+}
+
+/* -------------------------------------------------------------------- */
+/* Footer                                                                */
+/* -------------------------------------------------------------------- */
+
+.site-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  border-top: 1px solid var(--ink-line);
+  padding: var(--space-4) var(--space-3);
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.site-footer__mark {
+  opacity: 0.7;
+}
+
+/* -------------------------------------------------------------------- */
+/* Responsive: single-column collapse below 768px                      */
+/* -------------------------------------------------------------------- */
+
+@media (max-width: 768px) {
+  .hero {
+    padding-block: var(--space-3) var(--space-4);
+  }
+
+  .show {
+    grid-template-columns: 1fr;
+  }
+
+  .show__art {
+    width: 120px;
+  }
+
+  .community__grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* -------------------------------------------------------------------- */
+/* Reduced motion                                                        */
+/* -------------------------------------------------------------------- */
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition-duration: 0.001ms !important;
+    animation-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .hero__logo {
+    animation: none;
+    transform: none;
+  }
+}

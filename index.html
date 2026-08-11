@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Block Party Podcast Network</title>
+  <meta name="description" content="Six Dungeons &amp; Dragons podcasts under one network: actual play campaigns, advice for dungeon masters, and the people running the table." />
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml" />
+  <link rel="preload" href="assets/fonts/bricolage-grotesque-variable.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <!--
+    One long dungeon map running behind the whole page: 13 cave exports,
+    resized to a shared grid-square size and feather-faded at the edges so
+    consecutive maps blend into each other (and into the page background)
+    instead of showing hard rectangle seams. cave-bg.js sizes this layer to
+    the real page height so maps past the fold stay clipped and never fetch.
+  -->
+  <div class="cave-bg" aria-hidden="true">
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/catacombs_of_terror.webp" alt="" decoding="async" width="2295" height="2159" style="top:0px; left:calc(50% + -70px);" />
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/emberlook_chasm.webp" alt="" decoding="async" width="1802" height="2071" style="top:1468px; left:calc(50% + 50px);" />
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/farwind_depths.webp" alt="" decoding="async" width="3114" height="2271" style="top:2876px; left:calc(50% + -40px);" />
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/frozen_halls.webp" alt="" decoding="async" width="1653" height="1650" style="top:4420px; left:calc(50% + 90px);" />
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/grimstone_labyrinth.webp" alt="" decoding="async" width="2559" height="2836" style="top:5542px; left:calc(50% + -60px);" />
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/hollow_of_illusions.webp" alt="" decoding="async" width="1766" height="1962" style="top:7470px; left:calc(50% + 30px);" />
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/hollows_of_reflection.webp" alt="" decoding="async" width="1744" height="1589" style="top:8804px; left:calc(50% + -90px);" />
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/obsidian_passage.webp" alt="" decoding="async" width="1682" height="1791" style="top:9885px; left:calc(50% + 60px);" />
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/ragehorn_subterrane.webp" alt="" decoding="async" width="2324" height="1958" style="top:11103px; left:calc(50% + -30px);" />
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/shadow_caves.webp" alt="" decoding="async" width="2307" height="2458" style="top:12434px; left:calc(50% + 80px);" />
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/shadow_labyrinth.webp" alt="" decoding="async" width="2230" height="2665" style="top:14105px; left:calc(50% + -50px);" />
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/wailing_depths.webp" alt="" decoding="async" width="3037" height="2270" style="top:15917px; left:calc(50% + 40px);" />
+    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/westskull_mines.webp" alt="" decoding="async" width="2553" height="1782" style="top:17461px; left:calc(50% + -20px);" />
+  </div>
+
+  <a class="skip-link" href="#shows">Skip to shows</a>
+
+  <header class="masthead">
+    <a href="#top" class="wordmark">
+      <img class="wordmark__mark" src="assets/images/brand/logo-mark.png" alt="" width="29" height="35" />
+      <span class="wordmark__text">
+        <span class="wordmark__line1">Block Party</span>
+        <span class="wordmark__line2">Podcast Network</span>
+      </span>
+    </a>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <svg class="hero__bunting" viewBox="0 0 800 90" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+        <path d="M40,20 L120,32 L200,42.5 L280,50.3 L360,54.5 L440,54.5 L520,50.3 L600,42.5 L680,32 L760,20" />
+        <g class="hero__bunting-flags">
+          <polygon points="23,20 57,20 40,66" class="flag flag--gold" />
+          <polygon points="103,32 137,32 120,78" class="flag flag--teal" />
+          <polygon points="183,42.5 217,42.5 200,88.5" class="flag flag--gold" />
+          <polygon points="263,50.3 297,50.3 280,96.3" class="flag flag--teal" />
+          <polygon points="343,54.5 377,54.5 360,100.5" class="flag flag--gold" />
+          <polygon points="423,54.5 457,54.5 440,100.5" class="flag flag--teal" />
+          <polygon points="503,50.3 537,50.3 520,96.3" class="flag flag--gold" />
+          <polygon points="583,42.5 617,42.5 600,88.5" class="flag flag--teal" />
+          <polygon points="663,32 697,32 680,78" class="flag flag--gold" />
+          <polygon points="743,20 777,20 760,66" class="flag flag--teal" />
+        </g>
+      </svg>
+
+      <div class="hero__stage">
+        <h1>
+          <img
+            class="hero__logo"
+            src="assets/images/brand/logo-wordmark.png"
+            alt="The Block Party Podcast Network"
+            width="650"
+            height="320"
+          />
+        </h1>
+        <p class="hero__subtext">
+          Six Dungeons &amp; Dragons podcasts, one riotous network: campaigns,
+          actual play, and advice from the people running the table.
+        </p>
+        <a class="button button--primary" href="#shows">
+          <span>Join the party</span>
+          <svg class="button__sword" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <g transform="rotate(38 12 12)">
+              <path d="M12,1 L13.4,4 L13.4,14 L10.6,14 L10.6,4 Z
+                       M6,14 L18,14 L18,16.2 L6,16.2 Z
+                       M10.3,16.2 L13.7,16.2 L13.7,20.3 L10.3,20.3 Z
+                       M10,20.3 L14,20.3 L12,22.7 Z" />
+            </g>
+          </svg>
+        </a>
+      </div>
+
+      <!--
+        Confetti drifting down from the top of the hero rather than sitting
+        as two static bursts. Each piece is one tiny <rect>; left position,
+        size, timing, and spin are hand-varied per piece (inline style) for
+        a natural, non-repeating fall. Pieces fade out via the `top`
+        keyframe below, which resolves against this container's own
+        height (`inset: 0` on a hero that sizes to its content), so the
+        fade lands near the bottom of the hero at any viewport width.
+      -->
+      <div class="hero__confetti-fall" aria-hidden="true">
+        <svg class="confetti-piece confetti-piece--teal-deep" viewBox="0 0 8 13" style="left:97.0%; width:8px; height:13px; animation-duration:8.22s; animation-delay:-0.27s; --confetti-rot-start:59deg; --confetti-spin:118deg;" focusable="false"><rect width="8" height="13" /></svg>
+        <svg class="confetti-piece confetti-piece--teal-tint" viewBox="0 0 7 14" style="left:25.7%; width:7px; height:14px; animation-duration:6.20s; animation-delay:-8.21s; --confetti-rot-start:94deg; --confetti-spin:1deg;" focusable="false"><rect width="7" height="14" /></svg>
+        <svg class="confetti-piece confetti-piece--teal-tint" viewBox="0 0 6 12" style="left:43.9%; width:6px; height:12px; animation-duration:9.89s; animation-delay:-0.04s; --confetti-rot-start:30deg; --confetti-spin:-133deg;" focusable="false"><rect width="6" height="12" /></svg>
+        <svg class="confetti-piece confetti-piece--teal-deep" viewBox="0 0 7 12" style="left:89.0%; width:7px; height:12px; animation-duration:7.56s; animation-delay:-8.01s; --confetti-rot-start:91deg; --confetti-spin:-41deg;" focusable="false"><rect width="7" height="12" /></svg>
+        <svg class="confetti-piece confetti-piece--gold-soft" viewBox="0 0 7 15" style="left:49.2%; width:7px; height:15px; animation-duration:9.69s; animation-delay:-7.91s; --confetti-rot-start:-46deg; --confetti-spin:59deg;" focusable="false"><rect width="7" height="15" /></svg>
+        <svg class="confetti-piece confetti-piece--gold" viewBox="0 0 4 7" style="left:78.5%; width:4px; height:7px; animation-duration:7.46s; animation-delay:-2.58s; --confetti-rot-start:45deg; --confetti-spin:-62deg;" focusable="false"><rect width="4" height="7" /></svg>
+        <svg class="confetti-piece confetti-piece--gold-soft" viewBox="0 0 5 9" style="left:35.5%; width:5px; height:9px; animation-duration:6.05s; animation-delay:-1.97s; --confetti-rot-start:77deg; --confetti-spin:59deg;" focusable="false"><rect width="5" height="9" /></svg>
+        <svg class="confetti-piece confetti-piece--teal-tint" viewBox="0 0 5 10" style="left:41.2%; width:5px; height:10px; animation-duration:8.77s; animation-delay:-3.29s; --confetti-rot-start:25deg; --confetti-spin:-66deg;" focusable="false"><rect width="5" height="10" /></svg>
+        <svg class="confetti-piece confetti-piece--teal-deep" viewBox="0 0 4 7" style="left:68.9%; width:4px; height:7px; animation-duration:9.55s; animation-delay:-5.35s; --confetti-rot-start:144deg; --confetti-spin:235deg;" focusable="false"><rect width="4" height="7" /></svg>
+        <svg class="confetti-piece confetti-piece--gold-soft" viewBox="0 0 5 10" style="left:22.7%; width:5px; height:10px; animation-duration:5.52s; animation-delay:-4.94s; --confetti-rot-start:-122deg; --confetti-spin:-255deg;" focusable="false"><rect width="5" height="10" /></svg>
+        <svg class="confetti-piece confetti-piece--teal-tint" viewBox="0 0 7 15" style="left:31.0%; width:7px; height:15px; animation-duration:9.95s; animation-delay:-5.00s; --confetti-rot-start:-129deg; --confetti-spin:7deg;" focusable="false"><rect width="7" height="15" /></svg>
+        <svg class="confetti-piece confetti-piece--teal-tint" viewBox="0 0 4 8" style="left:57.0%; width:4px; height:8px; animation-duration:8.22s; animation-delay:-8.72s; --confetti-rot-start:-64deg; --confetti-spin:-155deg;" focusable="false"><rect width="4" height="8" /></svg>
+        <svg class="confetti-piece confetti-piece--teal-tint" viewBox="0 0 6 10" style="left:2.3%; width:6px; height:10px; animation-duration:9.17s; animation-delay:-5.27s; --confetti-rot-start:-166deg; --confetti-spin:-242deg;" focusable="false"><rect width="6" height="10" /></svg>
+        <svg class="confetti-piece confetti-piece--gold" viewBox="0 0 6 10" style="left:13.7%; width:6px; height:10px; animation-duration:5.99s; animation-delay:-9.89s; --confetti-rot-start:141deg; --confetti-spin:314deg;" focusable="false"><rect width="6" height="10" /></svg>
+        <svg class="confetti-piece confetti-piece--gold" viewBox="0 0 5 9" style="left:81.5%; width:5px; height:9px; animation-duration:9.85s; animation-delay:-0.73s; --confetti-rot-start:-102deg; --confetti-spin:-229deg;" focusable="false"><rect width="5" height="9" /></svg>
+        <svg class="confetti-piece confetti-piece--gold" viewBox="0 0 5 10" style="left:10.3%; width:5px; height:10px; animation-duration:7.37s; animation-delay:-1.01s; --confetti-rot-start:-66deg; --confetti-spin:-103deg;" focusable="false"><rect width="5" height="10" /></svg>
+        <svg class="confetti-piece confetti-piece--gold" viewBox="0 0 6 10" style="left:60.3%; width:6px; height:10px; animation-duration:5.92s; animation-delay:-8.77s; --confetti-rot-start:139deg; --confetti-spin:72deg;" focusable="false"><rect width="6" height="10" /></svg>
+        <svg class="confetti-piece confetti-piece--teal-deep" viewBox="0 0 8 17" style="left:7.9%; width:8px; height:17px; animation-duration:8.98s; animation-delay:-9.62s; --confetti-rot-start:8deg; --confetti-spin:67deg;" focusable="false"><rect width="8" height="17" /></svg>
+        <svg class="confetti-piece confetti-piece--gold" viewBox="0 0 5 8" style="left:92.0%; width:5px; height:8px; animation-duration:6.72s; animation-delay:-1.78s; --confetti-rot-start:159deg; --confetti-spin:190deg;" focusable="false"><rect width="5" height="8" /></svg>
+        <svg class="confetti-piece confetti-piece--teal-tint" viewBox="0 0 6 12" style="left:83.3%; width:6px; height:12px; animation-duration:6.57s; animation-delay:-10.63s; --confetti-rot-start:-42deg; --confetti-spin:22deg;" focusable="false"><rect width="6" height="12" /></svg>
+        <svg class="confetti-piece confetti-piece--teal-tint" viewBox="0 0 5 10" style="left:52.0%; width:5px; height:10px; animation-duration:7.70s; animation-delay:-0.07s; --confetti-rot-start:47deg; --confetti-spin:-55deg;" focusable="false"><rect width="5" height="10" /></svg>
+        <svg class="confetti-piece confetti-piece--gold" viewBox="0 0 5 10" style="left:65.9%; width:5px; height:10px; animation-duration:7.06s; animation-delay:-8.50s; --confetti-rot-start:-30deg; --confetti-spin:-5deg;" focusable="false"><rect width="5" height="10" /></svg>
+        <svg class="confetti-piece confetti-piece--gold" viewBox="0 0 4 7" style="left:72.6%; width:4px; height:7px; animation-duration:9.08s; animation-delay:-4.25s; --confetti-rot-start:0deg; --confetti-spin:133deg;" focusable="false"><rect width="4" height="7" /></svg>
+        <svg class="confetti-piece confetti-piece--gold-soft" viewBox="0 0 5 9" style="left:19.6%; width:5px; height:9px; animation-duration:6.94s; animation-delay:-2.65s; --confetti-rot-start:112deg; --confetti-spin:235deg;" focusable="false"><rect width="5" height="9" /></svg>
+      </div>
+    </section>
+
+    <section class="shows" id="shows" aria-labelledby="shows-heading">
+      <div class="shows__intro">
+        <h2 id="shows-heading">Pick a table.</h2>
+        <p>
+          Six tables, six casts, all still running. Press play on the latest
+          session, or dig into the back catalog below it.
+        </p>
+      </div>
+
+      <!--
+        Static shell for each show (art, name, tagline, platform links) is
+        hand-authored here so the page has real content with zero JS. main.js
+        finds each [data-player-slot] by data-slug and fills it with a native
+        audio player + episode list from data/episodes.json. If that fetch
+        ever fails, the platform links below still get a listener to the show.
+      -->
+
+      <section class="show" id="show-dungeon-masters-block">
+        <div class="show__meta">
+          <img class="show__art" src="assets/images/logos/dungeon-masters-block.jpg" alt="Dungeon Master's Block cover art" width="160" height="160" loading="lazy" />
+          <h3 class="show__name">Dungeon Master's Block</h3>
+          <p class="show__tagline">Advice, drills, and war stories for the people running the table.</p>
+          <p class="show__links">
+            <a href="https://podcasts.apple.com/us/podcast/dungeon-masters-block/id902679542">Apple Podcasts</a>
+            <a href="https://open.spotify.com/show/2AqNGKBprlwCNopQM6kxc3">Spotify</a>
+            <a href="https://dungeonmasterblock.podbean.com/">Podbean</a>
+          </p>
+        </div>
+        <div class="show__player" data-player-slot data-slug="dungeon-masters-block">
+          <p class="show__player-loading">Loading episodes…</p>
+        </div>
+      </section>
+
+      <section class="show" id="show-titans-of-allterra">
+        <div class="show__meta">
+          <img class="show__art" src="assets/images/logos/titans-of-allterra.jpg" alt="The Titans of All'Terra cover art" width="160" height="160" loading="lazy" />
+          <h3 class="show__name">The Titans of All'Terra</h3>
+          <p class="show__tagline">A high fantasy campaign spanning kingdoms, told one session at a time.</p>
+          <p class="show__links">
+            <a href="https://podcasts.apple.com/us/podcast/the-titans-of-allterra/id1440428321">Apple Podcasts</a>
+            <a href="https://open.spotify.com/show/5U3jHHiHsnFQ3bW8EEZmBU">Spotify</a>
+          </p>
+        </div>
+        <div class="show__player" data-player-slot data-slug="titans-of-allterra">
+          <p class="show__player-loading">Loading episodes…</p>
+        </div>
+      </section>
+
+      <section class="show" id="show-badventure-club">
+        <div class="show__meta">
+          <img class="show__art" src="assets/images/logos/badventure-club.jpg" alt="The Badventure Club cover art" width="160" height="160" loading="lazy" />
+          <h3 class="show__name">The Badventure Club</h3>
+          <p class="show__tagline">Four friends, one long campaign, and way too many terrible plans.</p>
+          <p class="show__links">
+            <a href="https://podcasts.apple.com/us/podcast/the-badventure-club/id1683253562">Apple Podcasts</a>
+          </p>
+        </div>
+        <div class="show__player" data-player-slot data-slug="badventure-club">
+          <p class="show__player-loading">Loading episodes…</p>
+        </div>
+      </section>
+
+      <section class="show" id="show-dungeons-dragons-daughters">
+        <div class="show__meta">
+          <img class="show__art" src="assets/images/logos/dungeons-dragons-daughters.jpg" alt="Dungeons & Dragons & Daughters cover art" width="160" height="160" loading="lazy" />
+          <h3 class="show__name">Dungeons &amp; Dragons &amp; Daughters</h3>
+          <p class="show__tagline">A dad and his daughters, eight years and two campaigns deep.</p>
+          <p class="show__links">
+            <a href="https://podcasts.apple.com/us/podcast/dungeons-dragons-daughters/id1243939195">Apple Podcasts</a>
+            <a href="https://open.spotify.com/show/3XxcR5unlIswafM6vtc1g7">Spotify</a>
+            <a href="https://dungeonsdragonsdaughters.podbean.com/">Podbean</a>
+          </p>
+        </div>
+        <div class="show__player" data-player-slot data-slug="dungeons-dragons-daughters">
+          <p class="show__player-loading">Loading episodes…</p>
+        </div>
+      </section>
+
+      <section class="show" id="show-knocked-prone">
+        <div class="show__meta">
+          <img class="show__art" src="assets/images/logos/knocked-prone.jpg" alt="Knocked Prone cover art" width="160" height="160" loading="lazy" />
+          <h3 class="show__name">Knocked Prone</h3>
+          <p class="show__tagline">Voice acted actual play, following ordinary teens against extraordinary odds.</p>
+          <p class="show__links">
+            <a href="https://podcasts.apple.com/us/podcast/knocked-prone-dungeons-and-dragons-podcast/id1474405410">Apple Podcasts</a>
+            <a href="https://open.spotify.com/show/0Oq2WkvkZaNEpD0rYq9WFQ">Spotify</a>
+            <a href="https://www.knockedprone.com/">Website</a>
+          </p>
+        </div>
+        <div class="show__player" data-player-slot data-slug="knocked-prone">
+          <p class="show__player-loading">Loading episodes…</p>
+        </div>
+      </section>
+
+      <section class="show" id="show-how-not-to-dm">
+        <div class="show__meta">
+          <img class="show__art" src="assets/images/logos/how-not-to-dm.jpg" alt="How Not to DM cover art" width="160" height="160" loading="lazy" />
+          <h3 class="show__name">How Not to DM</h3>
+          <p class="show__tagline">Conversations with dungeon masters about the mistakes that taught them the most.</p>
+          <p class="show__links">
+            <a href="https://podcasts.apple.com/us/podcast/how-not-to-dm/id1562359428">Apple Podcasts</a>
+            <a href="https://linktr.ee/HN2DM">Linktree</a>
+          </p>
+        </div>
+        <div class="show__player" data-player-slot data-slug="how-not-to-dm">
+          <p class="show__player-loading">Loading episodes…</p>
+        </div>
+      </section>
+    </section>
+
+    <section class="community" id="community" aria-labelledby="community-heading">
+      <div class="community__intro">
+        <h2 id="community-heading">Keep the Party Going</h2>
+        <p>Two more ways to hang out between episodes.</p>
+      </div>
+
+      <div class="community__grid">
+        <article class="community-card community-card--gold">
+          <span class="community-card__icon">
+            <svg viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false">
+              <title>Patreon</title>
+              <path d="M22.957 7.21c-.004-3.064-2.391-5.576-5.191-6.482-3.478-1.125-8.064-.962-11.384.604C2.357 3.231 1.093 7.391 1.046 11.54c-.039 3.411.302 12.396 5.369 12.46 3.765.047 4.326-4.804 6.068-7.141 1.24-1.662 2.836-2.132 4.801-2.618 3.376-.836 5.678-3.501 5.673-7.031Z" />
+            </svg>
+          </span>
+          <h3>Support the table</h3>
+          <p>
+            Extra episodes, ad-free feeds, and a say in what we cover next.
+            Membership starts at $1 a month.
+          </p>
+          <a class="button button--outline button--outline-gold" href="https://www.patreon.com/c/blockpartypodcastnetwork/home">
+            Become a patron
+          </a>
+        </article>
+
+        <article class="community-card community-card--teal">
+          <span class="community-card__icon">
+            <svg viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false">
+              <title>Discord</title>
+              <path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1569 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z" />
+            </svg>
+          </span>
+          <h3>Talk shop in Discord</h3>
+          <p>
+            DMBanter is where listeners and hosts swap prep, homebrew, and
+            whatever went wrong at the table last week.
+          </p>
+          <a class="button button--outline button--outline-teal" href="https://discord.gg/tcW6wPPKWk">
+            Join DMBanter
+          </a>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <img class="site-footer__mark" src="assets/images/brand/logo-mark.png" alt="" width="20" height="24" />
+    <p>Block Party Podcast Network</p>
+    <p class="site-footer__meta">Episode data refreshed from each show's own feed.</p>
+  </footer>
+
+  <script type="module" src="assets/js/main.js"></script>
+  <script type="module" src="assets/js/cave-bg.js"></script>
+</body>
+</html>

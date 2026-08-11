@@ -1,0 +1,17 @@
+{
+  "name": "block-party-podcast-network",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site for the Block Party Podcast Network",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "fetch:episodes": "node scripts/fetch-episodes.mjs",
+    "serve": "npx --yes serve ."
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.10.1"
+  }
+}
