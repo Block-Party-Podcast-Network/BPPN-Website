@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T13:47:06.000Z",
+  "generatedAt": "2026-10-14T23:11:43.032Z",
   "shows": [
     {
       "slug": "dungeon-masters-block",
@@ -12,9 +12,90 @@
         "podbean": "https://dungeonmasterblock.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonmasterblock/feed.xml",
-      "lastFetchedAt": "2026-08-06T13:47:06.000Z",
+      "lastFetchedAt": "2026-10-14T23:11:43.032Z",
       "lastFetchOk": true,
       "episodes": [
+        {
+          "id": "dungeonmasterblock.podbean.com/3c96e9e2-7372-39ad-8a83-13666d5fdd0d",
+          "title": "338: Remonstered (feat. Keith Amman)",
+          "pubDate": "2026-10-06T21:15:05.000Z",
+          "durationSeconds": 2890,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/mbhxge5r9ruksa77/DMB338-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DMs Neal and Derrick sit down and talk to Keith Amman about the changes between 5e2014 and 5e2024. It is a great conversation full of monstrous content! Spyandowl TheMonstersKnow One Foot in Fairyland Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.c…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/64f03937-e605-3dfb-95d2-ffc0b631de04",
+          "title": "Showcase '26: The Badventure Club",
+          "pubDate": "2026-09-30T18:39:55.000Z",
+          "durationSeconds": 4845,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/6arw3sk5pgu2dei2/DMN-26SS3-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DM Neal sits down and talks to Jodran from The Badventure Club to discuss their podcast from the network! The Fight Before Christmas (Pt. 2) Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Club Episode edited by: Neal Pow…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/fe356d4a-0f69-361d-82dc-9ae4466519ef",
+          "title": "337: What Is? Crows (feat. James Introcaso)",
+          "pubDate": "2026-09-23T18:25:11.000Z",
+          "durationSeconds": 4373,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/kf9ue3vyp7phxse5/DMB337-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DM Neal sits down and talks to James Introcaso of MCDM to find out What Is? Crows. Crows: Fortune or Death Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Club Episode edited by: Neal Powell"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/eed4491f-8f7b-30aa-a342-58d6eee1dbeb",
+          "title": "Showcase '26: Knocked Prone",
+          "pubDate": "2026-09-17T06:25:11.000Z",
+          "durationSeconds": 5087,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/3ng8dcud96tricfr/DMN-26SS2-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DMs Neal and Derrick sit down and talks to DM Kade about the Block Party show Knocked Prone and the lessons he has learned along the way. Knocked Prone Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Club Episode edited b…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/bd032df5-6592-3753-a94f-9e32b59f8131",
+          "title": "336: Small Town Problems (feat. Alex Wolfson)",
+          "pubDate": "2026-09-09T07:10:19.000Z",
+          "durationSeconds": 3316,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/id7cywahhsz2295e/DMB336-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DM Neal sits down and talks to Alex Wolfson the Dungeon Master of Small Town DnD Podcast and we talk about keeping the focus of our games small. Small Town DnD Podcast Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Club…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/1aff1fc8-f440-3799-8c51-4e27bfd51844",
+          "title": "Showcase '26: How Not to DM",
+          "pubDate": "2026-09-03T06:44:28.000Z",
+          "durationSeconds": 4268,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/zdxmxg67mfcmzgyk/DMN-26SS1-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DM Neal sits down and talks to DM Derrick about his show How Not to DM and the things he learned form it. How Not 2 DM Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Club Episode edited by: Neal Powell"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/0c34da85-fa0a-3049-8f66-0e1a7e18c8cd",
+          "title": "335: Divine Spotlight; Mystra (feat. 3RPG Podcast)",
+          "pubDate": "2026-08-27T06:40:49.000Z",
+          "durationSeconds": 3001,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/3xtiek466q696nj9/DMB335-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DMs Neal and Derrick sit down and talk to Jay and Sandra from 3RPG Podcast to discuss ways that we can add the god of all magic, Mystra, into our worlds. 3RPG Podcast Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Club E…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/e64dd6e6-17e3-31e3-b88d-1c75181a3932",
+          "title": "DM-Nastics: Skill Check; Woodworking",
+          "pubDate": "2026-08-19T05:14:53.000Z",
+          "durationSeconds": 2175,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/qd7x29zgy4gda2g7/DMN123-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We talk through some woodworking to help our games feel more lived in. Exercise: Woodworking Lightbulb: Tree Spirit Tavern Twitter: @DMs_Block DM Neal's @joatmoniac DM Celeste's @cconowitc…"
+        },
+        {
+          "id": "dungeonmasterblock.podbean.com/ca62ae9e-7343-32a1-a7d9-870f3b8e925d",
+          "title": "334: Effective Narrations (feat. Diego F. Salinas)",
+          "pubDate": "2026-08-11T19:01:10.000Z",
+          "durationSeconds": 3663,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/47xbg6qaes27yi8c/DMB334-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DMs Neal and Derrick sit down and talk to Diego F. Salinas from Twenty Sided Tavern to discuss ways that we can work on our effective narration at our tables. Diego Salinas Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure…"
+        },
         {
           "id": "dungeonmasterblock.podbean.com/91d9fc3a-79d6-3957-9fc8-177ee219402e",
           "title": "DM-Nastics: Players' Bucket List",
@@ -23,87 +104,6 @@
           "audioUrl": "https://mcdn.podbean.com/mf/web/5m86ma5n7xi62gt2/DMN122-Final.mp3",
           "audioType": "audio/mpeg",
           "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We talk through helping players fulfill some must do's Inspiration: 5 Things Players Should Try Exercise: Players' Bucket List Supplement: The Score: How to Stop Playing Somebody Else's Ga…"
-        },
-        {
-          "id": "dungeonmasterblock.podbean.com/67d77813-55f8-3db4-bc4c-ba339c1c67d9",
-          "title": "333: Table Top to Video Games and Back (feat. Sean Gailey)",
-          "pubDate": "2026-07-29T00:20:14.000Z",
-          "durationSeconds": 4497,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/gps5pskpzvm9yz4v/DMB333-Final.mp3",
-          "audioType": "audio/mpeg",
-          "description": "DM Neal sits down and talks to Sean Gailey, Founder of Talesworth Game Studio about how the ouroboros that is table top games and video games and how they influence each other. The Secret of Weepstone Talesworth Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterbl…"
-        },
-        {
-          "id": "dungeonmasterblock.podbean.com/013bdc3b-111e-3b0f-9206-6ccc1eb84ca1",
-          "title": "DM-Nastics: Shadowfell Through",
-          "pubDate": "2026-07-21T09:06:00.000Z",
-          "durationSeconds": 1780,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/z7swid5e4qzbj7dk/DMN121-Final.mp3",
-          "audioType": "audio/mpeg",
-          "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We plunge Dayeimbe's capital into the Shadowfell Inspiration: Discord Exercise Exercise: Shadowfell Through Lifting Partner: Bob World Builder Twitter: @DMs_Block DM Neal's @joatmoniac DM…"
-        },
-        {
-          "id": "dungeonmasterblock.podbean.com/6dea3ebd-4853-3e4b-95b1-4bc75781f826",
-          "title": "332: Ancestral Analysis; Gnomes",
-          "pubDate": "2026-07-15T06:44:46.000Z",
-          "durationSeconds": 2608,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/b4jkbju9zh3mwe6n/DMB332-Final.mp3",
-          "audioType": "audio/mpeg",
-          "description": "DMs Neal and Derrick sit down and talk about the Gnomes of the Gilded Glory of the Gregarious God Garl Glittergold. Bob World Builder Video Noble Knight Games Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Club Episode e…"
-        },
-        {
-          "id": "dungeonmasterblock.podbean.com/da0f787c-4bb4-3bad-9796-0b6b4bc89718",
-          "title": "DM-Nastics: House Rules! Vol. 1",
-          "pubDate": "2026-07-09T04:10:20.000Z",
-          "durationSeconds": 1793,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/q2hmhjyd63z6xea9/DMN120-Final.mp3",
-          "audioType": "audio/mpeg",
-          "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We totally love all these house rules ... for someone else. Inspiration: House Rules for Fun and Memorable Moments Exercise: Talking about House Rules Supplements: The Final Seance Twitter…"
-        },
-        {
-          "id": "dungeonmasterblock.podbean.com/a32c1db0-0682-3923-b29a-32c32ffcdec3",
-          "title": "331: Main Character Energy (feat. Jameson Olsen)",
-          "pubDate": "2026-07-01T07:17:12.000Z",
-          "durationSeconds": 4995,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/tiyembhvtc68pux6/DMB331-Final.mp3",
-          "audioType": "audio/mpeg",
-          "description": "DMs Neal and Derrick sit down with Jameson Olsen of Becoming the Main Character Podcast and discuss the ways we can add more Main Character Energy to our games. Becoming the Main Character Noble Knight Games Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@…"
-        },
-        {
-          "id": "dungeonmasterblock.podbean.com/3afc2330-3177-367e-bdaf-113d9d0dd8f4",
-          "title": "DM-Nastics: Can’t Loot the Body",
-          "pubDate": "2026-06-16T09:00:00.000Z",
-          "durationSeconds": 1485,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/r3quwzqzs5j8ttnc/DMN119-Final.mp3",
-          "audioType": "audio/mpeg",
-          "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: Monsters that can't carry loot, but have some somewhere. Inspiration: Monsters With Hidden Treasure Exercise: Can’t Loot the Body Supplements: Ted's Treasure Trove Twitter: @DMs_Block DM N…"
-        },
-        {
-          "id": "dungeonmasterblock.podbean.com/df92874b-dbcb-37bd-ab3e-59b0e98b376a",
-          "title": "330: Best and Worst; Tier 1 Magic Items",
-          "pubDate": "2026-06-09T21:31:18.000Z",
-          "durationSeconds": 3780,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/qibpc479mdi3cdte/DMB330-Final.mp3",
-          "audioType": "audio/mpeg",
-          "description": "DMs Neal and Derrick sit down and discuss the Best and Worst items to give out in Tier 1. Noble Knight Games Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Club Episode edited by: Neal Powell"
-        },
-        {
-          "id": "dungeonmasterblock.podbean.com/a3d39f73-7fbd-3ca5-af0b-0256488d68d8",
-          "title": "DM-Nastics: Quest for Knowledge!",
-          "pubDate": "2026-06-02T09:00:00.000Z",
-          "durationSeconds": 1932,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/cix3tvnty6rhn38a/DMN118-Final.mp3",
-          "audioType": "audio/mpeg",
-          "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We test our knowledge and talk about all the answers. Inspiration: Diabolical D&D Quiz Exercise: Our brains! Supplements: D&D Trivial Pursuit Twitter: @DMs_Block DM Neal's @joatmoniac DM C…"
-        },
-        {
-          "id": "dungeonmasterblock.podbean.com/4ca03369-2319-39bc-9b61-6057c093201b",
-          "title": "329: Plundering Pop Culture (feat. Dani aka Hofzinser)",
-          "pubDate": "2026-05-28T21:14:09.000Z",
-          "durationSeconds": 3133,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/5ja4d52niwex7u3r/DMB329-Final.mp3",
-          "audioType": "audio/mpeg",
-          "description": "DMs Neal and Derrick sit down with Dani aka Hofzinser from How to be a Better DM to discuss bringing new to your table from anywhere and everywhere! How To Be A Better DM Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Cl…"
         }
       ]
     },
@@ -117,7 +117,7 @@
         "spotify": "https://open.spotify.com/show/5U3jHHiHsnFQ3bW8EEZmBU"
       },
       "resolvedFeedUrl": "https://rss.libsyn.com/shows/136829/destinations/848429.xml",
-      "lastFetchedAt": "2026-08-06T13:47:06.000Z",
+      "lastFetchedAt": "2026-10-14T23:11:43.032Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -221,7 +221,7 @@
         "apple": "https://podcasts.apple.com/us/podcast/the-badventure-club/id1683253562"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/dea6f4d0/podcast/rss",
-      "lastFetchedAt": "2026-08-06T13:47:06.000Z",
+      "lastFetchedAt": "2026-10-14T23:11:43.032Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -327,9 +327,18 @@
         "podbean": "https://dungeonsdragonsdaughters.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonsdragonsdaughters/feed.xml",
-      "lastFetchedAt": "2026-08-06T13:47:06.000Z",
+      "lastFetchedAt": "2026-10-14T23:11:43.032Z",
       "lastFetchOk": true,
       "episodes": [
+        {
+          "id": "dungeonsdragonsdaughters.podbean.com/829730ed-3275-373b-9bcb-084d99dfa1fe",
+          "title": "98. DDD The Wild Beyond the Witchlight, Session 28",
+          "pubDate": "2026-09-05T00:00:00.000Z",
+          "durationSeconds": 5439,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/kd2vzy5eisyfbj4m/DDD_Episode_98_podbean9p6a6.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Endelyn the hag has fled Motherhorn rather than face certain death at the hands of The Breakfast Dudes. Stagefright, the goblin stage manager, offers his services and a tour of the castle now that Endelyn is gone. Searching through the castle, TBD encounters a number of current…"
+        },
         {
           "id": "dungeonsdragonsdaughters.podbean.com/f1e0a052-e4d0-3f89-924f-3ebb0554bb45",
           "title": "97. DDD The Wild Beyond the Witchlight, Session 27",
@@ -410,15 +419,6 @@
           "audioUrl": "https://mcdn.podbean.com/mf/web/sib3ryqeqxxpb4jy/DDD_Episode_89_podbean9b0jp.mp3",
           "audioType": "audio/mpeg",
           "description": "With the group divided in Skabatha’s stronghold of Loomlurch, Lyrup works on freeing the prisoners in the kitchen, while the entire rest of the party moves on to Skabatha’s bedroom to find their lost things. Lyrup is successful through stubborn tenacity - while the rest of TBD i…"
-        },
-        {
-          "id": "dungeonsdragonsdaughters.podbean.com/c0c5b69d-9e15-3d43-81fd-646a3d81e759",
-          "title": "88. DDD The Wild Beyond the Witchlight, Session 18",
-          "pubDate": "2025-09-05T04:01:46.000Z",
-          "durationSeconds": 5700,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/nmv6a5vc4iczig86/DDD_Episode_88_podbean9xa68.mp3",
-          "audioType": "audio/mpeg",
-          "description": "The group tries to move through Skabatha’s fallen tree lair as quickly as they can while the hag is distracted. In this episode, we also level the characters to level 5 as they satisfied this adventures’ milestone leveling requirement of encountering a hag for the first time and…"
         }
       ]
     },
@@ -433,9 +433,18 @@
         "website": "https://www.knockedprone.com/"
       },
       "resolvedFeedUrl": "https://rss.buzzsprout.com/2201541.rss",
-      "lastFetchedAt": "2026-08-06T13:47:06.000Z",
+      "lastFetchedAt": "2026-10-14T23:11:43.032Z",
       "lastFetchOk": true,
       "episodes": [
+        {
+          "id": "Buzzsprout-19698304",
+          "title": "Eberron Ep. 5 - Free Guns (The Lower Dura Saga)",
+          "pubDate": "2026-08-25T04:00:00.000Z",
+          "durationSeconds": 5114,
+          "audioUrl": "https://www.buzzsprout.com/2201541/episodes/19698304-eberron-ep-5-free-guns-the-lower-dura-saga.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Send us Fan Mail Upon arriving in Sharn, the party finds themselves surrounded by the spoils of knowing a famous Red Water Supplier. The party looks for a Skyship to send back to their friends in the forest and keeps an eye out for the Warforged covered in Dragonmarks. Support t…"
+        },
         {
           "id": "Buzzsprout-19573656",
           "title": "Eberron Ep. 4: Tag, You're It (The Sharnbound Saga)",
@@ -516,15 +525,6 @@
           "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16528880-dead-season-ep-29-fusion-of-a-soul.mp3",
           "audioType": "audio/mpeg",
           "description": "Send us Fan Mail After dealing with the miniature figures of Hugh Pinkerton, the party ventures deeper into the Phylactery Factory where they find two Ichor cages like the one that used to contain Delry. The Inhabitants of the Ichor cages have keys to a long wondered mystery of…"
-        },
-        {
-          "id": "Buzzsprout-16485664",
-          "title": "Dead Season Ep 28 - Robo No Mo'",
-          "pubDate": "2025-01-22T20:00:00.000Z",
-          "durationSeconds": 2651,
-          "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16485664-dead-season-ep-28-robo-no-mo.mp3",
-          "audioType": "audio/mpeg",
-          "description": "Send us Fan Mail The party continues through the Falsely Departed Headquarters as they find a room that seems to be dedicated to the death of Javi. The party assists Finn in the fight against a giant Javi bot bringing their own party member&apos;s life to an abrupt stop. Chai pu…"
         }
       ]
     },
@@ -538,7 +538,7 @@
         "linktree": "https://linktr.ee/HN2DM"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/f7870bac/podcast/rss",
-      "lastFetchedAt": "2026-08-06T13:47:06.000Z",
+      "lastFetchedAt": "2026-10-14T23:11:43.032Z",
       "lastFetchOk": true,
       "episodes": [
         {
