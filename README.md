@@ -41,8 +41,9 @@ for shows configured with `appleId`), fetches it, and rewrites
 previous data is carried over (`lastFetchOk: false` in the JSON) rather than
 breaking the whole page - the other five shows are unaffected.
 
-This is a **manual** step for now. A scheduled refresh (e.g. a GitHub Action
-running this on a cron) is a reasonable follow-up but isn't set up yet.
+It also runs hourly via `.github/workflows/refresh-episodes.yml`, which
+commits `data/episodes.json` only when episode content changed (timestamp-only
+changes are ignored). Trigger it manually from the Actions tab if needed.
 
 ## Adding a show
 
