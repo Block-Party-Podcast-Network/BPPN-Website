@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T23:11:43.032Z",
+  "generatedAt": "2026-10-15T07:23:35.362Z",
   "shows": [
     {
       "slug": "dungeon-masters-block",
@@ -12,9 +12,18 @@
         "podbean": "https://dungeonmasterblock.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonmasterblock/feed.xml",
-      "lastFetchedAt": "2026-10-14T23:11:43.032Z",
+      "lastFetchedAt": "2026-10-15T07:23:35.362Z",
       "lastFetchOk": true,
       "episodes": [
+        {
+          "id": "dungeonmasterblock.podbean.com/3617eebc-cf3a-31a4-b73d-70fa9006add7",
+          "title": "DM-Nastics: Weird Science",
+          "pubDate": "2026-10-15T06:52:17.000Z",
+          "durationSeconds": 1992,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/cfitsvadc2tatbbw/DMN124-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We talk through some woodworking to help our games feel more lived in. Exercise: Weird Science Lightbulb: Fantasy Fader Twitter: @DMs_Block DM Neal's @joatmoniac DM Jess' @parqx BlueSky: @…"
+        },
         {
           "id": "dungeonmasterblock.podbean.com/3c96e9e2-7372-39ad-8a83-13666d5fdd0d",
           "title": "338: Remonstered (feat. Keith Amman)",
@@ -95,15 +104,6 @@
           "audioUrl": "https://mcdn.podbean.com/mf/web/47xbg6qaes27yi8c/DMB334-Final.mp3",
           "audioType": "audio/mpeg",
           "description": "DMs Neal and Derrick sit down and talk to Diego F. Salinas from Twenty Sided Tavern to discuss ways that we can work on our effective narration at our tables. Diego Salinas Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure…"
-        },
-        {
-          "id": "dungeonmasterblock.podbean.com/91d9fc3a-79d6-3957-9fc8-177ee219402e",
-          "title": "DM-Nastics: Players' Bucket List",
-          "pubDate": "2026-08-05T20:49:04.000Z",
-          "durationSeconds": 1698,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/5m86ma5n7xi62gt2/DMN122-Final.mp3",
-          "audioType": "audio/mpeg",
-          "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We talk through helping players fulfill some must do's Inspiration: 5 Things Players Should Try Exercise: Players' Bucket List Supplement: The Score: How to Stop Playing Somebody Else's Ga…"
         }
       ]
     },
@@ -117,7 +117,7 @@
         "spotify": "https://open.spotify.com/show/5U3jHHiHsnFQ3bW8EEZmBU"
       },
       "resolvedFeedUrl": "https://rss.libsyn.com/shows/136829/destinations/848429.xml",
-      "lastFetchedAt": "2026-10-14T23:11:43.032Z",
+      "lastFetchedAt": "2026-10-15T07:23:35.362Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -221,7 +221,7 @@
         "apple": "https://podcasts.apple.com/us/podcast/the-badventure-club/id1683253562"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/dea6f4d0/podcast/rss",
-      "lastFetchedAt": "2026-10-14T23:11:43.032Z",
+      "lastFetchedAt": "2026-10-15T07:23:35.362Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -327,7 +327,7 @@
         "podbean": "https://dungeonsdragonsdaughters.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonsdragonsdaughters/feed.xml",
-      "lastFetchedAt": "2026-10-14T23:11:43.032Z",
+      "lastFetchedAt": "2026-10-15T07:23:35.362Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -433,7 +433,7 @@
         "website": "https://www.knockedprone.com/"
       },
       "resolvedFeedUrl": "https://rss.buzzsprout.com/2201541.rss",
-      "lastFetchedAt": "2026-10-14T23:11:43.032Z",
+      "lastFetchedAt": "2026-10-15T07:23:35.362Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -538,7 +538,7 @@
         "linktree": "https://linktr.ee/HN2DM"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/f7870bac/podcast/rss",
-      "lastFetchedAt": "2026-10-14T23:11:43.032Z",
+      "lastFetchedAt": "2026-10-15T07:23:35.362Z",
       "lastFetchOk": true,
       "episodes": [
         {
