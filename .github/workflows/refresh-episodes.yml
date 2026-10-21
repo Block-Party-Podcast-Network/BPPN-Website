@@ -1,6 +1,6 @@
 name: Refresh episodes
 
-# Re-runs `npm run fetch:episodes` on a schedule and commits data/episodes.json
+# Re-runs `npm run fetch:episodes` on a schedule and commits public/data/episodes.json
 # only when episode content actually changed (timestamps alone don't count).
 # The push then triggers a redeploy on whatever host is watching main.
 
@@ -29,19 +29,19 @@ jobs:
 
       - run: npm ci
 
-      - run: cp data/episodes.json "$RUNNER_TEMP/episodes.before.json"
+      - run: cp public/data/episodes.json "$RUNNER_TEMP/episodes.before.json"
 
       - run: npm run fetch:episodes
 
       - name: Commit if episodes changed
         run: |
           strip='del(.generatedAt) | del(.shows[].lastFetchedAt)'
-          if diff -q <(jq -S "$strip" "$RUNNER_TEMP/episodes.before.json") <(jq -S "$strip" data/episodes.json) >/dev/null; then
+          if diff -q <(jq -S "$strip" "$RUNNER_TEMP/episodes.before.json") <(jq -S "$strip" public/data/episodes.json) >/dev/null; then
             echo "No episode changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/episodes.json
+          git add public/data/episodes.json
           git commit -m "Refresh episodes"
           git push

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Refreshes data/episodes.json from each show's real RSS feed.
+// Refreshes public/data/episodes.json from each show's real RSS feed.
 //
 // Runs entirely server-side (Node, not the browser) so this never hits the
 // CORS problems that plague in-browser podcast embeds - and so the live
@@ -12,8 +12,8 @@ import { parseFeed } from "./lib/xml.mjs";
 import { buildShowEntry, carryOverShowEntry } from "./lib/normalize.mjs";
 
 const CONFIG_PATH = new URL("../data/shows.config.json", import.meta.url);
-const OUTPUT_PATH = new URL("../data/episodes.json", import.meta.url);
-const TMP_PATH = new URL("../data/episodes.json.tmp", import.meta.url);
+const OUTPUT_PATH = new URL("../public/data/episodes.json", import.meta.url);
+const TMP_PATH = new URL("../public/data/episodes.json.tmp", import.meta.url);
 
 async function readJson(url) {
   try {
@@ -82,7 +82,7 @@ async function main() {
   await rename(TMP_PATH, OUTPUT_PATH);
 
   const failed = shows.filter((s) => !s.lastFetchOk).map((s) => s.slug);
-  console.log(`\nWrote data/episodes.json (${shows.length} shows).`);
+  console.log(`\nWrote public/data/episodes.json (${shows.length} shows).`);
   if (failed.length) {
     console.log(`Shows using carried-over data this run: ${failed.join(", ")}`);
   } else {

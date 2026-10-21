@@ -9,7 +9,7 @@
   },
   "scripts": {
     "fetch:episodes": "node scripts/fetch-episodes.mjs",
-    "serve": "npx --yes serve ."
+    "serve": "npx --yes serve public"
   },
   "dependencies": {
     "fast-xml-parser": "^5.10.1"

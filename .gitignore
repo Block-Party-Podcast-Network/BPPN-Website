@@ -1,2 +1,4 @@
 node_modules/
 .DS_Store
+CLIENT_SETUP_INSTRUCTIONS.txt
+.claude/scheduled_tasks.lock

@@ -1,0 +1,11 @@
+// Cloudflare deploy config: a static-assets-only Worker serving public/.
+// Only public/ is uploaded, so scripts/, data/, caves/ and repo dotfiles
+// never become reachable URLs.
+{
+  "name": "bppn-website",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  }
+}
