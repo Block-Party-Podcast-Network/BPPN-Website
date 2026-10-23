@@ -28,9 +28,12 @@
     consecutive maps blend into each other (and into the page background)
     instead of showing hard rectangle seams. cave-bg.js sizes this layer to
     the real page height so maps past the fold stay clipped and never fetch.
+    The first map is the only one in view on load, so it uses a plain src
+    (fetched straight from the HTML, at high priority) instead of waiting
+    for cave-bg.js to run like the rest.
   -->
   <div class="cave-bg" aria-hidden="true">
-    <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/catacombs_of_terror.webp" alt="" decoding="async" width="2295" height="2159" style="top:0px; left:calc(50% + -70px);" />
+    <img class="cave-bg__img" src="assets/images/backgrounds/caves/catacombs_of_terror.webp" fetchpriority="high" alt="" decoding="async" width="2295" height="2159" style="top:0px; left:calc(50% + -70px);" />
     <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/emberlook_chasm.webp" alt="" decoding="async" width="1802" height="2071" style="top:1468px; left:calc(50% + 50px);" />
     <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/farwind_depths.webp" alt="" decoding="async" width="3114" height="2271" style="top:2876px; left:calc(50% + -40px);" />
     <img class="cave-bg__img" data-src="assets/images/backgrounds/caves/frozen_halls.webp" alt="" decoding="async" width="1653" height="1650" style="top:4420px; left:calc(50% + 90px);" />

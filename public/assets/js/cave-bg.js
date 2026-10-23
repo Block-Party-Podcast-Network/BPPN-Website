@@ -12,7 +12,8 @@
  * whose height is set by us just above, and the browser's own lazy-load
  * heuristic runs its first (and decisive) viewport check before that
  * height lands, so every image reads as "far away" and never fetches.
- * Driving it ourselves sidesteps that race. */
+ * Driving it ourselves sidesteps that race. The top map skips all this and
+ * loads straight from its src in index.html, since it's always in view. */
 const container = document.querySelector(".cave-bg");
 
 if (container) {
