@@ -32,14 +32,16 @@ function episodeMetaText(episode) {
   return parts.join(" · "); // one middle dot, exactly once
 }
 
-/** The "now playing" block: label, title, native audio element, meta line. */
+/** The "now playing" block: label, title, native audio element, meta line.
+ * The label tracks real playback state instead of always claiming
+ * "Now playing": paused or unstarted, it says whether the loaded episode is
+ * the show's latest or one the listener picked from the list. */
 export function buildNowPlaying(episode, showName) {
   const wrap = document.createElement("div");
   wrap.className = "player__now";
 
   const label = document.createElement("p");
   label.className = "player__now-label";
-  label.textContent = "Now playing";
 
   const title = document.createElement("p");
   title.className = "player__now-title";
@@ -65,15 +67,33 @@ export function buildNowPlaying(episode, showName) {
   meta.textContent = episodeMetaText(episode);
 
   wrap.append(label, title, audio, meta);
-  return { wrap, title, audio, source, meta };
+
+  const nowPlaying = { wrap, label, title, audio, source, meta, latestId: episode.id, currentId: episode.id };
+  const updateLabel = () => updatePlayerLabel(nowPlaying);
+  audio.addEventListener("play", updateLabel);
+  audio.addEventListener("pause", updateLabel);
+  audio.addEventListener("ended", updateLabel);
+  updateLabel();
+  return nowPlaying;
+}
+
+function updatePlayerLabel(nowPlaying) {
+  const { audio, label, currentId, latestId } = nowPlaying;
+  if (!audio.paused && !audio.ended) {
+    label.textContent = "Now playing";
+  } else {
+    label.textContent = currentId === latestId ? "Latest episode" : "Selected episode";
+  }
 }
 
 /** Swaps an existing now-playing block over to a different episode. */
 export function playEpisode(nowPlaying, episode, showName) {
+  nowPlaying.currentId = episode.id;
   nowPlaying.title.textContent = episode.title;
   nowPlaying.source.src = episode.audioUrl;
   nowPlaying.source.type = episode.audioType || "audio/mpeg";
-  nowPlaying.audio.load();
+  nowPlaying.audio.load(); // also stops playback, so the label resets below
+  updatePlayerLabel(nowPlaying);
   nowPlaying.audio.setAttribute("aria-label", `Play ${episode.title}, ${showName}`);
   nowPlaying.meta.textContent = episodeMetaText(episode);
   nowPlaying.wrap.scrollIntoView({ behavior: "smooth", block: "nearest" });
