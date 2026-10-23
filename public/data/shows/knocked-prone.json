@@ -1,0 +1,1573 @@
+{
+  "slug": "knocked-prone",
+  "name": "Knocked Prone",
+  "tagline": "Voice acted actual play, following ordinary teens against extraordinary odds.",
+  "logo": "assets/images/logos/knocked-prone.jpg",
+  "platformLinks": {
+    "apple": "https://podcasts.apple.com/us/podcast/knocked-prone-dungeons-and-dragons-podcast/id1474405410",
+    "spotify": "https://open.spotify.com/show/0Oq2WkvkZaNEpD0rYq9WFQ",
+    "website": "https://www.knockedprone.com/"
+  },
+  "resolvedFeedUrl": "https://rss.buzzsprout.com/2201541.rss",
+  "lastFetchedAt": "2026-10-23T14:24:21.593Z",
+  "lastFetchOk": true,
+  "episodes": [
+    {
+      "id": "Buzzsprout-19698304",
+      "title": "Eberron Ep. 5 - Free Guns (The Lower Dura Saga)",
+      "pubDate": "2026-08-25T04:00:00.000Z",
+      "durationSeconds": 5114,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/19698304-eberron-ep-5-free-guns-the-lower-dura-saga.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Upon arriving in Sharn, the party finds themselves surrounded by the spoils of knowing a famous Red Water Supplier. The party looks for a Skyship to send back to their friends in the forest and keeps an eye out for the Warforged covered in Dragonmarks. Support t…"
+    },
+    {
+      "id": "Buzzsprout-19573656",
+      "title": "Eberron Ep. 4: Tag, You're It (The Sharnbound Saga)",
+      "pubDate": "2026-07-30T02:00:00.000Z",
+      "durationSeconds": 2410,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/19573656-eberron-ep-4-tag-you-re-it-the-sharnbound-saga.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Who would have thought that tagging a random airship would come back to bite the dnd party? Now, an airship captained by a mysterious Warforged covered in every Dragonmark bears down on the crew&apos;s stolen speedboat, grappling hooks flying and revenge on the…"
+    },
+    {
+      "id": "Buzzsprout-19523227",
+      "title": "Eberron Ep. 3: RiteAid of the Dead (The Sharnbound Saga)",
+      "pubDate": "2026-07-21T01:00:00.000Z",
+      "durationSeconds": 2447,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/19523227-eberron-ep-3-riteaid-of-the-dead-the-sharnbound-saga.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Our Adventurers happen upon a distillery of the Red Water Potion that seems to be permeating the forest floor with its fog. They see a group of sleepwalking zombies surrounding the owner of the Factory, who happens to have access to the party&apos;s ride to Shar…"
+    },
+    {
+      "id": "Buzzsprout-19368330",
+      "title": "Eberron Ep. 2 Redwater Redemption (The Sharnbound Saga)",
+      "pubDate": "2026-06-18T22:00:00.000Z",
+      "durationSeconds": 2568,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/19368330-eberron-ep-2-redwater-redemption-the-sharnbound-saga.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After crash-landing the airship in the daggerwood forest, our party finds themselves in a magical red fog with only a handful of survivors. Wanting to come up with an action plan on how to get out of the forest before the fog makes them fall asleep (potentially…"
+    },
+    {
+      "id": "Buzzsprout-19329289",
+      "title": "Eberron Ep. 1: Frequent Flyers on Spirit Airlines (The Sharnbound Saga)",
+      "pubDate": "2026-06-11T23:00:00.000Z",
+      "durationSeconds": 3627,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/19329289-eberron-ep-1-frequent-flyers-on-spirit-airlines-the-sharnbound-saga.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Welcome to Sharn!!! Well, not yet, I suppose. Our story will begin with three adventurers on their way to a modern-day version of Sharn in the campaign setting of Eberron. This campaign will host a rotating cast of player characters because scheduling is the tru…"
+    },
+    {
+      "id": "Buzzsprout-16742372",
+      "title": "Dead Season Ep. 33 - The Final Portal",
+      "pubDate": "2026-05-29T18:00:00.000Z",
+      "durationSeconds": 3597,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16742372-dead-season-ep-33-the-final-portal.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Our group of dead souls fight against Hugh Pinkerton as he attempts to steal the will-o-wisp soul of the mortal remains of Eldath in hopes that Hugh can usurp Eldath&apos;s place as a god. Talroth becomes the ultimate thorn in Hugh Pinkerton&apos;s side, Xel sho…"
+    },
+    {
+      "id": "Buzzsprout-16715649",
+      "title": "Dead Season Ep 32 - From Lich To God",
+      "pubDate": "2025-03-01T22:00:00.000Z",
+      "durationSeconds": 2885,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16715649-dead-season-ep-32-from-lich-to-god.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The party heads into the heart of the Firbolg Fortress to find Hugh Pinkerton and the members of the Falsely Departed mid ritual to return Lady Pinkerton to the Material Plane and to erase Eldath&apos;s place as a God. Javi retries a previously failed plan, Xel…"
+    },
+    {
+      "id": "Buzzsprout-16611329",
+      "title": "Dead Season Ep. 31 - Too Many Cooks in the Apothecary",
+      "pubDate": "2025-02-12T19:00:00.000Z",
+      "durationSeconds": 3438,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16611329-dead-season-ep-31-too-many-cooks-in-the-apothecary.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The party continues through the final memory of Chai where they find things seem to be put back in order after taking out the soul anomaly. Talroth aids a sick Moosey Moose, Javi learns of his skill in a kitchen, Xel threatens to leave the party, and Chai saves…"
+    },
+    {
+      "id": "Buzzsprout-16582313",
+      "title": "Dead Season Ep 30 - Another Murder on the Feybreaker Engine",
+      "pubDate": "2025-02-07T17:00:00.000Z",
+      "durationSeconds": 3493,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16582313-dead-season-ep-30-another-murder-on-the-feybreaker-engine.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Traversing through the phylactery factory the party finds a room with the final memory of Chai inside. Chai sits on the edge of her own mortality as the party realizes that her life seems to have been changed by astral forces, and that by correcting the evil add…"
+    },
+    {
+      "id": "Buzzsprout-16528880",
+      "title": "Dead Season Ep 29 - Fusion of A Soul",
+      "pubDate": "2025-01-29T23:00:00.000Z",
+      "durationSeconds": 3158,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16528880-dead-season-ep-29-fusion-of-a-soul.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After dealing with the miniature figures of Hugh Pinkerton, the party ventures deeper into the Phylactery Factory where they find two Ichor cages like the one that used to contain Delry. The Inhabitants of the Ichor cages have keys to a long wondered mystery of…"
+    },
+    {
+      "id": "Buzzsprout-16485664",
+      "title": "Dead Season Ep 28 - Robo No Mo'",
+      "pubDate": "2025-01-22T20:00:00.000Z",
+      "durationSeconds": 2651,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16485664-dead-season-ep-28-robo-no-mo.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The party continues through the Falsely Departed Headquarters as they find a room that seems to be dedicated to the death of Javi. The party assists Finn in the fight against a giant Javi bot bringing their own party member&apos;s life to an abrupt stop. Chai pu…"
+    },
+    {
+      "id": "Buzzsprout-16444584",
+      "title": "Dead Season Ep 27 The Deep Blue Soul Chai",
+      "pubDate": "2025-01-15T22:00:00.000Z",
+      "durationSeconds": 2882,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16444584-dead-season-ep-27-the-deep-blue-soul-chai.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🔮 The party stumbles through the blinking red light to the lobby area of the Phylactery Factory where they find an Elevator that seems to be going back to the material plane. Talroth finds his soul, Xelborath coaxes his party members away from a sparkly trap, C…"
+    },
+    {
+      "id": "Buzzsprout-16437814",
+      "title": "Dead Season Ep 26 - Oops All Talroths Pt. 2",
+      "pubDate": "2025-01-14T19:00:00.000Z",
+      "durationSeconds": 1666,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16437814-dead-season-ep-26-oops-all-talroths-pt-2.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail ⚔️ The battle rages on outside the phylactery factory as Chai, Xel, Javi, and Talroth continue their fight against the group of \"SAD\" Talroth clones. These clones seem strangely familiar, forcing the party to question the nature of their enemy. 🛡️ Chai steps up…"
+    },
+    {
+      "id": "Buzzsprout-16302381",
+      "title": "Dead Season Ep 25 - Oops All Talroth's Pt. 1",
+      "pubDate": "2024-12-18T19:00:00.000Z",
+      "durationSeconds": 1159,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16302381-dead-season-ep-25-oops-all-talroth-s-pt-1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🔴 The party arrives at the phylactery factory, where a massive red beam of light threatens to alert the entire factory to their presence. The dead adventurers must act fast to avoid detection. ⚔️ At the entrance, the group encounters three clones guarding the p…"
+    },
+    {
+      "id": "Buzzsprout-16234641",
+      "title": "Dead Season Ep. 24 - You Saved Me",
+      "pubDate": "2024-12-06T20:00:00.000Z",
+      "durationSeconds": 2447,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16234641-dead-season-ep-24-you-saved-me.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🔮 The party formulates a plan around the decayed body of Lathander in the Astral Fog. 🛠️ Xel works with Javi on the soul gauntlets that will mend together Delry’s soul. 🪓 Talroth talks with Xel about the possibility of cutting ties with the living so Xel can…"
+    },
+    {
+      "id": "Buzzsprout-16155025",
+      "title": "Dead Season Ep. 23: Dying D&D Gods Pt. 2 (FT. Joshua Lorimer)",
+      "pubDate": "2024-11-22T15:00:00.000Z",
+      "durationSeconds": 2638,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16155025-dead-season-ep-23-dying-d-d-gods-pt-2-ft-joshua-lorimer.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🌌The stakes soar to godly heights as the party faces the Lich spirits of Vecna and Lady Pinkerton! Their corrupted souls claw to claim the fallen Godsoul of Lathander, threatening to unleash chaos upon the Astral Plane. ⚔️Join our party with special guest Joshu…"
+    },
+    {
+      "id": "Buzzsprout-16099802",
+      "title": "Dead Season Ep. 22: Dying D&D Gods Pt. 1 (FT. Joshua Lorimer)",
+      "pubDate": "2024-11-13T17:00:00.000Z",
+      "durationSeconds": 1844,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16099802-dead-season-ep-22-dying-d-d-gods-pt-1-ft-joshua-lorimer.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 👨‍👦 Xelborath has a heartfelt talk with Chap, promising him an adopted place in their family alongside Delry once they’re able to free Delry from the ichor cage. Meanwhile, Chai and her son, Earl, share a powerful moment, deciding to stick together as they nav…"
+    },
+    {
+      "id": "Buzzsprout-16021392",
+      "title": "Dead Season Ep 21: The Primordial Seedling Pt 2 (Ft. Joshua Lorimer)",
+      "pubDate": "2024-10-30T20:00:00.000Z",
+      "durationSeconds": 2015,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/16021392-dead-season-ep-21-the-primordial-seedling-pt-2-ft-joshua-lorimer.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Episode starts at 8:19 We&apos;re back! Kade goes over where Knocked Prone has been on their 4 month hiatus. The party takes a long rest where Earl talks with Javi about his interest in staying in the Baddies to help take down the Pinkerton&apos;s. The party the…"
+    },
+    {
+      "id": "Buzzsprout-15323630",
+      "title": "Dead Season Ep 20 - The Primordial Seedling Pt 1",
+      "pubDate": "2024-06-27T17:00:00.000Z",
+      "durationSeconds": 2939,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/15323630-dead-season-ep-20-the-primordial-seedling-pt-1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🏢 Talroth and Javi are escorted to the Bad Infinium Headquarters, where Chai and Xel are already waiting with the leader of the Bad Infinium—Chai&apos;s son, Earl, played by special guest Joshua Lorimer. After a particularly grueling day of investigation, the p…"
+    },
+    {
+      "id": "Buzzsprout-15245593",
+      "title": "Dead Season Ep 19 - The Earl of The Afterlife Pt 2 (Feat Joshua Lorimer)",
+      "pubDate": "2024-06-13T16:00:00.000Z",
+      "durationSeconds": 3280,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/15245593-dead-season-ep-19-the-earl-of-the-afterlife-pt-2-feat-joshua-lorimer.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🌟 Chai&apos;s Emotional Reunion: Witness the poignant and emotional reunion between Chai and her son Earl, portrayed by the talented Joshua Lorimer from the Sneak Attack! and The Titans of All&apos;terra Podcasts. Chai struggles with the heartbreaking reality o…"
+    },
+    {
+      "id": "Buzzsprout-15074638",
+      "title": "Dead Season Ep 18 - The Earl of the Afterlife Pt 1 (Feat. Joshua Lorimer)",
+      "pubDate": "2024-05-15T17:00:00.000Z",
+      "durationSeconds": 1984,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/15074638-dead-season-ep-18-the-earl-of-the-afterlife-pt-1-feat-joshua-lorimer.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🌟 Chai&apos;s world is turned upside down as she meets her son Earl in the afterlife, played by special guest Joshua Lorimer from the Sneak Attack! and Titans of All&apos;terra Podcasts. The emotional encounter forces Chai to confront the devastating reality of…"
+    },
+    {
+      "id": "Buzzsprout-15034315",
+      "title": "Dead Season Episode 17 - Ghost in the Machine",
+      "pubDate": "2024-05-08T16:00:00.000Z",
+      "durationSeconds": 2885,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/15034315-dead-season-episode-17-ghost-in-the-machine.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 👻 Javi and Talroth plunge into the depths of Javi&apos;s soul memory in pursuit of Captain Pinkerton. As they chase their elusive foe, they find themselves locked in a deadly battle against a corrupted Mach 1 version of Javi&apos;s suit. 💥 With steel clashes a…"
+    },
+    {
+      "id": "Buzzsprout-14992628",
+      "title": "Dead Season Episode 16 - In Cold Blood",
+      "pubDate": "2024-05-01T20:00:00.000Z",
+      "durationSeconds": 1640,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14992628-dead-season-episode-16-in-cold-blood.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🔥 Talroth and Javi embark on a perilous pursuit, hot on the trail of Captain Pinkerton&apos;s clone as it seeks refuge deeper within the Red Herring Fishery. With danger lurking at every turn, will they be the Ichor&apos;s next victim? 💪 Meanwhile, Xel and Cha…"
+    },
+    {
+      "id": "Buzzsprout-14918694",
+      "title": "Dead Season Episode 15 - Ichor 3D Prints Part 2",
+      "pubDate": "2024-04-19T16:00:00.000Z",
+      "durationSeconds": 1682,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14918694-dead-season-episode-15-ichor-3d-prints-part-2.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 💥 As tensions reach a boiling point, the party faces off against the clones of the reapers discovered beneath the Red Herring Fishery. 🤺 Armed with determination, the party plunges headfirst into battle, confronting these clones with unwavering resolve. ⚔️ Wil…"
+    },
+    {
+      "id": "Buzzsprout-14864243",
+      "title": "Dead Season Episode 14 - Ichor 3D Prints Part 1",
+      "pubDate": "2024-04-10T20:00:00.000Z",
+      "durationSeconds": 2136,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14864243-dead-season-episode-14-ichor-3d-prints-part-1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🔥 As tensions rise, Javi unleashes his rage on the clone of his captor, grappling with the weight of his past and the fury of the present. 🤔 Talroth finds himself in a moral quandary, questioning his own identity as he wrestles with the possibility of being a…"
+    },
+    {
+      "id": "Buzzsprout-14804044",
+      "title": "Roll for Tears! Reacting to our Viral TikTok's Saddest D&D Backstories",
+      "pubDate": "2024-04-03T14:00:00.000Z",
+      "durationSeconds": 1681,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14804044-roll-for-tears-reacting-to-our-viral-tiktok-s-saddest-d-d-backstories.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 📱 Join Brooke and Kade in a special bonus episode as they dive into the comments left on their TikTok about the saddest D&D character backstories! 🧙‍♂️📜 👀 Get ready for laughter, tears, and everything in between as they react to the most heart-wrenching tale…"
+    },
+    {
+      "id": "Buzzsprout-14780225",
+      "title": "Dead Season Episode 13 - The Ichor Cage Part 2",
+      "pubDate": "2024-03-27T16:00:00.000Z",
+      "durationSeconds": 1389,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14780225-dead-season-episode-13-the-ichor-cage-part-2.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🐟 The investigation leads the party to the Red Herring Fishery, where secrets lurk beneath the surface. As they delve deeper into the shadows, they uncover horrors that defy imagination. 🕯️ Chai stumbles upon an Ichor Wall with a familiar captive contained ins…"
+    },
+    {
+      "id": "Buzzsprout-14730690",
+      "title": "Dead Season Episode 12 - The Ichor Cage Part 1",
+      "pubDate": "2024-03-20T16:00:00.000Z",
+      "durationSeconds": 1887,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14730690-dead-season-episode-12-the-ichor-cage-part-1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🔎 As the party delves deeper into the secrets of Pinkerton Manor, their investigation leads them to a mysterious cage hidden in the cellar. With each step, they uncover more questions than answers, and the shadows of the past loom larger than ever before. ⚙️ Ja…"
+    },
+    {
+      "id": "Buzzsprout-14686517",
+      "title": "Dead Season Episode 11 - A D&D Murder Mystery Part 2",
+      "pubDate": "2024-03-13T22:00:00.000Z",
+      "durationSeconds": 1809,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14686517-dead-season-episode-11-a-d-d-murder-mystery-part-2.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🕵️‍♂️ Javi and Talroth find themselves faced with a daunting task as they must intimidate their way past a group of Reapers standing guard at the crime scene. With tensions high and stakes even higher, they must rely on their wit and determination to break thro…"
+    },
+    {
+      "id": "Buzzsprout-14642186",
+      "title": "Dead Season Episode 10 - A D&D Murder Mystery Part 1",
+      "pubDate": "2024-03-06T22:00:00.000Z",
+      "durationSeconds": 1683,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14642186-dead-season-episode-10-a-d-d-murder-mystery-part-1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🕵️‍♂️ Dive into the intrigue of \"A D&D Murder Mystery Part 1,\" Episode 10 of Dead Season! 💼 Back in the eerie halls of Pinkerton Manor, the party is met with a perplexing sight: the murder scene they were accused of has vanished without a trace. Reaper Dave re…"
+    },
+    {
+      "id": "Buzzsprout-14597225",
+      "title": "Dead Season Bonus Episode: Our D&D Characters Play We're Not Really Strangers",
+      "pubDate": "2024-02-28T23:00:00.000Z",
+      "durationSeconds": 1403,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14597225-dead-season-bonus-episode-our-d-d-characters-play-we-re-not-really-strangers.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🎲 Step beyond the dice rolls and into the heart of camaraderie with \"We&apos;re Not Really Strangers,\" an exclusive episode of Knocked Prone! 🌟Join our beloved D&D characters as they put down their weapons and gather around the campfire for a night of board ga…"
+    },
+    {
+      "id": "Buzzsprout-14548221",
+      "title": "Dead Season Episode 9 - I'm Alive? Pt. 2",
+      "pubDate": "2024-02-21T18:00:00.000Z",
+      "durationSeconds": 1942,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14548221-dead-season-episode-9-i-m-alive-pt-2.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🔮 Step deeper into the realm between the living and the afterlife in \"I&apos;m Alive? Pt. 2,\" Episode 9 of Knocked Prone&apos;s Dead Season. 🌌 💔 Xel&apos;s past unfolds before his eyes as he witnesses the haunting memory of his deal with his adversary, Hugh P…"
+    },
+    {
+      "id": "Buzzsprout-14505487",
+      "title": "Dead Season Episode 8 - I'm Alive? Pt. 1",
+      "pubDate": "2024-02-14T21:00:00.000Z",
+      "durationSeconds": 1311,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14505487-dead-season-episode-8-i-m-alive-pt-1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🌟 Explore the depths of memory and mystery in \"I&apos;m Alive? PT. 1,\" Episode 8 of Knocked Prone&apos;s Dead Season. 💔 Xel confronts his past as he embarks on a poignant journey down a memory path that he&apos;s long tried to forget. With a heavy heart and a…"
+    },
+    {
+      "id": "Buzzsprout-14461173",
+      "title": "Dead Season Episode 7 - I Is For Ichor",
+      "pubDate": "2024-02-08T01:00:00.000Z",
+      "durationSeconds": 3036,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14461173-dead-season-episode-7-i-is-for-ichor.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🏹 Sprint through the foliage of the Goblin Forest in \"I Is For Ichor,\" Episode 7 of Knocked Prone&apos;s Dead Season. 🐺 Moosey Moose&apos;s fate hangs in the balance as the party races against time to rescue the beloved dire wolf from the clutches of the sinis…"
+    },
+    {
+      "id": "Buzzsprout-14416420",
+      "title": "Satyr Speaking: Dead Season Episodes 4-6 Sneak Peak",
+      "pubDate": "2024-01-31T21:00:00.000Z",
+      "durationSeconds": 824,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14416420-satyr-speaking-dead-season-episodes-4-6-sneak-peak.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🎙️ Join us for a special episode of \"Satyr Speaking,\" hosted by Talked Prone, in this exclusive Patreon Sneak Peek! 🌟 Hey Knockouts and Beyond, this week brought a few scheduling twists our way, and we wanted to share a sneak peek behind the curtain of our Kno…"
+    },
+    {
+      "id": "Buzzsprout-14372789",
+      "title": "Dead Season Episode 6 - Moosey-Moose Where Are You?",
+      "pubDate": "2024-01-24T23:00:00.000Z",
+      "durationSeconds": 1920,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14372789-dead-season-episode-6-moosey-moose-where-are-you.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🐶 Em BARK on a quest for the lost in Dead Season Episode 6: Moosey-Moose Where Are You? As the party navigates the intricacies of their afterlife journey trying to locate Shrubby the Firbolg&apos;s dire wolf Moosey-Moose. 🤔 Talroth, the Shadar Kai Oath of the…"
+    },
+    {
+      "id": "Buzzsprout-14329633",
+      "title": "Dead Season Episode 5 - Death's Long Rest",
+      "pubDate": "2024-01-17T21:00:00.000Z",
+      "durationSeconds": 2331,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14329633-dead-season-episode-5-death-s-long-rest.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🌙 In Death&apos;s Long Rest, Episode 5 of Knocked Prone, the afterlife grants the party a respite after a harrowing day. Join Chai, Javi, Xel, and Talroth as they take a much-needed break, exploring the intricacies of their undead existence. 🧵 Javi, the gnome…"
+    },
+    {
+      "id": "Buzzsprout-14288043",
+      "title": "Dead Season Episode 4 - Cliffhangers & Memory Meltdowns",
+      "pubDate": "2024-01-10T22:00:00.000Z",
+      "durationSeconds": 3693,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14288043-dead-season-episode-4-cliffhangers-memory-meltdowns.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 😮‍💨 Hold your breath as Dead Season Episode 4 takes you to the edge in Cliffhangers & Memory Meltdowns. The party races against time, chasing the Ichor Monster who abducted Shrubby and Moosey Moose down a treacherous cliff. 🧗‍♂️ Join Chai, Javi, Xel, and Talr…"
+    },
+    {
+      "id": "Buzzsprout-14243221",
+      "title": "Dead Season Episode 3 - Out of the Drider's Nest and Into the Fire",
+      "pubDate": "2024-01-03T21:00:00.000Z",
+      "durationSeconds": 3102,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14243221-dead-season-episode-3-out-of-the-drider-s-nest-and-into-the-fire.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🔥 Brace yourselves for an intense showdown as the party confronts the fragmented horror monster that claimed Lady Pinkerton&apos;s life, chaos ensues within the depths of Chai&apos;s soul memory. 👊 Join Chai, Javi, Xel, and Talroth as they face off against the…"
+    },
+    {
+      "id": "Buzzsprout-14212722",
+      "title": "Dead Season Episode 2: Knives Out in the Firbolg Forest",
+      "pubDate": "2023-12-28T06:00:00.000Z",
+      "durationSeconds": 3122,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14212722-dead-season-episode-2-knives-out-in-the-firbolg-forest.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🔪 Uncover the mystery hidden in the soul memory of Chai in the Dungeons and Dragons actual play podcast Knocked Prone Episode 2: \"Knives Out in the Firbolg Fortress.\" As the spectral investigation intensifies, Chai, Javi, Xel, and Talroth delve into Chai&apos;s…"
+    },
+    {
+      "id": "Buzzsprout-14212492",
+      "title": "Dead Season Episode 1: Mystery on the Astral Express",
+      "pubDate": "2023-12-28T05:00:00.000Z",
+      "durationSeconds": 3344,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14212492-dead-season-episode-1-mystery-on-the-astral-express.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail 🔍 Dive into the Dungeons and Dragons Purgatory set in the Astral Plane with Knocked Prone&apos;s Episode 1! In \"Mystery on the Astral Express,\" the serene existence of the ethereal realm is shattered when Lady Pinkerton, revered Town Founder and Fortune Teller,…"
+    },
+    {
+      "id": "Buzzsprout-14211976",
+      "title": "Dead Season Session 0: Unveiling the Afterlife",
+      "pubDate": "2023-12-28T01:00:00.000Z",
+      "durationSeconds": 1280,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/14211976-dead-season-session-0-unveiling-the-afterlife.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Welcome to Dead Season, where the realms of the living and the afterlife collide in a gripping Dungeons and Dragons real play podcast! In our special Session 0, join us as we delve into the mysterious and haunting world of \"Dead Season,\" where four intrepid char…"
+    },
+    {
+      "id": "Buzzsprout-13846901",
+      "title": "Talked Prone Campaign 2 Finale",
+      "pubDate": "2023-10-25T21:00:00.000Z",
+      "durationSeconds": 1095,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13846901-talked-prone-campaign-2-finale.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Kelrik wishes the champions of Greyhaven farewell as he peers into their futures to see what took place in their lives after the final battle. I want to give a huge thank you to Danny Denison for being Kelrik Bigfur, the resident journalist for Campaign 2, and a…"
+    },
+    {
+      "id": "Buzzsprout-13805402",
+      "title": "A Himbo Sized Finale - C2 Ep. 56",
+      "pubDate": "2023-10-18T23:00:00.000Z",
+      "durationSeconds": 4096,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13805402-a-himbo-sized-finale-c2-ep-56.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Champions of Greyhaven face off against the behemoth Vecna for the world&apos;s fate. Grom dives deep into purple goop to save his friend, Zag makes good on an old promise, Selene breaks her Ahlpike, and Efimia has a family reunion with her chosen and blood…"
+    },
+    {
+      "id": "Buzzsprout-13761862",
+      "title": "Attack on Vecna - C2 Ep. 55",
+      "pubDate": "2023-10-11T21:00:00.000Z",
+      "durationSeconds": 2116,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13761862-attack-on-vecna-c2-ep-55.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Champions of Greyhaven continue their perilous battle against the enlarged and enraged Goddess Vecna. Zag pierces through Vecna&apos;s phylactery with a radiant baby shadow Thorn, Grom dives through Purple Goop to save his friend, Efimia gets dropped by Orcu…"
+    },
+    {
+      "id": "Buzzsprout-13718348",
+      "title": "Rune Crystal Squid Game - C2 Ep. 54",
+      "pubDate": "2023-10-04T22:00:00.000Z",
+      "durationSeconds": 1773,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13718348-rune-crystal-squid-game-c2-ep-54.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Champions of Greyhaven, after falling down a vast chasm, fight the lich/goddess Vecna and try to destroy her phylactery before she is able to kill the remaining gods of the 10. Grom uses his knowledge from the mines against Vecna, Zag gets targetted by an ol…"
+    },
+    {
+      "id": "Buzzsprout-13627762",
+      "title": "Sleight of Vecna's Hand - C2 Ep. 53",
+      "pubDate": "2023-09-20T16:00:00.000Z",
+      "durationSeconds": 2500,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13627762-sleight-of-vecna-s-hand-c2-ep-53.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Champions of Greyhaven begin their final battle with the God/Lich Vecna. Grom yells at the god to stop her blasphemy, Zag gets rejected, all while Efimia and Selene make paper mache out of a horde of paper golems. Support this podcast by going to patreon.com…"
+    },
+    {
+      "id": "Buzzsprout-13585326",
+      "title": "Early Release: On The Road To Vecna City - C2 Ep. 52",
+      "pubDate": "2023-09-13T16:00:00.000Z",
+      "durationSeconds": 1956,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13585326-early-release-on-the-road-to-vecna-city-c2-ep-52.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Champions of Greyhaven continue their fight for the world&apos;s fate with River and his Zombie horde when they realize something more nefarious is happening. Efimia finds her father, Grom destroys a spider, Zag gets good news from his hometown, and Selene c…"
+    },
+    {
+      "id": "Buzzsprout-13544335",
+      "title": "Behind The Screens Pt. 1",
+      "pubDate": "2023-09-06T22:00:00.000Z",
+      "durationSeconds": 833,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13544335-behind-the-screens-pt-1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Alec gives a sneak preview of his next Patreon series, \"Behind the Screens\", where he asks the DM and players of the Knocked Prone table questions that could have changed the fate of the game. Alec&apos;s question this week: What would have happened if the Champ…"
+    },
+    {
+      "id": "Buzzsprout-13500553",
+      "title": "How Many Hits to the Center of an Undead Tootsie Pop - C2 Ep. 51",
+      "pubDate": "2023-08-30T21:00:00.000Z",
+      "durationSeconds": 2218,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13500553-how-many-hits-to-the-center-of-an-undead-tootsie-pop-c2-ep-51.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Champions of Greyhaven face off against River and his undead army on their way to Vecna for the fight for their world&apos;s fate. Selene sees her parents again, Grom destroys the man who tried to kill his dog, Zag creates a celestial bear to fight alongside…"
+    },
+    {
+      "id": "Buzzsprout-13459670",
+      "title": "Pop Goes the Primordial - C2 Ep. 50",
+      "pubDate": "2023-08-23T20:00:00.000Z",
+      "durationSeconds": 2232,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13459670-pop-goes-the-primordial-c2-ep-50.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After the wedding festivities, the party heads towards Greyhaven only to find The Seldarine Avenger Solar plummeting to the ground with a group of Primordials trailing behind. This is the beginning of the End! Grom reunites with his pet blink dog, Zag promises t…"
+    },
+    {
+      "id": "Buzzsprout-13377085",
+      "title": "Aasimars Assemble: Selene and Finch's Endgame - C2 Ep.49",
+      "pubDate": "2023-08-09T16:00:00.000Z",
+      "durationSeconds": 2108,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13377085-aasimars-assemble-selene-and-finch-s-endgame-c2-ep-49.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail On the morning of their final battle for the world&apos;s fate, The Champions of Greyhaven celebrate the love of Selene and Finch in preparation for the end. Grom throws Finch a last minute Bachelor party, Selene makes amends with an old nemesis, Zag sings the c…"
+    },
+    {
+      "id": "Buzzsprout-13339208",
+      "title": "The Bride, the lich, and the Casino C2 Ep. 48",
+      "pubDate": "2023-08-02T19:00:00.000Z",
+      "durationSeconds": 2848,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13339208-the-bride-the-lich-and-the-casino-c2-ep-48.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After an extremely long day full of battles, the party shores up on Kobo&apos;s Moto Boat-o of Song Story and Salutations and prepares for Selene&apos;s wedding with Finch, and the final battle for the fate of the world in Greyhaven. Efimia realizes her Godfathe…"
+    },
+    {
+      "id": "Buzzsprout-13296048",
+      "title": "How to Filet Your Dragon - C2 Ep. 47",
+      "pubDate": "2023-07-26T19:00:00.000Z",
+      "durationSeconds": 2287,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13296048-how-to-filet-your-dragon-c2-ep-47.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Battle with Granny D continues as the party tries to purge the purple goop from this gargantuan terror! Kobo says goodbye to the party as his time as King has come, Efimia finds out more about how to defeat the Primordials, Zag gets caught performing a dark…"
+    },
+    {
+      "id": "Buzzsprout-13254455",
+      "title": "TPK (Total Party Kommentary) - Campaign 2 Pre-Finale Player Interview",
+      "pubDate": "2023-07-19T22:00:00.000Z",
+      "durationSeconds": 3649,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13254455-tpk-total-party-kommentary-campaign-2-pre-finale-player-interview.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Knocked Prone Cast meet one-on-one with Host Kade to discuss what they liked about their campaign 2 characters and how they foresee the end of the campaign going! You&apos;re going to love this hour-long bonus episode! Support our podcast by going to Patreon…"
+    },
+    {
+      "id": "Buzzsprout-13213607",
+      "title": "Dragon Ballsy: Kobo Kai - C2 Ep. 46",
+      "pubDate": "2023-07-12T22:00:00.000Z",
+      "durationSeconds": 2546,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13213607-dragon-ballsy-kobo-kai-c2-ep-46.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The champions of Greyhaven split the party and fight an ancient white dragon and the Bullywug King at the same time. Selene becomes a zombie, Zag teams up with a Rakshasa Hag named Litsea to try and complete a ritual, Grom dives into the center of a dragon&apos;…"
+    },
+    {
+      "id": "Buzzsprout-13166184",
+      "title": "Mr. Zag I Don't Feel So Good - C2 Ep. 45",
+      "pubDate": "2023-07-05T16:00:00.000Z",
+      "durationSeconds": 2650,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13166184-mr-zag-i-don-t-feel-so-good-c2-ep-45.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail In the wake of their defeat, the Champions of Greyhaven confront Granny D and refuse to give her the soul stone of Litsea they had promised. Efimia tries to strike a new deal with this Ancient White Dragon, Selene tries to convince Kobo he has a good heart, Kobo…"
+    },
+    {
+      "id": "Buzzsprout-13127294",
+      "title": "Zag Wars: Revenge of the Lich - C2 Ep. 44",
+      "pubDate": "2023-06-28T20:00:00.000Z",
+      "durationSeconds": 2783,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13127294-zag-wars-revenge-of-the-lich-c2-ep-44.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Champions of Greyhaven fight one of the four members of the Underdark Crime Ring who is taking zombies for sacrifice to reamplify his phylactery. Selene is hesitant to fight against this Lich, Kobo loses his cool and gives in to his dark side, Efimia turns i…"
+    },
+    {
+      "id": "Buzzsprout-13083043",
+      "title": "Zag Wars: The Throne Wars - C2 Ep. 43",
+      "pubDate": "2023-06-21T17:00:00.000Z",
+      "durationSeconds": 2475,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13083043-zag-wars-the-throne-wars-c2-ep-43.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After Eorlund Bane&apos;s army breaks into the Casino, chaos ensues for the Champions of Greyhaven. Zag wrestles with not wanting to give power to the Hag Demon Litsea, Selene tries to hide her fallen state from her fiance, Efimia has a heart-to-heart with an ol…"
+    },
+    {
+      "id": "Buzzsprout-13040670",
+      "title": "Zag Wars: Attack of the Primordial - C2 Ep. 42",
+      "pubDate": "2023-06-14T19:00:00.000Z",
+      "durationSeconds": 1980,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13040670-zag-wars-attack-of-the-primordial-c2-ep-42.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After capturing River, the party plans to show this Elemental in disguise what threatening their dog does to someone. Zag gets swallowed by a wave, Kobo sticks his hand in electrified water, Efimia puts her godfather in his place, Grom tries to smash some slot m…"
+    },
+    {
+      "id": "Buzzsprout-13010935",
+      "title": "Queens of the Tabletop: How to Convince Your Significant Other To Play D&D (Bribery, Snacks, and Power)",
+      "pubDate": "2023-06-09T21:00:00.000Z",
+      "durationSeconds": 1709,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/13010935-queens-of-the-tabletop-how-to-convince-your-significant-other-to-play-d-d-bribery-snacks-and-power.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Queens Brookelin, Marrissa, and Jae take on fan-submitted questions to answer how they got into playing Dungeons and Dragons, and how you can get your significant other interested in trying out the number one tabletop roleplaying game in the world (using Bribery…"
+    },
+    {
+      "id": "Buzzsprout-12997467",
+      "title": "Zag Wars: The Phantom Eorlund - C2 Ep. 41",
+      "pubDate": "2023-06-07T18:00:00.000Z",
+      "durationSeconds": 1709,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12997467-zag-wars-the-phantom-eorlund-c2-ep-41.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Tensions reach their peak as King Eorlund, driven by a sinister agenda, makes his move to eliminate the heir to his throne. Selene wastes no time to deal maximum damage, Efimia tries out her new poison belt, Zag wrestles with the morality of killing evil people,…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/54061104",
+      "title": "Betrayal at Casino on the Hill - C2 Ep. 40",
+      "pubDate": "2023-06-01T01:56:09.000Z",
+      "durationSeconds": 3933,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990204-betrayal-at-casino-on-the-hill-c2-ep-40.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Going deeper into the depths of the Casino, the Champions of Greyhaven find that the sanctuary they had been sending all their NPC friends to, has a very dark side. Grom pulls the death card, Efimia gets a grave fortune given to her if she doesn&apos;t destroy h…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53987007",
+      "title": "The Boys are Back in Town: Crit Fail Casino - C2 Ep. 39",
+      "pubDate": "2023-05-24T16:46:06.000Z",
+      "durationSeconds": 3018,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990206-the-boys-are-back-in-town-crit-fail-casino-c2-ep-39.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The boys are back in town as the Champions of Greyhaven reunite at the Seldarine Casino to regain the gambled-away heartstone. Zag beats the odds with Himbo&apos;s Luck, Grom gets a fantastic new magic item at the prize counter, Efimia gets meager payment for 24…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53911211",
+      "title": "Raiders of the Lost Rakshasa: A Mammoth Sized Adventure on the High Seas - C2 Ep. 38",
+      "pubDate": "2023-05-17T21:02:36.000Z",
+      "durationSeconds": 3011,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990233-raiders-of-the-lost-rakshasa-a-mammoth-sized-adventure-on-the-high-seas-c2-ep-38.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Grom and Zag accompanied by their Kobold guide, Kobo, venture across dangerous waters to go get Grom&apos;s soul back from a Rakshasa Hag in the jungle. Grom gets polymorphed for max destruction, Kobo gets recognized by some fans of his work, and Zag makes an un…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53847272",
+      "title": "Viva Las Vecna Pt. 2 - C2 Ep. 37",
+      "pubDate": "2023-05-13T16:41:28.000Z",
+      "durationSeconds": 2247,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990234-viva-las-vecna-pt-2-c2-ep-37.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After the necrotic wave of energy pierces through the sky from the Runecrystal Phone network and zombies start rising from their graves, Efimia and Selene head to Thri-Kreen Canyon to try and sort out what they should do with the end of the world pending closeby…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53811998",
+      "title": "Viva Las Vecna Pt. 1 - C2 Ep. 36",
+      "pubDate": "2023-05-10T21:28:51.000Z",
+      "durationSeconds": 2062,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990235-viva-las-vecna-pt-1-c2-ep-36.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Efimia and Selene split from the party to go find Efimia&apos;s mom at the Seldarine Avenger&apos;s Headquarters. Selene feels extra guilty about her most recent kill, and Efimia rides into the sunset on an arcane motorcycle. Support this show at https://patreon…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53734291",
+      "title": "Trashin' The Dragon's Horde - C2 Ep. 35",
+      "pubDate": "2023-05-03T22:28:57.000Z",
+      "durationSeconds": 3227,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990236-trashin-the-dragon-s-horde-c2-ep-35.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After the disappearance of the Kobolds Bada, Bing, and Chad, The Champions of Greyhaven search through One Man&apos;s Waste Landfill to try and find stones important to their ship being able to work again. A Kobold bard named Kobo joins the party to try and warn…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53656917",
+      "title": "Dear Dungeon Daddy - Differing Plots, Thinking on your Toes, & Problem Players",
+      "pubDate": "2023-04-26T20:11:16.000Z",
+      "durationSeconds": 2594,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990237-dear-dungeon-daddy-differing-plots-thinking-on-your-toes-problem-players.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Get ready for a wild ride as the Daddies welcome Danny Denison to the show! This episode features Alec and the rest of the Daddies discussing topics from tips on how to improve your game to insider secrets of the trade! This episode is packed with valuable insig…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53656864",
+      "title": "Down with the Ship Pt. 2 - C2 Ep. 34",
+      "pubDate": "2023-04-26T20:00:52.000Z",
+      "durationSeconds": 1817,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990238-down-with-the-ship-pt-2-c2-ep-34.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The party free-falling to the ground must figure out how to deal with whatever is pulling them down from the air. Zag pushes a questionable red button, Grom meets his doppelganger, and Efimia and Selene discover two more figures from Zag&apos;s dark past. Suppor…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53586552",
+      "title": "Down with the Ship Pt. 1 - C2 Ep. 33",
+      "pubDate": "2023-04-19T19:57:41.000Z",
+      "durationSeconds": 1922,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990239-down-with-the-ship-pt-1-c2-ep-33.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Exiting the Shadowfell the Champions of Greyhaven decide where to go next to try and save the world from dark forces both new and old. Grom has a heart-to-heart with his mother for the first time since her freedom, Zag pilots a ship using beginner&apos;s luck, a…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53514990",
+      "title": "Breaking Zag Pt. 2 - C2 Ep. 32",
+      "pubDate": "2023-04-12T15:59:50.000Z",
+      "durationSeconds": 2887,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990240-breaking-zag-pt-2-c2-ep-32.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Zag, separated from the party, attempts to break out of the Shadowfell prison while the rest of the party tries to break in disguised as prison guards! Zag kills a vampire bunny, Grom questions where his brother&apos;s clothes are, Selene gives up her turn out o…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53384025",
+      "title": "Breaking Zag Pt. 1 - C2 Ep. 31",
+      "pubDate": "2023-03-29T22:29:17.000Z",
+      "durationSeconds": 2257,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990241-breaking-zag-pt-1-c2-ep-31.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail On the hunt for Zag in the Shadowfell, the remainder of the Champions of Greyhaven blunder their way through a prison guard \"cop bar\" and enter into a fighting ring to try and get information on how to spring their falsely accused ally. Grom learns how to wild s…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53301277",
+      "title": "DND Dance-Off in the Astral Plane - C2 Ep. 30",
+      "pubDate": "2023-03-22T18:38:39.000Z",
+      "durationSeconds": 2059,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990242-dnd-dance-off-in-the-astral-plane-c2-ep-30.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail On the hunt for Zag, The Champions of Greyhaven stumble into the Astral Plane where they must be quick on their feet in a dance competition to escape the clutches of an Astral Dragon! Selene speaks to a reaper about getting out alive, while Efima and Grom have t…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53212675",
+      "title": "Divine Intervention in the Upside-Down - C2 Ep. 29",
+      "pubDate": "2023-03-15T16:01:40.000Z",
+      "durationSeconds": 1580,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990243-divine-intervention-in-the-upside-down-c2-ep-29.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Champions of Greyhaven, now missing Zag, try to defeat the god Zag created. Selene, Grom, and Efimia pray to a new god to try and stop what comes next! Go to Betterdungeonmaster.com/knockedprone to listen to support the podcast sponsoring today&apos;s episod…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53136313",
+      "title": "A Song of Gods and Losing Battles - C2 Ep. 28",
+      "pubDate": "2023-03-08T16:23:10.000Z",
+      "durationSeconds": 2101,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990244-a-song-of-gods-and-losing-battles-c2-ep-28.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Zag convinces the rest of the Champions of Greyhaven to go to the realm of his twin brother Thorn to face him in a fight to the death. Selene has terrible luck, Efimia gets targeted for her divine power, Grom gets hit from full health to zero hit points, and Zag…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/53066336",
+      "title": "How I Met Your Moradin - C2 Ep. 27",
+      "pubDate": "2023-03-01T23:49:54.000Z",
+      "durationSeconds": 2246,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990245-how-i-met-your-moradin-c2-ep-27.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Selene and Grom make their way to the shrine of Moradin and Ethos Summit to try and save the Aasimar people from destruction. Grom melts down a hammer of the Gods, and Selene has a hard discussion with Finch about their relationship going forward. Go to Betterdu…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/52816083",
+      "title": "Alignment Shift in the Shadow of the Archivist's Tower - C2 Ep. 26",
+      "pubDate": "2023-02-22T19:24:07.000Z",
+      "durationSeconds": 2506,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990246-alignment-shift-in-the-shadow-of-the-archivist-s-tower-c2-ep-26.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Zag and Efimia travel to the Archivist&apos;s Tower in an effort to locate Cassidy and discover the solution to Zag&apos;s connection to his brother. Efimia finds Cassidy in a state of despair, and Zag learns that the phrase \"Two Sides of the Same Coin\" is more…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/52745908",
+      "title": "Betrayed by the Warforged_ The Battle for Spark-Elle - C2 Ep. 25",
+      "pubDate": "2023-02-15T19:44:13.000Z",
+      "durationSeconds": 2436,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990247-betrayed-by-the-warforged_-the-battle-for-spark-elle-c2-ep-25.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Wow! It sure is great to be back! Join our adventurers this week as they take on the head of Ascended Corp. and have to try and save their favorite NPC Spark-Elle. Efimia and Selene deal a massive 40+ damage round each, Zag determines he must stop his God of a b…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/52478690",
+      "title": "The Punch Bowl Pt. 2 - C2 Ep. 24",
+      "pubDate": "2023-01-18T22:47:03.000Z",
+      "durationSeconds": 2014,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990248-the-punch-bowl-pt-2-c2-ep-24.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Away Team tries to clean up the mess left by the recently fallen god and the life-threatening drug that has spread throughout the Punch Bowl stadium. Selene walks an old friend to an early grave, Efimia gets some long-deserved closure, Zag gets shut down by…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/52415699",
+      "title": "The Punch Bowl Pt. 1 - C2 Ep. 23",
+      "pubDate": "2023-01-11T21:29:11.000Z",
+      "durationSeconds": 2628,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990249-the-punch-bowl-pt-1-c2-ep-23.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After an eventful day, the Away Team finally gets the chance to cheer for Grom during his big match. Grom has a one-in-a-million shot in the first round of his fight, Zag makes Edmund look like a joke, Selene loses a sister, Efimia has a close encounter with a t…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/52354843",
+      "title": "Knock Down Drag Out Diplomacy - C2 Ep. 22",
+      "pubDate": "2023-01-04T20:49:09.000Z",
+      "durationSeconds": 2571,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990250-knock-down-drag-out-diplomacy-c2-ep-22.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After rescuing Cassidy from herself, the Away Team decides to take Cassidy to War for safekeeping. On their way to dropping off the ex-head of Ascended Corp., the group runs into two allies in the midst of some knock-down, drag-out diplomacy. Selene mediates for…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/52301454",
+      "title": "Smoke and Mirrors - C2 Ep. 21",
+      "pubDate": "2022-12-28T21:39:13.000Z",
+      "durationSeconds": 2518,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990251-smoke-and-mirrors-c2-ep-21.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail On their return to Greyhaven with Grom&apos;s fight just on the horizon, the Away Team decides to pay a visit to Ascended Corp. to receive payment for their latest job. Efimia avoids a secret meeting with Avani, Zag unleashes a curse with a spell, Selene does en…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/52249029",
+      "title": "Dear Dungeon Daddy - Dark Freckle & The Deathly Piano",
+      "pubDate": "2022-12-21T19:26:07.000Z",
+      "durationSeconds": 1969,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990252-dear-dungeon-daddy-dark-freckle-the-deathly-piano.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail We&apos;re releasing half of the first episode of Dear Dungeon Daddy from our Patreon to the main feed so you can get a sneak peak of what our Patreon has to offer! We are rolling out our newest segment of Knocked Prone content, an advice talk show called Dear D…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/52187195",
+      "title": "Feather Fall 101 - C2 Ep. 20",
+      "pubDate": "2022-12-14T18:17:22.000Z",
+      "durationSeconds": 1819,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990253-feather-fall-101-c2-ep-20.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail This ship is going down! The Royal Guard and Company try to figure out how to save the S.S. Finch from a crash landing. Selene watches as her siblings free-fall, Grom tries to spar Efimia, Zag wants to save the person who tried to kill them, and Efimia gets some…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/52123104",
+      "title": "Attack on a Titan Named Finch - C2 Ep. 19",
+      "pubDate": "2022-12-07T18:39:39.000Z",
+      "durationSeconds": 2688,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990254-attack-on-a-titan-named-finch-c2-ep-19.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After emerging from the Brigarune Mines, the Away Team faces a new challenge in getting back to Greyhaven, which has a very angelic solution. Selene fights with her sister over the existence of deities, Grom bats his way into a ping-pong victory, Zag fires a hug…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/52060448",
+      "title": "Celestial Back Scratcher - C2 Ep 18",
+      "pubDate": "2022-11-30T21:49:49.000Z",
+      "durationSeconds": 1926,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990255-celestial-back-scratcher-c2-ep-18.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail When the Away Team reunites in Brigarune City to travel to Greyhaven for Grom&apos;s upcoming Punch Bowl match, Selene discovers something unsettling in a hill giant&apos;s possession. Efimia wrestles with the thought of Thorn being in such a powerful position,…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51992566",
+      "title": "Impractical J'Orcus - C2 Ep. 17",
+      "pubDate": "2022-11-23T18:38:38.000Z",
+      "durationSeconds": 2414,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990256-impractical-j-orcus-c2-ep-17.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Efimia and Zag make contact with Zag&apos;s brother Thorn, the newly bestowed God of the Ten. Thorn comes up with a plan to break Efimia&apos;s pact with Orcus by using the ancient elven tradition of pranking him. Meanwhile, Grom and Selene are told who paid Gut…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51921422",
+      "title": "Fantasy Highschool Never Ends - C2 Ep. 16",
+      "pubDate": "2022-11-16T21:53:39.000Z",
+      "durationSeconds": 3314,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990257-fantasy-highschool-never-ends-c2-ep-16.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Away Team splits the party in the Underdark city of Brigarune. Efimia and Zag go to share the great news of the removal of Driders with Bo Dega, while Grom and Selene meet up with some of Grom&apos;s old Dwarven high school bullies who promise Grom a set of…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51844275",
+      "title": "Orcus, Vecna, or Amulek C2 Ep. 15",
+      "pubDate": "2022-11-09T21:11:04.000Z",
+      "durationSeconds": 3388,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990258-orcus-vecna-or-amulek-c2-ep-15.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Now tasked with assigning the next god of the ten, the Away Team gets heated over who they think is the right choice. Efimia vies for the patron she once hated, Selene looks to Lathander as a guiding light as she and her fiance Finch get changed out of being Dri…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51768284",
+      "title": "The Underdark Tower of Terror - C2 Ep. 14",
+      "pubDate": "2022-11-02T20:11:56.000Z",
+      "durationSeconds": 2634,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990259-the-underdark-tower-of-terror-c2-ep-14.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Away Team, now armed with a cure for Drider&apos;s Disease, travels to Brigarune to save two of their party members and the Dega Brother&apos;s mother. Efimia tries her hand at babysitting, Grom wins a competition against Efimia, Zag becomes more Drider-like…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51725863",
+      "title": "Grom's Halloween Special - C2 Ep. 13",
+      "pubDate": "2022-10-29T17:44:47.000Z",
+      "durationSeconds": 4282,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990260-grom-s-halloween-special-c2-ep-13.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Grom has a chance encounter with his long-lost mother after entering the portal prize from the Wheel of Umber. In this D&D Halloween special episode, Grom gets a chance to save his mother from her imprisonment—all while fighting vampires, getting Halloween candy…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51613002",
+      "title": "A DND Gameshow - C2 Ep. 12",
+      "pubDate": "2022-10-19T19:30:01.000Z",
+      "durationSeconds": 2430,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990261-a-dnd-gameshow-c2-ep-12.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After a long and tense battle with the Bridesmaid of Darkness, our party stumbles into The Wheel of Umber, an Underdark gameshow. Selene succumbs to food phobia, Grom pays an unexpected visit to a long-lost family member, Zag chugs a potion in record time, and E…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51560718",
+      "title": "The Bridesmaid of Darkness - C2 Ep. 11",
+      "pubDate": "2022-10-13T05:48:49.000Z",
+      "durationSeconds": 1882,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990262-the-bridesmaid-of-darkness-c2-ep-11.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Zag, Grom, Efimia, and Selene: deep in the Underdark face a formidable foe who is the heir to Lolth&apos;s Godhood. Grom almost stabs someone with a Drider fang, Selene gets infected, Zag learns that his magic has limitations, and Efimia helps to find a cure bef…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51481309",
+      "title": "Caught in a Drider's Web- C2 Ep. 10",
+      "pubDate": "2022-10-05T23:06:41.000Z",
+      "durationSeconds": 2798,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990263-caught-in-a-drider-s-web-c2-ep-10.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Chasing the newly turned Drider Finch, our group of adventurers stumble into the lair of a demon queen who is angrily waiting to ascend to the throne of godhood. Grom expresses his hatred for Driders, Zag turns to violence, Selene gets infected by Drider venom,…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51408380",
+      "title": "Something Borrowed - C2 Ep. 9",
+      "pubDate": "2022-09-28T16:51:31.000Z",
+      "durationSeconds": 2083,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990264-something-borrowed-c2-ep-9.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Beta Research Team, searching for Selene&apos;s boyfriend, Finch, runs into the Drider-infested underground. Efimia teaches Zag an ancient elven tradition, Grom goes ballistic over a lifeless body, Zag tries his hand at trauma therapy, and Selene gets her he…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51330712",
+      "title": "Cobwebs on the Cutting Room Floor - C2 Ep. 8",
+      "pubDate": "2022-09-21T07:50:11.000Z",
+      "durationSeconds": 2926,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990265-cobwebs-on-the-cutting-room-floor-c2-ep-8.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Our team of adventurers traverses their way down into the Mithral Mines looking for the 3 Dega Brothers to bring them back to Ascended Corp. for a reward. Selene gets an unexpected visit from a romantically charged NPC, Efimia receives a deck of cards that trave…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51260236",
+      "title": "Dinosaur Train - C2 Ep. 7",
+      "pubDate": "2022-09-14T19:02:52.000Z",
+      "durationSeconds": 1887,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990266-dinosaur-train-c2-ep-7.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail On a mission for Ascended Corp., our crew takes a train bound for the Mithral Mines near Brigarune City, but along the way, they encounter some dangerous and scaly roadblocks. Grom is recognized and gives a sloppy autograph, Efimia suffers a significant hit that…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51177046",
+      "title": "Who Rescued Who - C2 Ep. 6",
+      "pubDate": "2022-09-07T18:43:20.000Z",
+      "durationSeconds": 2861,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990267-who-rescued-who-c2-ep-6.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Now on the lam, our adventurers seek refuge in an animal shelter with a Tortle named War, who has a proposition for them. Grom gets acquainted with a new animal companion; Efimia uses her bacon resources to make a powerful ally; Zag puts a new label on his buddi…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51094654",
+      "title": "How to Spark-elle a Flame - C2 Ep. 5",
+      "pubDate": "2022-08-31T17:42:33.000Z",
+      "durationSeconds": 2681,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990268-how-to-spark-elle-a-flame-c2-ep-5.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Ascended Corp. Beta Adventuring Team must pick between working for The Veiled Grin or Ascended Corp. as their employer, but they are still unsure who the good guys are. Grom assures the group there is nothing to worry about; Zag shoots an arrow at a Rune Cry…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/51019750",
+      "title": "An Act of War - C2 Ep. 4",
+      "pubDate": "2022-08-24T19:30:00.000Z",
+      "durationSeconds": 2267,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990269-an-act-of-war-c2-ep-4.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Having defeated the zombies from the Cult of the Skull, our intrepid travelers head back to Ascended Corp. HQ, only to be stopped by a Tortle who claims they were decieved. Zag strengthens the group&apos;s bond as a team, Selene finds the person she thinks kille…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/50944054",
+      "title": "All Sewers Lead to Orcus - C2 Ep. 3",
+      "pubDate": "2022-08-17T20:57:59.000Z",
+      "durationSeconds": 1588,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990270-all-sewers-lead-to-orcus-c2-ep-3.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Ascended Corp. Beta Team adventures down the sewers to complete their high-profile mission. Efimia is struck with visions of how she became a warlock serving Orcus; Grom finds a worthy fighting advisary; Selene gives a group of zombies dance lessons; and Zag…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/50944017",
+      "title": "Ascended Corp. Orientation - C2 Ep. 2",
+      "pubDate": "2022-08-17T20:48:04.000Z",
+      "durationSeconds": 2647,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990271-ascended-corp-orientation-c2-ep-2.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Zag and Grom have their first sleepover as brothers. Selene receives a call from her distant boyfriend, Finch, who is terribly missing her. Efimia finds the woman she has been searching for in Greyhaven, only to find that she is a little more tight-lipped with i…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/50943983",
+      "title": "Dinos, Dive Bars, and Dames - C2 Ep. 1",
+      "pubDate": "2022-08-17T20:41:05.000Z",
+      "durationSeconds": 2529,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990272-dinos-dive-bars-and-dames-c2-ep-1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Following their first victory in the Punch Bowl Tournament, Grom and Zag are rudely awakened when orc mercenary rangers and their velociraptor pets arrive to take Zag as a trophy prisoner for Zag&apos;s father (their king). As the duo duked it out in Innferior,…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/50943795",
+      "title": "Knocked Prone Campaign 2 Session 0 - C2 Ep. 0",
+      "pubDate": "2022-08-17T20:20:36.000Z",
+      "durationSeconds": 1007,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990273-knocked-prone-campaign-2-session-0-c2-ep-0.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Meet the Campaign Two Cast: Alec Backus - Zag (Half-Elf, Peace Domain Cleric) Mason Sydall - Grom (Dwarf, Champion Fighter) Marissa Zander - Efimia (Half-Elf, Fiend Warlock) Brookelin Backus - Selene (Aasimar, Phantom Rogue) Consider supporting our show by going…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/50128078",
+      "title": "Talked Prone Campaign 1 Finale",
+      "pubDate": "2022-06-08T18:55:55.000Z",
+      "durationSeconds": 2390,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990274-talked-prone-campaign-1-finale.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Danny Denison joined by co-host Kade Backus asks our cast members their favorite part of the Knocked Prone Campaign One: Great Grumbopolis. Future Talked Prone episodes will take place every other episode in Knocked Prone Campaign Two, and all future episodes of…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/49848329",
+      "title": "The End of the Grey Aura - C1 Ep. 67",
+      "pubDate": "2022-05-18T18:21:19.000Z",
+      "durationSeconds": 3004,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990275-the-end-of-the-grey-aura-c1-ep-67.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Our Team of Adventurers fights their final battle with Amulek for control over the soul of a Rakshasa. Torinn says his final words, Tess gets reunited with an old friend, La&apos;kyr gives a heartwarming speech, Jack finds himself in a sticky situation, and Lits…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/49668136",
+      "title": "The Battle for Great Grumbopolis - C1 Ep. 66",
+      "pubDate": "2022-05-04T23:19:16.000Z",
+      "durationSeconds": 1708,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990276-the-battle-for-great-grumbopolis-c1-ep-66.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Amulek shows the party their flaws and then begins to exploit their lack of preparation to fight him and his army. Tess tries to take control over his emotions but comes up short, La&apos;kyr keeps his father in his place, Litsea tries to keep the party together…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/49573354",
+      "title": "An Amulek Combat Double Feature - C1 Ep. 65",
+      "pubDate": "2022-04-27T19:15:50.000Z",
+      "durationSeconds": 2342,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990277-an-amulek-combat-double-feature-c1-ep-65.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Fighting their way through Great Grumbopolis, The Grey Aura+ takes on a group of heal-bots and then takes on a group of Amulek doubles! Two combats for the price of one! La&apos;kyr melts a robot and wonders why his father seems to be cleaning up a mess, Litsea…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/49491927",
+      "title": "Amulek The First - C1 Ep. 64",
+      "pubDate": "2022-04-20T16:55:02.000Z",
+      "durationSeconds": 1536,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990278-amulek-the-first-c1-ep-64.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura+ starts to fight their way through Great Grumbopolis looking for Amulek. Torinn acts like a madman as he gets face to face with La&apos;kyr&apos;s father, Tess tells the army of Fort Outcast to leave the city, Jack tries to leave Oleander&apos;s of…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/49426336",
+      "title": "Into the Heart of Great Grumbopolis - C1 Ep. 63",
+      "pubDate": "2022-04-13T18:42:03.000Z",
+      "durationSeconds": 1614,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990279-into-the-heart-of-great-grumbopolis-c1-ep-63.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The party starts its assault on the City of Great Grumbopolis. Tess and Torinn lead an army, Litsea gives away her broom, La&apos;kyr comes upon some last-minute luck, and Jack gets a glimpse of La&apos;kyr&apos;s father sitting in Oleander&apos;s Office. Suppor…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/49343184",
+      "title": "Takkin's Story - C1 Ep. 62",
+      "pubDate": "2022-04-06T17:33:15.000Z",
+      "durationSeconds": 2755,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990280-takkin-s-story-c1-ep-62.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After a nightmare, The Grey Aura prepares for what could be their final battle. Jack warns the group of a coming army, Litsea avoids a group of Feywild flowers, Torinn gets more information about the purple goop, Tess tells the party of a weakness in Great Grumb…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/49172432",
+      "title": "Secrets Secrets Are No Fun - C1 Ep. 61",
+      "pubDate": "2022-03-23T18:51:58.000Z",
+      "durationSeconds": 2549,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990281-secrets-secrets-are-no-fun-c1-ep-61.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura+ explores a goop fracking station and make last-minute preparations to travel into their once home Great Grumbopolis. Litsea unwillingly tells Torinn her secrets, Torinn has a heart to heart with La&apos;kyr about his death, La&apos;kyr asks Torinn…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/49085471",
+      "title": "Doomsday Planning - C1 Ep. 60",
+      "pubDate": "2022-03-16T17:38:52.000Z",
+      "durationSeconds": 1918,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990282-doomsday-planning-c1-ep-60.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail With the newly revived La&apos;kyr the party, joined by Boggy Billy, starts gathering troops for the battle in Great Grumbopolis. Litsea tries to beat up La&apos;kyr, Torinn feels particularly lucky, Jack gets really upset about a spoon, Tess gives his animal ba…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/49007656",
+      "title": "The Afterlife of La'kyr - C1 Ep. 59",
+      "pubDate": "2022-03-09T19:04:12.000Z",
+      "durationSeconds": 2920,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990283-the-afterlife-of-la-kyr-c1-ep-59.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail After death, the soul of La&apos;kyr wanders the astral void searching for an answer to where he is and how to get back to his friends. La&apos;kyr meets up with three friends, one he&apos;s happy to see, one he begrudgingly sees, and one he must save in this Du…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/48927765",
+      "title": "Wishless - C1 Ep. 58",
+      "pubDate": "2022-03-02T20:18:45.000Z",
+      "durationSeconds": 1831,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990284-wishless-c1-ep-58.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Back outside of Fort Outcast without their party member La&apos;kyr, our group of adventurers spends some time trying to pick up the pieces and piece together what they are going to do next. Torinn loots from a store, Jack gets mistaken for a much older La&apos;…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/48847547",
+      "title": "Litsea's Deal - C1 Ep. 57",
+      "pubDate": "2022-02-23T19:53:01.000Z",
+      "durationSeconds": 2092,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990285-litsea-s-deal-c1-ep-57.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Litsea meets with her Aunt one-on-one to talk about her future and whether or not she will join a hag coven with her Aunts Raven and Momma Sherry. Support us at Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Knocked Prone cont…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/48760672",
+      "title": "Raven's Deal - C1 Ep. 56",
+      "pubDate": "2022-02-16T18:56:19.000Z",
+      "durationSeconds": 2536,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990286-raven-s-deal-c1-ep-56.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Continuing through the Winter Court Castle our band of heroes finds incriminating information that makes them much less interested in any hag deals Raven may have to offer them. Tess receives a gift only to have it taken from him, Torinn obtains a huge spell wit…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/48648188",
+      "title": "Masquerade Entrance Etiquette - C1 Ep. 55",
+      "pubDate": "2022-02-08T21:29:37.000Z",
+      "durationSeconds": 2852,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990287-masquerade-entrance-etiquette-c1-ep-55.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura+ makes it to their destination of the Winter Castle and begins their search for Litsea&apos;s Aunt Raven and Torinn&apos;s Father Kord. Jack mingles with his long-lost people, Litsea gets witchy, Tess turns someone into a dragon, Torinn gets puzzle…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/48559058",
+      "title": "How To Platinum A Dungeon - C1 Ep. 54",
+      "pubDate": "2022-02-02T16:46:06.000Z",
+      "durationSeconds": 2712,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990288-how-to-platinum-a-dungeon-c1-ep-54.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura+ continues their fight with the genetically modified zombies in the Frozen Fortress. Torinn dances with death as he sets fire to a dungeon, Jack uncovers a conspiracy that may get the party killed if he&apos;s correct, Tess starts a four-hour perfo…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/48459430",
+      "title": "Therapeutic Zombie Hunting - C1 Ep. 53",
+      "pubDate": "2022-01-26T22:41:37.000Z",
+      "durationSeconds": 2798,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990289-therapeutic-zombie-hunting-c1-ep-53.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura+ prepares to face their fate at the Winter Castle, but before they leave the Frozen Fortress, Torinn decides to take some of his pent-up anger out on the remaining zombies inside. Jack gets bullied by the party for having a cursed item, Torinn brea…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/48368063",
+      "title": "The Rise and Fall of Q-62 - C1 Ep. 52",
+      "pubDate": "2022-01-19T20:45:01.000Z",
+      "durationSeconds": 1810,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990290-the-rise-and-fall-of-q-62-c1-ep-52.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura+ finds themselves in the midst of a high-stakes prison heist. La&apos;kyr gets strong at the cost of his intelligence, Litsea hides her hag form, Jack almost dies from his cursed item, Tess almost deals an unintentional killing blow, and Torinn get…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/48270337",
+      "title": "Retcon & Reconnaissance - C1 Ep. 51",
+      "pubDate": "2022-01-12T19:48:06.000Z",
+      "durationSeconds": 2094,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990291-retcon-reconnaissance-c1-ep-51.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Jack, Tess, Litsea, Torinn, and Laky&apos;r find themselves stuck between a rock and a hard place as they are locked in a high-security prison with the alarm blaring. Litsea starts to patch things up with her father, Laky&apos;r ignores a prisoner in need, Tess…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/48181293",
+      "title": "A Belated Wild Magic Holiday - C1 Ep. 50",
+      "pubDate": "2022-01-05T20:31:31.000Z",
+      "durationSeconds": 3247,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990292-a-belated-wild-magic-holiday-c1-ep-50.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura+ finds themselves dealing with the repercussions of Tess being corrupted by purple goop and they try to find a way to save Torinn&apos;s dad. Torinn gains wild magic capabilities again, Tess hands out some wholesome Goodberries, Litsea has her hag…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/48020345",
+      "title": "Origins - C1 Ep. 49",
+      "pubDate": "2021-12-22T20:20:02.000Z",
+      "durationSeconds": 1975,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990293-origins-c1-ep-49.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura+ plans their next moves as they prepare to leave the Brall Mall. Yui dreams of getting a body, La&apos;kyr gets annoyed with a hag, Jack bonds over books, Torinn gets an unexpected visitor, and Litsea learns about her mother&apos;s past in this epi…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/47952289",
+      "title": "The Circle of The Corrupted Blood Moon - C1 Ep. 48",
+      "pubDate": "2021-12-16T21:05:52.000Z",
+      "durationSeconds": 3112,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990294-the-circle-of-the-corrupted-blood-moon-c1-ep-48.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Tess is back! What is wrong with his attitude though? Yui tries to help his dad get a body back, Litsea wrestles with feeling like an outsider because of her hag traits, La&apos;kyr berates a hostage, Jack tries to get the party to attend a witch&apos;s trial, a…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/47842571",
+      "title": "Seeing Double In The Brall Mall - C1 Ep. 47",
+      "pubDate": "2021-12-08T22:00:47.000Z",
+      "durationSeconds": 3181,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990295-seeing-double-in-the-brall-mall-c1-ep-47.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Torinn, Litsea, La&apos;kyr, and Jack venture into the Brawl Mall to try and find the kidnapped Yui. Torinn traumatizes the group with a horse, Litsea uses invisibility to finally be as stealthy as the rest of the party, Jack hangs out with a frogman, La&apos;ky…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/47730348",
+      "title": "Yui & The Brall Mall Pt. 2 - C1 Ep. 46",
+      "pubDate": "2021-12-01T20:00:02.000Z",
+      "durationSeconds": 1132,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990296-yui-the-brall-mall-pt-2-c1-ep-46.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail This episode of Knocked Prone is sponsored by our supporters over at Patreon.com/knocked . A huge thank you to our patrons for supporting our podcast and providing an ad-free experience for this episode. Yui fights his way through the war zone of the Brall Mall…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/47640592",
+      "title": "Yui & The Brall Mall Pt. 1 - C1 Ep. 45",
+      "pubDate": "2021-11-24T17:57:22.000Z",
+      "durationSeconds": 2762,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990297-yui-the-brall-mall-pt-1-c1-ep-45.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Yui finds himself separated from the group and taken to a warzone called the Brall Mall by the Lambs of Slaughter. Yui is asked for war codes implanted in his brain, Yui meets a robot who just might be his father, and Yui is pinned in a fight to the death betwee…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/47525766",
+      "title": "Kidnap Across a Winter Court Lake - C1 Ep. 44",
+      "pubDate": "2021-11-17T20:39:44.000Z",
+      "durationSeconds": 1680,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990298-kidnap-across-a-winter-court-lake-c1-ep-44.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The battle between the Monks of The Lambs of Slaughter and Team: The Best Aura continues as they fight for the freedom of Yui. Jack claims Yui as his child, Litsea helps a party member not die, and La&apos;kyr and Torinn have a fire burning in their eyes as the…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/47412689",
+      "title": "Monk-y Business in the Giant Flower Forest - C1 Ep. 43",
+      "pubDate": "2021-11-10T19:22:56.000Z",
+      "durationSeconds": 2313,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990299-monk-y-business-in-the-giant-flower-forest-c1-ep-43.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura + find themselves immersed in a giant flower forest in the Feywild, and after finding a gigantic ten-foot-deep footprint in the ground, the party gets ambushed by Yui&apos;s previous captors the Lambs of Slaughter. La&apos;kyr confronts Litsea abou…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/47294261",
+      "title": "Elven Books & Bad Omens - C1 Ep. 42",
+      "pubDate": "2021-11-03T16:19:48.000Z",
+      "durationSeconds": 3070,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990300-elven-books-bad-omens-c1-ep-42.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura + decides whether they will kill Momma Sherry who takes care of the 34 soul-husk children, or if Momma Sherry actually has good intent. La&apos;kyr buries his head in Ancient Elven books, Litsea interrogates a child, Torinn becomes buddies with a c…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/47186029",
+      "title": "Trick or Treat Hag's Retreat - C1 Ep. 41",
+      "pubDate": "2021-10-27T19:20:50.000Z",
+      "durationSeconds": 5180,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990301-trick-or-treat-hag-s-retreat-c1-ep-41.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail A Knocked Prone Halloween Special! The Grey Aura + adventures into a haunted house to find the secrets it offers. Yui is filled with dread, Litsea scares a ghost, Torinn finds magic candy, Jack gives an inspired speech, and La&apos;kyr faces his greatest challen…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/47067951",
+      "title": "Card Tilt Sandstorm - C1 Ep. 40",
+      "pubDate": "2021-10-20T19:39:49.000Z",
+      "durationSeconds": 3744,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990302-card-tilt-sandstorm-c1-ep-40.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura with the addition of their new party members Jack and Yui set off to the Winter Court to hunt down Litsea&apos;s evil Aunt. Torrin gets some bonding time with his father, Litsea wagers a genie for a better deal, Yui shows off his skills in a card g…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/46960916",
+      "title": "A Hag's Promise - C1 Ep. 39",
+      "pubDate": "2021-10-13T18:06:53.000Z",
+      "durationSeconds": 1623,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990303-a-hag-s-promise-c1-ep-39.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura and Jack and Yui enter into a battle with a group of Hags who are malicious. Yui throws endless amounts of knives, La&apos;kyr knocks on death&apos;s door, Torinn is given a horse companion, Jack teleports around the map, and Litsea finds out some…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/46851750",
+      "title": "Song of the Summer Hags - C1 Ep. 38",
+      "pubDate": "2021-10-06T17:20:50.000Z",
+      "durationSeconds": 1991,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990304-song-of-the-summer-hags-c1-ep-38.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Torinn, Litsea, and La&apos;kyr find their way back to the Summer Court where they saw the Hags travel. La&apos;kyr jumps the gun with spells, Torinn puts the pain on the hags in the blink of an eye, Litsea puts everyone&apos;s hands together in harmony, and Jac…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/46746306",
+      "title": "La'kyr and Vecna Pt. 2 - C1 Ep. 37",
+      "pubDate": "2021-09-29T19:18:40.000Z",
+      "durationSeconds": 2334,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990305-la-kyr-and-vecna-pt-2-c1-ep-37.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail La&apos;kyr visits Vecna&apos;s lair where she gives him gifts and asks La&apos;kyr to complete a ritual to bring Vecna back to the mortal world. La&apos;kyr, blinded by the power Vecna offers and the grief he feels from his lost friend Phoenix, accepts only to…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/46639572",
+      "title": "La'kyr & Vecna Pt. 1 - C1 Ep. 36",
+      "pubDate": "2021-09-22T18:25:14.000Z",
+      "durationSeconds": 2822,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990307-la-kyr-vecna-pt-1-c1-ep-36.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail La&apos;kyr journeys alone to help Vecna retrieve artifacts of power. La&apos;kyr hopes Vecna will stay trustworthy on her deal to help La&apos;kyr get his pet fox, Phoenix, back. Support our podcast by going to Patreon.com/Knocked where you will get access to a…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/46537775",
+      "title": "Litsea & Torinn Pt. 2 - C1 Ep. 35",
+      "pubDate": "2021-09-15T19:40:08.000Z",
+      "durationSeconds": 1853,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990308-litsea-torinn-pt-2-c1-ep-35.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Litsea and Torinn, through the instruction of Adelina the Dragonborn, travel down to the Hag Coven to find Torinn&apos;s parents and hopefully an answer to where the Dragonborn people are. Along the way, however, Litsea and Torinn are met by some shady oppositio…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/46433262",
+      "title": "Litsea & Torinn Pt. 1 - C1 Ep. 34",
+      "pubDate": "2021-09-08T19:55:03.000Z",
+      "durationSeconds": 1671,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990309-litsea-torinn-pt-1-c1-ep-34.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Torinn & Litsea travel to the Summercourt in the Feywild to find there is more trouble in the Feywild than they initially thought. La&apos;kyr runs into the forest famished, Litsea creates a cannon in the shape of a dog, and Torinn finds out his long-lost home i…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/46334134",
+      "title": "Tony (Full Nelson) Nelson - C1 Ep. 33",
+      "pubDate": "2021-09-01T19:57:11.000Z",
+      "durationSeconds": 1407,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990310-tony-full-nelson-nelson-c1-ep-33.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Jack and Yui continue their adventure through the underbelly of the Feywild in the laboratory of the Lambs of Slaughter. They find The Artist formerly known as Giant in an exciting battle scenario. Yui gets shown what a full Nelson is, and Jack scares a wrestler…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/46236461",
+      "title": "Jack & Yui - C1 Ep. 32",
+      "pubDate": "2021-08-25T18:04:40.000Z",
+      "durationSeconds": 2606,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990311-jack-yui-c1-ep-32.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail A new party emerges from the Feywild as Danny rolls up a new character and a new podcast member joins the adventure! Jack gets scared by some blood used for spell ingredients and Yui makes an ogre laugh. Support us at Patreon.com/Knocked to get access to a look…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/46145519",
+      "title": "Difficult Goodbyes - C1 Ep. 31",
+      "pubDate": "2021-08-18T18:20:31.000Z",
+      "durationSeconds": 2549,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990312-difficult-goodbyes-c1-ep-31.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail In the wake of their chocolate Fey wild battle, the Grey Aura meets some old gnoll friends on their way to talk to the awakened trees. Torinn shows off his flicking power, Litsea starts to formulate a plan involving nunchucks and flying broomsticks, La&apos;kyr…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/46056559",
+      "title": "Frozen Chocolate & Accidental Fire - C1 Ep. 30",
+      "pubDate": "2021-08-11T20:04:09.000Z",
+      "durationSeconds": 2531,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990313-frozen-chocolate-accidental-fire-c1-ep-30.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura continues their fight with the Black Pudding and Giant Constrictor Snakes, Lak&apos;yr goes purple in the face, Litsea practices her CPR skills, Blink sets a forest ablaze, and Tess is afraid of an old man. Support us at Patreon.com/Knocked to get…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/45877373",
+      "title": "A Fey Wild Chocolate Trap - C1 Ep. 29",
+      "pubDate": "2021-07-28T17:43:19.000Z",
+      "durationSeconds": 1566,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990314-a-fey-wild-chocolate-trap-c1-ep-29.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura continues their adventure through the Fey Wild and finds a group of Awakened Trees in the Autumn Courts that need their help. The Grey Aura takes a quick dip into a chocolate pond to help save a group of sick tree people who are missing their belov…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/45790669",
+      "title": "Wild Magic Maelstrom - C1 Ep. 28",
+      "pubDate": "2021-07-21T20:45:40.000Z",
+      "durationSeconds": 2249,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990315-wild-magic-maelstrom-c1-ep-28.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Our party finds a maelstrom in the middle of the Feywild that offers magic items to those who traverse its waters. Support us at Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Knocked Prone content! Support the show"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/45695246",
+      "title": "Topher And The Artist Formerly Known As Giant - C1 Ep. 27",
+      "pubDate": "2021-07-14T16:23:23.000Z",
+      "durationSeconds": 1376,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990316-topher-and-the-artist-formerly-known-as-giant-c1-ep-27.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura heads into the feywild and fights an 80s-obsessed Troll who is fighting a Dragonborn that looks like they may be related to Blink. Support our podcast by going to Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Kn…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/45618694",
+      "title": "Short Rest Shopping and Nightmare Visions - C1 Ep. 26",
+      "pubDate": "2021-07-07T21:39:29.000Z",
+      "durationSeconds": 2605,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990317-short-rest-shopping-and-nightmare-visions-c1-ep-26.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura goes shopping for the supplies they need to head into the Feywild. La&apos;kyr has some time alone with Tess to try and figure out Tess&apos;s animal affliction, the group has a handful of terrible visions, and then they find a gruesome sight outsi…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/45512215",
+      "title": "Dragon Versus Ox Ft. @Halcybella - C1 Ep. 25",
+      "pubDate": "2021-06-30T16:53:08.000Z",
+      "durationSeconds": 2350,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990318-dragon-versus-ox-ft-halcybella-c1-ep-25.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura and Lillith Flamepike (played by Bella LeBaron) venture to the heart of a dormant volcano to try and find where La&apos;kyr has gone with the Dragon King. The Grey Aura then fights the Dragon King in hopes of restoring balance to Fort Outcast. Supp…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/45408669",
+      "title": "King Slayer Ft. @Halcybella - C1 Ep. 24",
+      "pubDate": "2021-06-23T16:15:04.000Z",
+      "durationSeconds": 3191,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990319-king-slayer-ft-halcybella-c1-ep-24.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Now inside the inner tiers of Fort Outcast, The Grey Aura and Lillith Flamepike (played by Bella Lebaron) try to find a harmonious solution to the fort&apos;s problems so they can get the Time Anchors they are wanting, and hopefully leave Fort Outcast in a bette…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/45333335",
+      "title": "Dragon Dash Ft. @halcybella - C1 Ep. 23",
+      "pubDate": "2021-06-17T00:05:48.000Z",
+      "durationSeconds": 3345,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990320-dragon-dash-ft-halcybella-c1-ep-23.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura makes it to Fort Outcast where they meet a new dwarven friend, Lillith Flamepike (Played by Bella LeBaron). Lillith escorts the party through Fort Outcast, while the Grey Aura is saddened by the state of hunger the people are in. The Grey Aura deci…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/45313406",
+      "title": "Journey To Fort Outcast Pt. 3 - C1 Ep. 22",
+      "pubDate": "2021-06-15T17:46:23.000Z",
+      "durationSeconds": 3715,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990321-journey-to-fort-outcast-pt-3-c1-ep-22.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura bid Boggy Billy farewell as they head into a maze that will test their friendship before they can make it to Fort Outcast. Support us at Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Knocked Prone content! Suppo…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/45141128",
+      "title": "Journey To Fort Outcast Pt. 2 - C1 Ep. 21",
+      "pubDate": "2021-06-02T20:35:00.000Z",
+      "durationSeconds": 2851,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990322-journey-to-fort-outcast-pt-2-c1-ep-21.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail On their journey to Fort Outcast, the Grey Aura comes across some purple goop-infested beasts that pose to attack! Support us at Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Knocked Prone content! Support the show"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/45052724",
+      "title": "Journey To Fort Outcast Pt. 1 - C1 Ep. 20",
+      "pubDate": "2021-05-26T18:56:48.000Z",
+      "durationSeconds": 1418,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990323-journey-to-fort-outcast-pt-1-c1-ep-20.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura starts their journey to another civilization in order to fix the problems plaguing Great Grumbopolis. Support us at Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Knocked Prone content! Support the show"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/44912329",
+      "title": "Converging Paths - C1 Ep. 19",
+      "pubDate": "2021-05-19T16:30:42.000Z",
+      "durationSeconds": 1548,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990324-converging-paths-c1-ep-19.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The party finds the Blue Wizard&apos;s Aura has been kicked out of Great Grumbopolis, and the Grey Aura questions why. Support our podcast at Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Knocked Prone content! Support the sh…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/44775797",
+      "title": "There Are Some Things That Are Better To Forget - C1 Ep. 18",
+      "pubDate": "2021-05-12T17:15:05.000Z",
+      "durationSeconds": 1404,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990325-there-are-some-things-that-are-better-to-forget-c1-ep-18.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail At the insistence of the Party, Harold decides it would be best if he were dropped off in the Feywild. Support us at Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Knocked Prone content! Support the show"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/44647370",
+      "title": "The Problem With Good Berries - C1 Ep. 17",
+      "pubDate": "2021-05-05T17:49:50.000Z",
+      "durationSeconds": 3435,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990326-the-problem-with-good-berries-c1-ep-17.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail A fight ensues with Harold after a tense situation between him and La&apos;kyr. Support us at Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Knocked Prone content! Support the show"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/44545447",
+      "title": "Manipulation - C1 Ep. 16",
+      "pubDate": "2021-04-28T19:19:24.000Z",
+      "durationSeconds": 2438,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990327-manipulation-c1-ep-16.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura meets some conflict with Litsea&apos;s Father Harold as he wants to do what&apos;s best for Litsea at whatever cost (even if it&apos;s against the rest of the party&apos;s wishes). Support us at Patreon.com/Knocked to get access to a look behind th…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/44422298",
+      "title": "Hot Cocoa and Gnoll Massages - C1 Ep. 15",
+      "pubDate": "2021-04-21T14:44:48.000Z",
+      "durationSeconds": 3335,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990328-hot-cocoa-and-gnoll-massages-c1-ep-15.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura find themselves in a Gnoll camp trying to stealthily save the Ranger Children from the Gnolls who seem to live a life of luxury. Support our podcast at Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Knocked Prone…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/44334648",
+      "title": "Gnoll Gods And Wild Magic - C1 Ep. 14",
+      "pubDate": "2021-04-14T17:50:34.000Z",
+      "durationSeconds": 2635,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990329-gnoll-gods-and-wild-magic-c1-ep-14.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The party sneaks up on a group of gnolls to try and save the group of Ranger children. Support us at Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Knocked Prone content! Support the show"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/44245734",
+      "title": "Not At All Suspicious Trees - C1 Ep. 13",
+      "pubDate": "2021-04-07T19:40:54.000Z",
+      "durationSeconds": 2232,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990330-not-at-all-suspicious-trees-c1-ep-13.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura travels South towards the Gnoll encampment to save the Ranger children and encounters a group of animated trees in a desert-surrounded grove. Support this podcast by going to Patreon.com/Knocked to get access to a look behind the scenes and a bunch…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/44133702",
+      "title": "Into The Feyyy - C1 Ep. 12",
+      "pubDate": "2021-03-31T18:23:27.000Z",
+      "durationSeconds": 1850,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990331-into-the-feyyy-c1-ep-12.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The party stumbles into a Feywild portal and meets a strange man who wants to keep the party in the Feywild for as long as possible for some reason. Support this podcast at Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Knocke…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/43828492",
+      "title": "The Sweet Escape - C1 Ep. 11",
+      "pubDate": "2021-03-10T16:58:51.000Z",
+      "durationSeconds": 1127,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990332-the-sweet-escape-c1-ep-11.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura plans their escape from the city and picks up a new member in the form of a healbot. Support our podcast at Patreon.com/Knocked to get access to a look behind the scenes and a bunch of other Knocked Prone content! Support the show"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/43724241",
+      "title": "Lone Ranger - C1 Ep. 10",
+      "pubDate": "2021-03-03T19:40:00.000Z",
+      "durationSeconds": 2665,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990333-lone-ranger-c1-ep-10.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura investigates what happened to the Ranger&apos;s Headquarters only to find it the victim of a decimating attack from terrible creatures who came from outside Great Grumbopolis&apos;s walls. The Grey Aura then formulates a rescue mission for the miss…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/43616531",
+      "title": "Burning Daylight - C1 Ep. 9",
+      "pubDate": "2021-02-24T18:00:24.000Z",
+      "durationSeconds": 2268,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990334-burning-daylight-c1-ep-9.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey aura plans a heist of the Cleric&apos;s Hive to steal a heal bot and becomes a team through mutual trust and team bracelets. La&apos;kyr makes a deal with the Wizards for some magic items and forms an alliance before becoming forgotten and then stops by…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/43514657",
+      "title": "A Wolf in the Night - C1 Ep. 8",
+      "pubDate": "2021-02-17T20:31:16.000Z",
+      "durationSeconds": 2639,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990335-a-wolf-in-the-night-c1-ep-8.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura bunks in Takkin&apos;s Giant Mushroom Bell Tower and experiences a kidnapping. La&apos;kyr gets a handsome bribe, Tess breaks a stranger&apos;s leg, Blink tries to advocate for peace, and Litsea, after a difficult day of adventuring, is ready for a…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/43393111",
+      "title": "The Forbidden Library Pt. 3 - C1 Ep. 7",
+      "pubDate": "2021-02-11T00:33:10.000Z",
+      "durationSeconds": 2893,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990336-the-forbidden-library-pt-3-c1-ep-7.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura, now stuck in the Historian&apos;s Library, struggles to try and escape before all of the air escapes the library. Tess gives the party some very essential \"Goose\" berries, Lak&apos;yr stumbles upon a well-kept evil secret, Blink runs into a brick…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/43272511",
+      "title": "The Forbidden Library Pt. 2 - C1 Ep. 6",
+      "pubDate": "2021-02-03T20:15:37.000Z",
+      "durationSeconds": 3110,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990337-the-forbidden-library-pt-2-c1-ep-6.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Blink, La’kyr, and Litsea face the consequences of trespassing in the Historian’s Library as they are attacked by two enormous Paper Golems. Tess rushes to the party’s aid and provides some much-needed healing while the rest of the Grey Aura focuses firepower on…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/43150375",
+      "title": "The Forbidden Library Pt. 1 - C1 Ep. 5",
+      "pubDate": "2021-01-27T19:30:53.000Z",
+      "durationSeconds": 2137,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990338-the-forbidden-library-pt-1-c1-ep-5.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura plots a Library heist to find proof of the innocence of Litsea’s Father, La’kyr leads the heist and finds some concerning news, Blink hatches a distraction plan if things go sideways, Litsea establishes trust with the group and questions Tess’s loy…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/43031346",
+      "title": "For the Good of The Hive - C1 Ep. 4",
+      "pubDate": "2021-01-20T19:37:56.000Z",
+      "durationSeconds": 2415,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990339-for-the-good-of-the-hive-c1-ep-4.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The Grey Aura is forced to deal with the aftermath of taking the blueprints from Takkin and now must decide who the blueprints truly belong to. Litsea tries her hand at blackmail but finds it goes sideways, Tess tries his hand at Diplomacy and finds that not eve…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/42925586",
+      "title": "The Takkin Blueprints Conspiracy - C1 Ep. 3",
+      "pubDate": "2021-01-14T02:01:05.000Z",
+      "durationSeconds": 1984,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990340-the-takkin-blueprints-conspiracy-c1-ep-3.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Our band of heroes find themselves in a moral dilemma as they visit the Cleric’s Hive and find it overrun by Artificer Heal Bots. Blink struggles feeling like they are making any difference in bringing the auras together as the party tries to figure out how to g…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/42813801",
+      "title": "Unearthing Arcana - C1 Ep. 2",
+      "pubDate": "2021-01-06T15:17:12.000Z",
+      "durationSeconds": 2531,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990341-unearthing-arcana-c1-ep-2.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail The party deals with the aftermath of their fight with the rabbits-turned-rats and then heads to their newly appointed home, a burned church of an abandoned aura. Tess tries to make friends with his new bag of animals, La’kyr is increasingly annoyed by the runar…"
+    },
+    {
+      "id": "https://api.spreaker.com/episode/42603047",
+      "title": "Welcome To Great Grumbopolis - C1 Ep. 1",
+      "pubDate": "2020-12-22T00:11:25.000Z",
+      "durationSeconds": 2814,
+      "audioUrl": "https://www.buzzsprout.com/2201541/episodes/12990342-welcome-to-great-grumbopolis-c1-ep-1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Send us Fan Mail Blink (Kaden), La’kyr (Mason), Litsea (Brookelin), and Tess (Danny) begin their adventure in Great Grumbopolis and meet their aura destiny -- a fate that will determine the rest of their lives, followed by some terrible news. The crew answers the orders of a Uni…"
+    }
+  ]
+}

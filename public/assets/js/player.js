@@ -68,6 +68,18 @@ export function buildNowPlaying(episode, showName) {
   return { wrap, title, audio, source, meta };
 }
 
+/** Swaps an existing now-playing block over to a different episode. */
+export function playEpisode(nowPlaying, episode, showName) {
+  nowPlaying.title.textContent = episode.title;
+  nowPlaying.source.src = episode.audioUrl;
+  nowPlaying.source.type = episode.audioType || "audio/mpeg";
+  nowPlaying.audio.load();
+  nowPlaying.audio.setAttribute("aria-label", `Play ${episode.title}, ${showName}`);
+  nowPlaying.meta.textContent = episodeMetaText(episode);
+  nowPlaying.wrap.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  nowPlaying.audio.focus();
+}
+
 /** One row in the "more episodes" disclosure list. Clicking it swaps the
  * now-playing block to that episode rather than spawning a second player. */
 export function buildEpisodeRow(episode, onSelect) {

@@ -1,8 +1,10 @@
-import { buildNowPlaying, buildEpisodeRow, formatDate, formatDuration } from "./player.js";
+import { buildNowPlaying, buildEpisodeRow, playEpisode } from "./player.js";
 
 /** Renders a show's player into its slot: the latest episode as the active
- * native player, plus a native <details> disclosure for the rest of the
- * back catalog (an accordion beats a bare long <ul> for >5 items). */
+ * native player, plus a native <details> disclosure for the next few recent
+ * ones (an accordion beats a bare long <ul> for >5 items). The full back
+ * catalog lives on the show's own episodes page, linked from the bottom of
+ * the disclosure, so this page stays short however long a show has run. */
 export function renderShowPlayer(slot, show) {
   slot.textContent = ""; // clear "Loading episodes…"
   slot.setAttribute("aria-busy", "false");
@@ -38,25 +40,20 @@ export function renderShowPlayer(slot, show) {
     list.className = "player__list";
     rest.forEach((episode) => {
       list.appendChild(
-        buildEpisodeRow(episode, (selected) => {
-          nowPlaying.title.textContent = selected.title;
-          nowPlaying.source.src = selected.audioUrl;
-          nowPlaying.source.type = selected.audioType || "audio/mpeg";
-          nowPlaying.audio.load();
-          nowPlaying.audio.setAttribute(
-            "aria-label",
-            `Play ${selected.title}, ${show.name}`
-          );
-          const metaParts = [formatDate(selected.pubDate)];
-          const duration = formatDuration(selected.durationSeconds);
-          if (duration) metaParts.push(duration);
-          nowPlaying.meta.textContent = metaParts.join(" · ");
-          nowPlaying.wrap.scrollIntoView({ behavior: "smooth", block: "nearest" });
-          nowPlaying.audio.focus();
-        })
+        buildEpisodeRow(episode, (selected) => playEpisode(nowPlaying, selected, show.name))
       );
     });
     details.appendChild(list);
+
+    const total = show.episodeCount ?? episodes.length;
+    if (total > episodes.length) {
+      const all = document.createElement("a");
+      all.className = "player__all";
+      all.href = `episodes.html?show=${encodeURIComponent(show.slug)}`;
+      all.textContent = `See all ${total} episodes`;
+      details.appendChild(all);
+    }
+
     slot.appendChild(details);
   }
 }

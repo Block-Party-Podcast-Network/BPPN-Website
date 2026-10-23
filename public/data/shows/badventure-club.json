@@ -1,0 +1,635 @@
+{
+  "slug": "badventure-club",
+  "name": "The Badventure Club",
+  "tagline": "Four friends, one long campaign, and way too many terrible plans.",
+  "logo": "assets/images/logos/badventure-club.jpg",
+  "platformLinks": {
+    "apple": "https://podcasts.apple.com/us/podcast/the-badventure-club/id1683253562"
+  },
+  "resolvedFeedUrl": "https://anchor.fm/s/dea6f4d0/podcast/rss",
+  "lastFetchedAt": "2026-10-23T14:24:21.593Z",
+  "lastFetchOk": true,
+  "episodes": [
+    {
+      "id": "6878572a-878c-4d20-901b-31e13dca1303",
+      "title": "Episode 48 - A Plan Set In Action",
+      "pubDate": "2026-04-30T13:29:00.000Z",
+      "durationSeconds": 4188,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/119260554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-30%2Ffeacfd33-7d5d-2e54-7371-d84ccfbbd51b.mp3",
+      "audioType": "audio/mpeg",
+      "description": "The assault on the Capitol has begun, our heroes are heading out to the castle to find the Dragon King and put an end to his reign of terror. Special Thanks To: JStewIllustrations for our artwork Airgl0w for our theme song The Badventure Club is a Block Party Network Podcast"
+    },
+    {
+      "id": "3fc98f07-54c1-4640-af58-21607d04629a",
+      "title": "Episode 47 - Trigger Warning: Emotional",
+      "pubDate": "2026-03-04T15:10:00.000Z",
+      "durationSeconds": 4142,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/116308054/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-3%2Fde88b0fd-7a10-aada-e738-f3537575ff35.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Our heroes are on the eve of their final battle. They're preparing in their own special ways for the dawn of a new kingdom. Special Thanks to: Airgl0w for our theme song JStewIllustrations for our artwork The Badventure Club is a Block Party Network Podcast"
+    },
+    {
+      "id": "ac396ab9-0797-452f-b726-ef8b155f22b5",
+      "title": "Episode 46 - Who's Afraid of Little Old Me?",
+      "pubDate": "2026-02-18T22:44:03.000Z",
+      "durationSeconds": 4122,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/115708732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-18%2F5bc5f75e-3a0a-667a-a600-e92d3f6f2ec1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "The crew has managed to make it to the execution. Will they be able to rescue Ohzan and do so safely? Special Thanks to: Airgl0w for our theme music JStewIllustrations for our artwork The Badventure Club is a Block Party Network Podcast"
+    },
+    {
+      "id": "d020f950-a953-4164-9c21-ea9af2f47518",
+      "title": "Episode 45 - The Day of Reckoning",
+      "pubDate": "2026-01-28T13:33:00.000Z",
+      "durationSeconds": 5472,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/114468010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-24%2Fce058f45-c197-e768-f0a8-0a2f6428213f.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Our crew escaped the Ministry of Truth by the skin of their teeth, but according to the people, the timeline has been accelerated. Will our heroes reach Ohzan in time? Special thanks to: Airgl0w for our theme music JStewIllustrations for our artwork The Badventure Club is a Bloc…"
+    },
+    {
+      "id": "0d27a4da-874b-4b31-90ee-dc60d099988a",
+      "title": "Episode 44 - Alistair in Chains",
+      "pubDate": "2026-01-14T15:05:00.000Z",
+      "durationSeconds": 7684,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/113882335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2Fd86f3b71-1d33-027f-adb3-40fd0c8a31a3.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Our heroes are back, having just entered a chamber and hearing a voice say \"Let's begin\" - they're gearing up for their most intense battle yet! The Badventure Club is a Block Party Network Podcast Special thanks to : Airgl0w for our theme music JStewIllustrations for our artwor…"
+    },
+    {
+      "id": "857e2498-6442-4ffa-80ae-5096f0352f2b",
+      "title": "Christmas 2025 - Part 3",
+      "pubDate": "2026-01-08T15:20:00.000Z",
+      "durationSeconds": 4738,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/113672937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-8%2F195e240e-b6cf-e226-d751-0a0b28c4ced3.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Here we are at the thrilling conclusion of our Christmas arc! Will our three bros defeat the lich? Is Emily involved? Are the kids alright? The Badventure Club is a Block Party Network Podcast Special Thanks to: Airgl0w for our theme music JStewIllustrations for our artwork"
+    },
+    {
+      "id": "bdf15c92-20a3-4d70-bad3-6edd1a1d1c8b",
+      "title": "Christmas 2025 - Part 2",
+      "pubDate": "2025-12-17T15:25:00.000Z",
+      "durationSeconds": 2828,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/112751486/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-17%2F120a2a9e-65fd-afe2-47e2-557240200556.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Our 3 bros are heading into a cave, ready to kick some kobold butt! How will they save these kids? And how close are they to finding the Bitch Lich? The Badventure Club is a Block Party Network Podcast Special Thanks to: Airgl0w for our theme song JStewIllustrations for our artw…"
+    },
+    {
+      "id": "068092ba-d7af-4138-89b5-923bb6120bf8",
+      "title": "Christmas 2025 - Part 1",
+      "pubDate": "2025-12-10T16:00:00.000Z",
+      "durationSeconds": 3646,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/112406786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-10%2F0f5ee35d-b121-49e4-7232-9f4710c9ddae.mp3",
+      "audioType": "audio/mpeg",
+      "description": "We join 3 bros - Trout, Luke and Pip on a journey back to Luke's hometown. But trouble is brewing in the cozy Whomvale as a lich who's a bitch has made the town frown. The Badventure Club is a Block Party Network Podcast Special thanks to: Airgl0w for our theme song JStewIllustr…"
+    },
+    {
+      "id": "353fed80-2f75-44d1-92e8-73611e287f01",
+      "title": "Episode 43 - A Fight in the Catacombs",
+      "pubDate": "2025-11-07T15:06:00.000Z",
+      "durationSeconds": 4964,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/110813856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-6%2F410761583-44100-2-5fa815db18fef.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The party has found Lucie, but will they all make it out of these dungeons alive? Special Thanks to: Airgl0w for our theme music JStewIllustrations for our artwork The Badventure Club is a Block Party Network podcast"
+    },
+    {
+      "id": "2a1468cb-5946-4869-9f44-e0aaffbaaa35",
+      "title": "Episode 42 - A Crisis of Faith",
+      "pubDate": "2025-10-15T14:20:00.000Z",
+      "durationSeconds": 3948,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/109688419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-15%2F409283501-44100-2-8df1631c4d2b.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The party continues to delve into the depths of the Ministry of Unity. As they take Clarence along deeper and deeper, what kind of sick truths will they uncover? Special Thanks to: Airgl0w for our theme song JStewIllustrations for our artwork The Badventure Club is a Block Party…"
+    },
+    {
+      "id": "72733c5f-a517-4882-a15b-d3a1a2bb9f8d",
+      "title": "Episode 41 - An Angel Gets His Wings",
+      "pubDate": "2025-10-01T14:35:00.000Z",
+      "durationSeconds": 4745,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/108996842/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408381468-44100-2-de0f54acf59b7.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Our merry band of adventurers finds themselves in the Capitol searching for Lucie in the most seemingly inconsequential of places, a church. Special thanks to: Airgl0w for our theme music JStewIllustrations for our artwork The Badventure Club is a Block Party Network Podcast"
+    },
+    {
+      "id": "f18afdce-f3cc-4283-bfc2-cc84512dbe95",
+      "title": "Episode 40 - Back to the Capitol",
+      "pubDate": "2025-09-03T14:00:00.000Z",
+      "durationSeconds": 4690,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/107649528/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-1%2F406665859-44100-2-b38cd2e3ec143.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "We join our heroes on their way back to the capitol. How will their plot to rescue Lucie turn out? Special Thanks to: Airgl0w for our theme music JStewIllustrations for our artwork The Badventure Club is a Block Party Network Podcast"
+    },
+    {
+      "id": "c4e7b912-001f-465a-8a98-bdb72363d487",
+      "title": "Fourth Of July Special 2025 - Part 2",
+      "pubDate": "2025-08-19T14:05:00.000Z",
+      "durationSeconds": 6182,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/107047484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-19%2F405896202-44100-2-6bfbb8625609a.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The boys are back and full of dogs. Hot dogs that is! Join us for the thrilling conclusion of the Presidential Adventure to avenge Alexander Hamilton Thanks for listening! Special thanks to: Airgl0w for our theme song JStewIllustrations for our artwork The Block Party Network fo…"
+    },
+    {
+      "id": "a68e6358-ef40-49be-9a10-8d76cb9345b2",
+      "title": "Fourth Of July Special 2025 - Part 1",
+      "pubDate": "2025-06-30T14:00:00.000Z",
+      "durationSeconds": 4542,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/104799392/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-29%2F403014432-44100-2-0511b77d2d329.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Teddy Roosevelt, Abe Lincoln and George Washington have been pulled out of their timelines by Betsy Ross one more time for a job only they could handle. What could possibly have gone wrong that this list of legendary lawmakers has to get involved? Listen now to the first part of…"
+    },
+    {
+      "id": "b43dc8e9-a08c-4cf0-8e5e-3e9fc34644d8",
+      "title": "Side Quest: The Witch is Dead Part 3",
+      "pubDate": "2025-05-21T08:34:22.000Z",
+      "durationSeconds": 4451,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/102975501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2F400706166-44100-2-b970aa3fee43f.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Taffy, Alister, and Esme (still in animal form) finally confront Baron Grundle and his right hand man Sir Grimshaw! What could possibly go wrong!"
+    },
+    {
+      "id": "e4fb066d-369c-49e0-af6a-16a3776f6fd1",
+      "title": "Episode 39 - The Keebler Halflings",
+      "pubDate": "2025-05-08T12:48:16.000Z",
+      "durationSeconds": 4486,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/102365930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-8%2F399856326-44100-2-f9796b7556e77.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The crew makes their way to Rovel and the hamlet of Gar's Hollow to check in on Kris' family and make sure his dad got out of the Capitol safe... Special Thanks to: Airgl0w for our theme music JStewIllustrations for our artwork The Badventure Club is a Block Party Network podcast"
+    },
+    {
+      "id": "e6cda806-02e2-4d90-be2d-4038b1b8d502",
+      "title": "Episode 38 - A Lore Dump",
+      "pubDate": "2025-03-18T15:00:00.000Z",
+      "durationSeconds": 5530,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/100065111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-19%2F396838069-44100-2-c040769d58805.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The gang makes it out of the dungeons below the school only to find themselves confronted by a new and menacing challenge. Special thanks to: Airgl0w for our theme song JStewIllustrations for our artwork DM Derrick from DM's Block for guest starring! The Badventure Club is a par…"
+    },
+    {
+      "id": "1caf7cb6-11fe-4f30-802f-5b2fe4c6be7e",
+      "title": "Side Quest: The Witch is Dead Part 2",
+      "pubDate": "2025-03-06T04:44:51.000Z",
+      "durationSeconds": 3895,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/99441997/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-6%2F396056157-44100-2-30131dea654c1.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Taffy, Alistair, and Esme (in animal form) continue their journey to help their friend Alaria! Let's see what happens!"
+    },
+    {
+      "id": "fa74ad0c-5cb0-41b9-be6d-0b44c7f80700",
+      "title": "Episode 37 - It's Just Goo (The Remix)",
+      "pubDate": "2025-01-29T15:00:00.000Z",
+      "durationSeconds": 5577,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/97715294/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-29%2F393901366-44100-2-b2bb6cbe76264.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Our heroes find themselves confronted with their old enemy.... Goo. Special thanks to: JStewIllustrations for our artwork Airgl0w for our theme music The Badventure Club is a Block Party Network Podcast"
+    },
+    {
+      "id": "5e5395a6-3345-4253-990c-fec636b52e9e",
+      "title": "Episode 36 - Into the Temple",
+      "pubDate": "2025-01-16T05:06:57.000Z",
+      "durationSeconds": 3782,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/97072555/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-16%2F393165192-44100-2-d81237754897d.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "We join our crew back in the temple where we left them. Can they solve the mystery behind the mural and will they be able to make it out of here with some answers? Special Thanks to: Airgl0w for our theme music JStewIllustrations for our theme music The Badventure Club is a Bloc…"
+    },
+    {
+      "id": "51e61b8a-744a-4ea9-aade-b5e9c5f5af0c",
+      "title": "A Badventure Christmas 2024 (Pt. 2) - The Fight Before Christmas",
+      "pubDate": "2024-12-24T15:00:00.000Z",
+      "durationSeconds": 3496,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/96220020/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-24%2F392072883-44100-2-9060c36b8eab5.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Merry Christmas to all! We're joining our friends back on the roof as they stare down the Belschnickel! How will they get past him and down to the real target in time? CONTENT WARNING: Santa gets beat up, and there's also some talk about whether or not he's real, so ya know, if…"
+    },
+    {
+      "id": "478e4a49-c97a-4157-bff5-1647bac2eadc",
+      "title": "A Badventure Christmas 2024 (Pt. 1) - The Fight Before Christmas",
+      "pubDate": "2024-12-18T16:00:00.000Z",
+      "durationSeconds": 4196,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/95975589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-18%2F391739161-44100-2-d4b79946d8d08.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Happy Holidays! Have you ever had beef to settle with the fat man himself? Join Frostbyte, Rudolph, Grinch and Angel as they launch an all out assault on the jolly old elf and prove he's not all he's cracked up to be. CONTENT WARNING: Santa gets beat up, and there's also some ta…"
+    },
+    {
+      "id": "746fb9b1-95fd-4d53-8dc3-661be8ebf1bf",
+      "title": "Side Quest: The Witch is Dead Part 1",
+      "pubDate": "2024-11-15T14:17:18.000Z",
+      "durationSeconds": 3684,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/94470536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-15%2F389874687-44100-2-edf72c02b1c49.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Taffy, Alistair and Esme team up to face down an evil Baron and save a new friend Alaria! How could this possibly go wrong?"
+    },
+    {
+      "id": "c28f9d33-8a15-49ba-a947-f5e971135bd7",
+      "title": "Episode 35 - The Restricted Section",
+      "pubDate": "2024-10-30T15:18:00.000Z",
+      "durationSeconds": 5352,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/93724992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-30%2F388948932-44100-2-29b459f0e60d6.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Our crew rests after their foray into the party zone, and when they finally make it out into the school their investigation leads them to an old professor. Can the kooky old man help them start down the path of the mystery? SPECIAL THANKS TO: AIRGL0W JStewIllustrations The Badve…"
+    },
+    {
+      "id": "fa379fc0-390e-41ab-993f-8bb648be38cf",
+      "title": "Episode 34 - SICK MIK",
+      "pubDate": "2024-10-16T15:00:00.000Z",
+      "durationSeconds": 4532,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/93101400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-16%2F7fa5c7a6-210d-5928-602e-ca909a066ae6.mp3",
+      "audioType": "audio/mpeg",
+      "description": "The crew makes their way from Alfseers to the school - Bethel Groye. Alistair is looking up an old friend and attending his school reunion, what secrets could await them at this ancient school? We're excited to announce we're now a part of two networks now, The Block Party Netwo…"
+    },
+    {
+      "id": "edcc51d2-a2e0-4878-80ac-4e84118dfdfc",
+      "title": "Episode 33 - You think that's a bird? Watch this!",
+      "pubDate": "2024-10-02T14:04:00.000Z",
+      "durationSeconds": 4616,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/92468552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-2%2F387391887-44100-2-68bc3e71c4f1a.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "This week our crew is making their way back to the HQ to deliver their prisoner to the Crimson Tide. Did they make the right choice in kidnapping a Lieutenant? SPECIAL THANKS TO: Arigl0w for our theme music JStewIllustrations for our artwork Make sure to check out the other show…"
+    },
+    {
+      "id": "7e59e6db-c0e6-48de-b4d1-ebb4aafa752c",
+      "title": "Episode 32 - Blowing A Hole In this Place",
+      "pubDate": "2024-09-18T20:30:02.000Z",
+      "durationSeconds": 3505,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/91889328/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-18%2F386603555-44100-2-ed9357a802432.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The group is facing down an entire precinct and Lieutenant Clarkson, how are they gonna escape without giving away their cover? SPECIAL THANKS TO: Arigl0w for our theme music JStewIllustrations for our artwork Make sure to check out the other shows on the Block Party Network!"
+    },
+    {
+      "id": "7c61e9cb-99ab-4329-a66d-0f2eacef0131",
+      "title": "Side Quest: Revolutionary One Shot, Part lll (4th of July Special)",
+      "pubDate": "2024-09-05T00:12:44.000Z",
+      "durationSeconds": 4086,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/91307142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-4%2F385840064-44100-2-87aa62b9cde3a.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The Badventure Club play a special 4th of July mini arch featuring the Founding Fathers!"
+    },
+    {
+      "id": "8b44352e-8194-4f5f-8474-1e4ab7beb3aa",
+      "title": "Side Quest: Revolutionary One Shot, Part II (4th of July Special)",
+      "pubDate": "2024-08-02T21:18:33.000Z",
+      "durationSeconds": 4731,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/89992853/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-2%2F384226836-44100-2-9352014f7196c.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The Badventure Club play a special 4th of July mini arch featuring the Founding Fathers!"
+    },
+    {
+      "id": "22c94c4a-4526-4757-b257-8e4c910eabbd",
+      "title": "Episode 31 - The Precinct",
+      "pubDate": "2024-07-17T15:00:00.000Z",
+      "durationSeconds": 3508,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/88651484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-30%2F382055090-44100-2-5825240e39b0f.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The party has to figure out how to break Kal's dad out of jail, and contend with a precinct full of potential enemies, are they going to make it out of this one unnoticed? SPECIAL THANKS TO: Arigl0w for our theme music JStewIllustrations for our artwork"
+    },
+    {
+      "id": "f5b7312a-aeff-4509-bda0-d58a2ab86f80",
+      "title": "Side Quest: Revolutionary One Shot (4th of July Special)",
+      "pubDate": "2024-07-04T19:04:33.000Z",
+      "durationSeconds": 5769,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/88837355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-4%2F382442632-44100-2-a195e71ba65fd.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The Badventure Club play a special 4th of July mini arch featuring the founding fathers!"
+    },
+    {
+      "id": "e3d5aa4d-5fab-45cc-b913-9e657909e897",
+      "title": "Episode 30 - The One With Lots of Sneaking",
+      "pubDate": "2024-06-19T15:04:00.000Z",
+      "durationSeconds": 3644,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/88148415/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-18%2F380958853-44100-2-c75cc2aaf2ae4.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The gang finds themselves working their way through the Ministry for Peace. Can they find Kal's dad without causing a commotion? Special thanks to : Airgl0w for our theme song JStewIllustrations for our art design"
+    },
+    {
+      "id": "fd794ec7-5aeb-4b43-90a5-3cfd77a32cf1",
+      "title": "Episode 29 - A *BEEP*ing Good Plan",
+      "pubDate": "2024-06-05T22:51:21.000Z",
+      "durationSeconds": 3934,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/87672053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-5%2F379858882-44100-2-53e2eb5f5b4fa.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The party has to develop a plan to save Kal's dad. How can they break in to a seemingly impenetrable fortress? Special thanks to: Airgl0w for our theme music JStewIllustrations for our artwork"
+    },
+    {
+      "id": "1d8785f1-49e1-4f1b-8cae-ca6920840c00",
+      "title": "Episode 28 - Chapter 11 Bankruptcy",
+      "pubDate": "2024-05-22T14:29:00.000Z",
+      "durationSeconds": 3132,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/87007633/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-21%2F378261813-44100-2-9eea427795c2e.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "As the gang prepares to leave Utatropine for the capitol, they're confronted with the fact that Kal's dad has gone missing. They make their way back to the Crimson Tide to share the bad news and plan a path forward. Special thanks to: Airgl0w for our theme music JStewIllustratio…"
+    },
+    {
+      "id": "0c74136e-fea9-4782-826c-bb577df40531",
+      "title": "Episode 27 - LISAN AL GAIB",
+      "pubDate": "2024-05-08T15:00:00.000Z",
+      "durationSeconds": 5003,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/86458155/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-8%2F376911075-44100-2-1ed1ff22b8309.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The crew makes their way higher up in the tower and Kris does more damage than he's ever done before. Special thanks to: Airgl0w for our theme music JStewIllustrations for our artwork!"
+    },
+    {
+      "id": "1a9f1136-11fe-4857-94cf-e47b4da83c88",
+      "title": "Episode 26 - Esme's Feelings Get Hurt",
+      "pubDate": "2024-04-24T15:00:00.000Z",
+      "durationSeconds": 4385,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/85838430/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-24%2F375383669-44100-2-01ba81e52b0df.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The party is faced with copies of themselves running toward them! How will this fight against themselves end? Special Thanks to: Airgl0w for our theme song! JStewIllustrations for our artwork! Check out \"The Dead Wars\" by We Geek Together for a chace to play in the world's large…"
+    },
+    {
+      "id": "f8d78e1f-c45e-4d84-93e4-316fab4abc71",
+      "title": "Episode 25 - Karma",
+      "pubDate": "2024-04-10T15:00:00.000Z",
+      "durationSeconds": 2410,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/85216035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-10%2F373812915-44100-2-0ee291f8065ac.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "What decision has Kal made? How will the party's adventure change? We rejoin them back in the chapel of the temple readying to head up to the next floor of danger.... Special Thanks to: Airgl0w for our theme song! JStewIllustrations for our artwork! Check out \"The Dead Wars\" by…"
+    },
+    {
+      "id": "f3842828-8299-4523-b6c1-803ce2c188ef",
+      "title": "Episode 24 - Kal makes a choice",
+      "pubDate": "2024-03-27T15:00:00.000Z",
+      "durationSeconds": 3385,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/84600225/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-27%2F372334756-44100-2-3b3ad47b6975a.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Our crew makes their way through the first floors of the Temple of Balance, and Kal comes face to face with a decision that will change the fate of the kingdom, his friends, and their mission. The We Geek Together tavern in Provo Utah presents “The Dead Wars! May 3rd and 4th, lo…"
+    },
+    {
+      "id": "b459114f-0e34-4a1a-ba01-e80070367c26",
+      "title": "Episode 23 - Well, that was easy",
+      "pubDate": "2024-03-13T14:48:00.000Z",
+      "durationSeconds": 3375,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/83953088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F370710151-44100-2-a3e789399eed.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Our band of adventurers finishes up their business in the captiol and heads toward Utatropine in search of Kal's family and hopefully the shard of the Dragon Blade they guard. Special thanks to: Airgl0w for our theme music JStewIllustrations for our artwork"
+    },
+    {
+      "id": "b9059475-44b0-4f2a-858d-038c032a64e4",
+      "title": "Episode 22 - Roll Tide",
+      "pubDate": "2024-02-28T16:00:00.000Z",
+      "durationSeconds": 3907,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/83284075/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-27%2F369010604-44100-2-abde02e8f4ca1.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The team has just had a less than ideal interaction with their report to the capitol. Lucie has been cagey, but will the crew finally get some answers today? Special thanks to: Airgl0w for our theme music JStewIllustrations for our artwork"
+    },
+    {
+      "id": "612e107d-69fb-4857-bf58-782eaae747fd",
+      "title": "Episode 21 - We sleep over in a haunted house",
+      "pubDate": "2024-02-14T16:00:00.000Z",
+      "durationSeconds": 3164,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/82648008/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367393589-44100-2-cd7c47904c97d.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "We rejoin our intrepid heroes back at the beach where they've just bested a foe. How will the fallout of recent revelations effect their journey? Special thanks to: Airgl0w for our theme music JStewIllustrations for our artwork"
+    },
+    {
+      "id": "9fa2aa94-6193-415e-ba22-ec72460b6df6",
+      "title": "Episode 20 - Kal bungee jumps onto a skeleton",
+      "pubDate": "2024-02-03T22:13:49.000Z",
+      "durationSeconds": 4620,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/82194832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-3%2F366132582-44100-2-6f0ddd3d9ca31.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Our party is on the beach, waiting for crap to hit the metaphorical fan. Can Kris tear the photo if it comes to that? Can Esme fight her hero? Special thanks to: Airgl0w for our theme music JStewIllustrations for our artwor"
+    },
+    {
+      "id": "d1c08be8-a075-4c4f-b437-c1fd8dfb418a",
+      "title": "Episode 19 - Escape from Barbieland",
+      "pubDate": "2024-01-17T16:00:00.000Z",
+      "durationSeconds": 3793,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/78207294/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-5%2F354222829-44100-2-1448a848695d2.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "This week the crew starts breaking the #1 rule of D&D, don't split the party. Esme is distracting Ken Plasticman, Kal is keeping watch and Alistair and Kris are going after the sword pieces. What could possibly go wrong? Special thanks to: Airgl0w for our theme music JStewIllust…"
+    },
+    {
+      "id": "b75dc15b-3d71-4768-bbac-222b96855ba5",
+      "title": "Episode 18 - The one with the Secret",
+      "pubDate": "2024-01-03T15:00:00.000Z",
+      "durationSeconds": 5327,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/80742622/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2F362010686-44100-2-697acf80b4731.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Our heroes wake up back on the black sandy beach. How and why have they been spared? What will they do next and what secret will they uncover?"
+    },
+    {
+      "id": "d42f82ea-d331-4d72-8ad1-fc23716b9188",
+      "title": "Episode 15 - Black Sandy Beaches and a Sketchy Door",
+      "pubDate": "2023-12-21T02:04:07.000Z",
+      "durationSeconds": 3665,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/77969910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-31%2F353498611-44100-2-f4f4d38ca1459.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Everything went black and our heroes are coming to in a new place. The Felkroo Islands are mysterious and dangerous, how will they find the sword piece here? Special thanks to Airgl0w for our theme Special thanks to JStewIllustrations for our artwork"
+    },
+    {
+      "id": "b35e7e0a-2fdf-4d58-b7d8-0ceb161c8843",
+      "title": "Side Quest: Christmas Special pt2",
+      "pubDate": "2023-12-21T01:54:27.000Z",
+      "durationSeconds": 5031,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/80289896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-21%2F360746997-44100-2-9adb7928888dd.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The Badventure Club crew play a Christmas One Shot as misfit toys trying to save Santa from the evil clutches of the Krampus! Music from: Airgløw, Arcane Anthems, and FesliyanStudios"
+    },
+    {
+      "id": "9863fd96-f315-48ac-ac44-7a5fa6cba9d0",
+      "title": "Side Quest: Christmas Special pt1",
+      "pubDate": "2023-12-14T02:46:14.000Z",
+      "durationSeconds": 5654,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/79993478/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-15%2F360028264-44100-2-462f8fd59bc32.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The Badventure Club crew play a Christmas One Shot as misfit toys trying to save Santa from the evil clutches of the Krampus! Music from: Airgløw, Arcane Anthems, and FesliyanStudios"
+    },
+    {
+      "id": "515792b7-c1ea-4471-b5ea-79f5d639d3b3",
+      "title": "Episode 17 - Through the Looking Glass",
+      "pubDate": "2023-11-29T15:39:00.000Z",
+      "durationSeconds": 5611,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/79281008/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-29%2F357610220-44100-2-a855b4e324a3e.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "The Badventure Club is back again, last time we left them with the click of a lock. Strad has locked them into his study, but why? What's going on in this seemingly beautiful mansion? Will our heroes make it out with their lives? Special thanks to: Airgl0w for our theme music JS…"
+    },
+    {
+      "id": "7f04bc25-80e0-494d-993b-db2d5b50d84f",
+      "title": "Episode 16 - The Barbie Dreamhouse",
+      "pubDate": "2023-11-15T15:00:00.000Z",
+      "durationSeconds": 6769,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/78451363/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2F354987779-44100-2-be5399e529452.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Welcome back all! This week you get 2 episodes so we can get our nicer sounding stuff to you sooner. Here we join our crew once more as they probe deeper into the dreamhouse to see if they can solve the mystery of the dreamhouse. Special thanks to: Airgl0w for our theme music JS…"
+    },
+    {
+      "id": "b821477b-7194-442b-8a98-0ad26edd0286",
+      "title": "Episode 14 - The King Chief's Secrets",
+      "pubDate": "2023-10-18T14:40:00.000Z",
+      "durationSeconds": 3041,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/77364572/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-18%2F351661163-44100-2-674e50302c9dc.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Our heroes have a special meeting with the leader of the dwarves. What secrets will they learn before leaving Din's Might? Special Thanks to: Jordan Stewart for our album artwork and Airgl0w for our theme/intro"
+    },
+    {
+      "id": "9a1c2c0d-ae0d-4bd0-bc20-5f189fd3e167",
+      "title": "Episode 13 - Out of the Deep",
+      "pubDate": "2023-10-06T13:57:13.000Z",
+      "durationSeconds": 3303,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/76863255/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-6%2F350023679-44100-2-986971c8309c9.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Two episodes in a week!!! Don't get too used to it, it's because Cade goofed before his trip. This week our heroes make it out of the Deep and attend a feast in their honor. The party makes a plan to talk to the chief before leaving Din's Might."
+    },
+    {
+      "id": "ad401d89-8e01-411c-9cd9-b0c72a48116e",
+      "title": "Episode 12 - Papa?",
+      "pubDate": "2023-10-04T14:56:00.000Z",
+      "durationSeconds": 3013,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/76746722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-4%2F349694326-44100-2-8ea64636cf72e.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "We rejoin our heroes in the middle of a big bad fight in the middle of the Deep. How are they gonna make it out of this one?"
+    },
+    {
+      "id": "ed6c8c68-4222-4a69-be51-7ee57a9cfdef",
+      "title": "Episode 11 - Soul Slurped, like a Capri Sun",
+      "pubDate": "2023-09-06T14:55:00.000Z",
+      "durationSeconds": 4046,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/75503228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-5%2F345809333-44100-2-a8a363fc0efa5.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Welcome back Baddies! We are back with our heroes in THE DEEP. The creature hiding in the depths and causing problems finally comes to the surface. How will our heroes handle this unknown foe? Special thanks to: Airgl0w for our theme Jstewillustrations for our artwork Go give Ca…"
+    },
+    {
+      "id": "70415ea7-570a-4318-b4c1-426c795e916c",
+      "title": "Side Quests: Too Hot One Shot Pt. 2",
+      "pubDate": "2023-08-22T14:55:00.000Z",
+      "durationSeconds": 6357,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/74952295/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-23%2F344138103-44100-2-d7df9316d436f.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "This week we take a finish up the Too Hot One Shot hosted and DM'd by our special guest DM Derrick! Derrick hosts the show \"How Not To DM\", wrote this one shot (See his linktree below for where to buy) and has been a huge help to us here at The Badventure Club - make sure to go…"
+    },
+    {
+      "id": "bb3b8c9c-593f-4951-b3a6-1fea2d636995",
+      "title": "Side Quests: Too Hot One Shot Pt. 1",
+      "pubDate": "2023-08-09T14:55:00.000Z",
+      "durationSeconds": 5155,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/74401573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-8%2F342385910-44100-2-e95d7aa358fcc.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "This week we take a break from the campaign to play a Too Hot One Shot hosted and DM'd by our special guest DM - Derrick! Derrick hosts the show \"How Not To DM\", wrote this one shot (See his linktree below for where to buy) and has been a huge help to us here at The Badventure C…"
+    },
+    {
+      "id": "0c5cb58d-8444-4a87-8d1d-dc8e2fd03961",
+      "title": "Episode 10 - The Pin",
+      "pubDate": "2023-07-25T14:56:00.000Z",
+      "durationSeconds": 2992,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/73869210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-26%2F340749485-44100-2-a8ea025ba5988.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Welcome back Baddies! This week we join our heroes after their fearsome battle with the goo. They have some time to chat with Ironbeard and will learn some serious truths. The secrets of THE DEEP are beginning to unravel! Special thanks to: Airgl0w for our theme! JStew Illustrat…"
+    },
+    {
+      "id": "88c7c204-8bdf-4860-b432-b7fa548c452b",
+      "title": "Episode 9 - It's just goo",
+      "pubDate": "2023-07-12T14:28:43.000Z",
+      "durationSeconds": 5558,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/73318795/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-12%2F338998363-44100-2-be86a44a634b5.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Welcome back Baddies! This week our fearless crew journeys into THE DEEP. What could be awaiting them down there and what mystery will unfold? Special thanks to: Airgl0w for our theme! JStew Illustrations for our artwork! It would mean so much to us for you to follow and give us…"
+    },
+    {
+      "id": "331b597e-8340-45af-89f7-7d299eaccfd0",
+      "title": "Episode 8 - No Farm, Crops Gone",
+      "pubDate": "2023-06-28T14:56:00.000Z",
+      "durationSeconds": 3346,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/72712366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-28%2F337133609-44100-2-edd42eaa059a3.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Welcome back to our main story! Thanks for indulging us for a few weeks. This week we join our band of goofballs as they're thrown in jail and must stand before the Dwarven Chief at a tribunal. What fate and verdict might await them there? Special thanks to: Airgl0w for our them…"
+    },
+    {
+      "id": "48c6ea85-2da2-414b-93b0-73e0a7d218b3",
+      "title": "Side Quests: The Quiet Year Pt. 2",
+      "pubDate": "2023-06-14T14:57:52.000Z",
+      "durationSeconds": 5982,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/72004512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2F334651941-44100-2-0f5beef4a8d52.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "This week we finish up our Quiet Year game and continue the late night delusions. In Stuss We Truss! We'll be back in two weeks with our regular game and can't wait to get back with you then! Special thanks to: Airgl0w for our theme music! Jstew Illustrations for our artwork! Av…"
+    },
+    {
+      "id": "006fada8-40a0-4ed8-a6aa-b29cbebcef31",
+      "title": "Side Quests: The Quiet Year pt. 1",
+      "pubDate": "2023-05-31T14:55:46.000Z",
+      "durationSeconds": 4373,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/71322472/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-31%2F332537899-44100-2-c809d6e3298b4.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Hey everyone! This week we weren't all able to get together so we took a side quest and played a cool game called The Quiet Year by Avery Alder! We hope you enjoy as it's a little different than D&D but we still had a lot of fun! Thanks for your support as always, love ya!"
+    },
+    {
+      "id": "399609ec-db0a-4ebf-b63c-4a65f6fba275",
+      "title": "Episode 7 - The Corn Maze Farm Train",
+      "pubDate": "2023-05-17T14:55:33.000Z",
+      "durationSeconds": 3209,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/70457502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-16%2F329773608-44100-2-e0406974e4934.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "This week our heroes leave Taffy Lee Fubbins and get closer around the campfire. They enter the Dwarven Realm of Din's Might and encounter a few surprises."
+    },
+    {
+      "id": "7d9f8694-5945-480e-a072-084046b046ed",
+      "title": "Episode 6 - Dirty Mike and The Boys",
+      "pubDate": "2023-05-03T14:55:34.000Z",
+      "durationSeconds": 4381,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/69698768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-3%2F327372050-44100-2-1a8c62a4acdc2.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Welcome to the Badventure Club! This week the gang assists Taffy Lee Fubbins, an old friend of Alistair's, as she tries to complete a bounty! Special thanks to Airgl0w for our theme and jstewillustrations for our artwork! Thanks for listening - make sure to hit us up on our soci…"
+    },
+    {
+      "id": "97fe334c-9da0-47a0-80c0-d4c1c2bcb6d0",
+      "title": "Episode 5 - A Tramp Stamp From Joann's",
+      "pubDate": "2023-04-19T15:10:38.000Z",
+      "durationSeconds": 3424,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/68889271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-19%2F324785016-44100-2-25cf73ba09935.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Welcome to the Badventure Club! This week our heroes find out more about the crisis facing the country and how they can be part of the solution! Special thanks to Airgl0w for our theme and jstewillustrations for our artwork! The story in this episode is based on a module called…"
+    },
+    {
+      "id": "30ff2a16-a099-43af-9d6a-ec24898e9183",
+      "title": "Episode 4 - The Summary",
+      "pubDate": "2023-04-19T15:08:11.000Z",
+      "durationSeconds": 227,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/68889189/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-19%2F324784708-44100-2-8f4b2b86a18a7.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Welcome to the Badventure Club! This week our heroes and Bogclaw face off against the hag, if they win how will things shake out? Special thanks to Airgl0w for our theme and jstewillustrations for our artwork! The story in this episode is based on a module called \"Drums in the M…"
+    },
+    {
+      "id": "dffa483c-2918-4634-bf0b-58774bc2313f",
+      "title": "Episode 3 - A Bratz Doll Named Yasmin",
+      "pubDate": "2023-04-19T15:06:42.000Z",
+      "durationSeconds": 3285,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/68889108/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-19%2F324784503-44100-2-d1f490b5b2612.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Welcome to the Badventure Club! This week the group along with Bogclaw attempt to frustrate the hag's plans. Will they come up with the key to stopping her? Special thanks to Airgl0w for our theme and jstewillustrations for our artwork! The story in this episode is based on a mo…"
+    },
+    {
+      "id": "47da2a40-641b-4b4b-be39-148a44cc59b2",
+      "title": "Episode 2 - Mystery at Ash's Gate",
+      "pubDate": "2023-04-19T15:04:11.000Z",
+      "durationSeconds": 3283,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/68889038/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-19%2F324784227-44100-2-298f7156eedbe.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Welcome to the Badventure Club! This week the party and Taroo find more clues about the disappearances. Will the uncover who's behind all these kidnappings? Special thanks to Airgl0w for our theme and jstewillustrations for our artwork! The story in this episode is based on a mo…"
+    },
+    {
+      "id": "93362fe9-c86b-4d42-8792-9ed52d73e625",
+      "title": "Episode 1 - The Saturated Shrimp",
+      "pubDate": "2023-04-19T15:02:52.000Z",
+      "durationSeconds": 3113,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/68888829/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-19%2F324783657-44100-2-8f4adea24ae8f.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Welcome to the Badventure Club! This week we meet our adventurers as well as a barkeep named Lucie, a farmhand named Taroo and a Lieutenant named Kelly Clarkson. They get started on their journey to Ash's Gate to investigate some spooky disappearances. Special thanks to Airgl0w…"
+    },
+    {
+      "id": "a2b60821-c27e-412f-86a1-cf7e554fc8df",
+      "title": "Episode 0 - Start here!",
+      "pubDate": "2023-04-19T15:00:45.000Z",
+      "durationSeconds": 602,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/68888733/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-19%2F324783347-44100-2-c02e816ddf4f3.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Welcome to the Badventure Club! No membership card required. We're 5 friends who are here to have a good time and hopefully entertain you as well. This is our intro episode, so start here!"
+    },
+    {
+      "id": "832a2d79-5483-4214-93f2-e665f939bb62",
+      "title": "The Badventure Club Trailer",
+      "pubDate": "2023-04-09T00:28:14.000Z",
+      "durationSeconds": 63,
+      "audioUrl": "https://anchor.fm/s/dea6f4d0/podcast/play/68246849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-9%2F322916943-44100-2-b3763b3bf184e.m4a",
+      "audioType": "audio/x-m4a",
+      "description": "Thanks for your interest in the Badventure Club! We're 5 friends recording our D&D adventures and releasing them to you weekly. Join us back here on April 19, 2023 for the release of our first episodes!"
+    }
+  ]
+}

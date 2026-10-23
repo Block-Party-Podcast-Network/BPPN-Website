@@ -1,19 +1,21 @@
 #!/usr/bin/env node
-// Refreshes public/data/episodes.json from each show's real RSS feed.
+// Refreshes public/data/episodes.json (each show's newest episodes, for the
+// landing page) and public/data/shows/<slug>.json (each show's full back
+// catalog, for its episodes page) from each show's real RSS feed.
 //
 // Runs entirely server-side (Node, not the browser) so this never hits the
 // CORS problems that plague in-browser podcast embeds - and so the live
 // site never depends on a third-party embed script being up. Run this
 // before every deploy: `npm run fetch:episodes`.
 
-import { readFile, writeFile, rename } from "node:fs/promises";
+import { readFile, writeFile, rename, mkdir } from "node:fs/promises";
 import { resolveFeedUrl, USER_AGENT } from "./lib/itunes.mjs";
 import { parseFeed } from "./lib/xml.mjs";
-import { buildShowEntry, carryOverShowEntry } from "./lib/normalize.mjs";
+import { buildShowEntry, carryOverShowEntry, toLandingEntry } from "./lib/normalize.mjs";
 
 const CONFIG_PATH = new URL("../data/shows.config.json", import.meta.url);
 const OUTPUT_PATH = new URL("../public/data/episodes.json", import.meta.url);
-const TMP_PATH = new URL("../public/data/episodes.json.tmp", import.meta.url);
+const ARCHIVE_DIR = new URL("../public/data/shows/", import.meta.url);
 
 async function readJson(url) {
   try {
@@ -22,6 +24,14 @@ async function readJson(url) {
     if (err.code === "ENOENT") return null;
     throw err;
   }
+}
+
+// Atomic write: write to a temp file, then rename over the real one, so a
+// crash mid-write can never leave a JSON file truncated or corrupt.
+async function writeJsonAtomic(url, data) {
+  const tmp = new URL(`${url.href}.tmp`);
+  await writeFile(tmp, JSON.stringify(data, null, 2) + "\n", "utf8");
+  await rename(tmp, url);
 }
 
 async function fetchFeedText(feedUrl, attempt = 1) {
@@ -47,11 +57,14 @@ async function processShow(show, previousEntry, now) {
     const xmlText = await fetchFeedText(feedUrl);
     const parsed = parseFeed(xmlText);
     const entry = buildShowEntry(show, parsed, feedUrl, now);
+    await writeJsonAtomic(new URL(`${show.slug}.json`, ARCHIVE_DIR), entry);
     console.log(
       `  ok  ${show.slug} (${entry.episodes.length} episodes, feed via ${source})`
     );
-    return entry;
+    return toLandingEntry(entry);
   } catch (err) {
+    // The show's archive file is left untouched, so its episodes page keeps
+    // serving the last-known-good back catalog too.
     console.warn(`  FAIL ${show.slug}: ${err.message} - carrying over last-known-good data`);
     return carryOverShowEntry(show, previousEntry, now);
   }
@@ -66,6 +79,7 @@ async function main() {
   const previousBySlug = new Map((previous?.shows ?? []).map((s) => [s.slug, s]));
 
   const now = new Date().toISOString();
+  await mkdir(ARCHIVE_DIR, { recursive: true });
   console.log(`Fetching ${config.shows.length} show feeds...`);
 
   // Promise.allSettled (via per-show try/catch above): one bad feed must
@@ -74,15 +88,10 @@ async function main() {
     config.shows.map((show) => processShow(show, previousBySlug.get(show.slug), now))
   );
 
-  const output = { generatedAt: now, shows };
-
-  // Atomic write: write to a temp file, then rename over the real one, so a
-  // crash mid-write can never leave episodes.json truncated or corrupt.
-  await writeFile(TMP_PATH, JSON.stringify(output, null, 2) + "\n", "utf8");
-  await rename(TMP_PATH, OUTPUT_PATH);
+  await writeJsonAtomic(OUTPUT_PATH, { generatedAt: now, shows });
 
   const failed = shows.filter((s) => !s.lastFetchOk).map((s) => s.slug);
-  console.log(`\nWrote public/data/episodes.json (${shows.length} shows).`);
+  console.log(`\nWrote public/data/episodes.json and public/data/shows/ (${shows.length} shows).`);
   if (failed.length) {
     console.log(`Shows using carried-over data this run: ${failed.join(", ")}`);
   } else {

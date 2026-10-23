@@ -635,6 +635,122 @@ main {
   font-size: 0.8rem;
 }
 
+.player__all {
+  display: inline-block;
+  margin-top: var(--space-2);
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+/* -------------------------------------------------------------------- */
+/* Episodes page: one show's full back catalog (episodes.html)          */
+/* -------------------------------------------------------------------- */
+
+.archive {
+  max-width: 820px;
+  padding-block: var(--space-3) var(--space-5);
+}
+
+.archive__back {
+  font-size: 0.9rem;
+}
+
+.archive__header {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  align-items: center;
+  gap: var(--space-3);
+  margin-top: var(--space-3);
+}
+
+.archive__header[hidden] {
+  display: none;
+}
+
+.archive__header h1 {
+  font-size: clamp(2rem, 2.4vw + 1rem, 2.75rem);
+}
+
+.archive__body {
+  margin-top: var(--space-4);
+}
+
+/* Stays pinned while the list scrolls underneath, so picking an episode
+   far down the list never means scrolling back up to press play. */
+.archive__player {
+  position: sticky;
+  top: var(--space-1);
+  z-index: 2;
+  box-shadow: 0 12px 28px rgb(0 0 0 / 0.45);
+}
+
+.archive__toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--space-1) var(--space-2);
+  margin-top: var(--space-3);
+}
+
+.archive__search {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  flex: 1 1 260px;
+  max-width: 360px;
+}
+
+.archive__search-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+.archive__search input {
+  font: inherit;
+  font-size: 0.95rem;
+  color: var(--text-primary);
+  background: var(--ink-raised);
+  border: 1px solid var(--ink-line);
+  border-radius: var(--radius-pill);
+  padding: 0.5rem 1rem;
+}
+
+.archive__search input:focus-visible {
+  outline-offset: 1px;
+  border-radius: var(--radius-pill);
+}
+
+.archive__count {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.archive__list-card {
+  margin-top: var(--space-2);
+  background: var(--ink-raised);
+  border: 1px solid var(--ink-line);
+  border-radius: var(--radius-card);
+  padding: var(--space-1);
+}
+
+/* the landing page caps this list's height; here it's the whole page */
+.archive__list {
+  margin: 0;
+  max-height: none;
+  overflow: visible;
+}
+
+.archive__list .player__list-row[aria-current="true"] {
+  background: rgb(232 179 77 / 0.14);
+  box-shadow: inset 3px 0 0 var(--gold);
+}
+
+.archive__none {
+  padding: var(--space-1);
+}
+
 /* -------------------------------------------------------------------- */
 /* Community: Patreon + Discord                                        */
 /* -------------------------------------------------------------------- */
@@ -889,6 +1005,10 @@ main {
 
   .show__art {
     width: 120px;
+  }
+
+  .archive__header {
+    grid-template-columns: 1fr;
   }
 
   .community__grid {

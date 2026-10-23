@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto";
 
-const MAX_EPISODES_PER_SHOW = 10;
+const RECENT_EPISODES_PER_SHOW = 10;
 const DESCRIPTION_MAX_CHARS = 280;
 
 /** itunes:duration shows up as raw seconds ("2172") on some hosts and as
@@ -75,16 +75,15 @@ function buildEpisode(item) {
 
 /**
  * Combines a show's editorial config with its freshly parsed feed into the
- * shape data/episodes.json stores. Episodes without a playable enclosure are
- * dropped (a feed entry with no audio isn't useful to a native player),
- * then sorted newest-first and capped at MAX_EPISODES_PER_SHOW.
+ * full back catalog that public/data/shows/<slug>.json stores. Episodes
+ * without a playable enclosure are dropped (a feed entry with no audio isn't
+ * useful to a native player), then sorted newest-first.
  */
 export function buildShowEntry(show, { channel, items }, resolvedFeedUrl, now) {
   const episodes = items
     .map(buildEpisode)
     .filter((ep) => ep.audioUrl)
-    .sort((a, b) => new Date(b.pubDate ?? 0) - new Date(a.pubDate ?? 0))
-    .slice(0, MAX_EPISODES_PER_SHOW);
+    .sort((a, b) => new Date(b.pubDate ?? 0) - new Date(a.pubDate ?? 0));
 
   return {
     slug: show.slug,
@@ -96,6 +95,17 @@ export function buildShowEntry(show, { channel, items }, resolvedFeedUrl, now) {
     lastFetchedAt: now,
     lastFetchOk: true,
     episodes,
+  };
+}
+
+/** The landing page only needs each show's newest few episodes, so
+ * public/data/episodes.json gets this trimmed copy plus the total count; the
+ * full list lives in the show's own archive file and its episodes page. */
+export function toLandingEntry(entry) {
+  return {
+    ...entry,
+    episodeCount: entry.episodes.length,
+    episodes: entry.episodes.slice(0, RECENT_EPISODES_PER_SHOW),
   };
 }
 
@@ -112,6 +122,7 @@ export function carryOverShowEntry(show, previousEntry, now) {
     resolvedFeedUrl: previousEntry?.resolvedFeedUrl ?? null,
     lastFetchedAt: previousEntry?.lastFetchedAt ?? now,
     lastFetchOk: false,
+    episodeCount: previousEntry?.episodeCount ?? previousEntry?.episodes?.length ?? 0,
     episodes: previousEntry?.episodes ?? [],
   };
 }

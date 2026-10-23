@@ -1,0 +1,978 @@
+{
+  "slug": "how-not-to-dm",
+  "name": "How Not to DM",
+  "tagline": "Conversations with dungeon masters about the mistakes that taught them the most.",
+  "logo": "assets/images/logos/how-not-to-dm.jpg",
+  "platformLinks": {
+    "apple": "https://podcasts.apple.com/us/podcast/how-not-to-dm/id1562359428",
+    "linktree": "https://linktr.ee/HN2DM"
+  },
+  "resolvedFeedUrl": "https://anchor.fm/s/f7870bac/podcast/rss",
+  "lastFetchedAt": "2026-10-23T14:24:21.593Z",
+  "lastFetchOk": true,
+  "episodes": [
+    {
+      "id": "647c0ef7-ac12-471e-b3d0-e430d413ffb6",
+      "title": "HN2DM Post-Mortem - Final Episode",
+      "pubDate": "2024-04-27T07:00:00.000Z",
+      "durationSeconds": 1080,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434536-44100-2-97726a679c57bb42.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Thank you all so much for listening! It means a lot to me. Find me over on the Dungeon Master's Block Links DMB Linktree How Not to DM Links How Not to DM Linktree Sponsor Links Episodify.com Affiliate Links 1985 Games Gemmed Firefly: Use Code DRAGON for 15% Off! Hero Forge Adve…"
+    },
+    {
+      "id": "4369e37f-e678-47d0-94df-405cb7a98f20",
+      "title": "Season 4 Part 2 Update!",
+      "pubDate": "2024-01-27T11:00:00.000Z",
+      "durationSeconds": 257,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434539-44100-2-3e3fe2f4ecf103bc.mp3",
+      "audioType": "audio/mpeg",
+      "description": "How Not to DM Links How Not to DM Linktree Sponsor Links Episodify.com Adventure Dice Advent Calendars - Use HN2DM for 10% Off! Affiliate Links 1985 Games Gemmed Firefly: Use Code DRAGON for 15% Off! Hero Forge Adventure Dice - Use Code HN2DM for 10% off! DM's Guild DriveThru RP…"
+    },
+    {
+      "id": "d938d8c0-97b0-4b8e-84b5-40fe2c6ce5c3",
+      "title": "Benjamin and Dane Overthink the Magic in D&D",
+      "pubDate": "2023-11-15T11:00:00.000Z",
+      "durationSeconds": 3431,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434546-44100-2-fd655f31c1ab2cc3.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Benjamin and Dane liked to think about the real-life implications of the existence of certain spells, items, and monsters in their game worlds, and decided to start their show, Dispel Magic, to talk about the most outlandish examples! Guest Links Dispel Magic Twitter SterlingVer…"
+    },
+    {
+      "id": "df5cc942-5d1d-4750-ac4c-0a2f06ea16a1",
+      "title": "Eric Silver Chats Podcasting, Actual Plays, and Unique Storytelling",
+      "pubDate": "2023-11-08T11:00:00.000Z",
+      "durationSeconds": 4392,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434575-44100-2-bf6a4e40cdf19887.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Eric is an actual play dm, game designer, and a creative professional at multitude where he spends all day helping podcasters make their dreams come true Guest Links Join the Party Links Eric's Twitter Eric's Work How Not to DM Links How Not to DM Linktree Sponsor Links RPGMatch…"
+    },
+    {
+      "id": "25b15082-d3ec-4951-935b-50221166b93b",
+      "title": "RPG Match Wants You to Find Your RPG Soulmates",
+      "pubDate": "2023-11-01T11:00:00.000Z",
+      "durationSeconds": 3350,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434632-44100-2-c83ed2a92d4abe83.mp3",
+      "audioType": "audio/mpeg",
+      "description": "RPG Match started working on his website/app after he noticed there wasn't a great place to find people who want to play the same games and the same way as he did. Thus RPG Match was born! Guest Links RPG Match Twitter RPGMatch.org How Not to DM Links How Not to DM Linktree Spon…"
+    },
+    {
+      "id": "dbe0e231-606d-49e5-907f-db2d1ef9f2ba",
+      "title": "Doug Levandowski on Making Kids on Bikes, Kids on Brooms, Teens in Space Feel Different, Special",
+      "pubDate": "2023-10-25T11:00:00.000Z",
+      "durationSeconds": 3239,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434554-44100-2-49568aa8975ee408.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Doug started his game design career from a random Facebook post to his friends. He's in the middle of working on fulfilling Kids on Bikes 2e and the upcoming Kids in Capes! Guest Links Doug's Itch Page Kids on Bikes Kids on Brooms Teens in Space How Not to DM Links How Not to DM…"
+    },
+    {
+      "id": "54a028af-5471-4d1f-a297-392a223ddacb",
+      "title": "Neil is Adding Authentic Celtic Flavor to His TTRPG, \"Fey Earth\"",
+      "pubDate": "2023-10-18T11:00:00.000Z",
+      "durationSeconds": 4183,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434571-44100-2-cd072182c3767708.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Neil is the creator of Fey Earth, the TTRPG and actual play heavily influenced by real Celtic myth that he grew up learning. The game is coming out early 2024 on Kickstarter! Guest Links Fey Earth Links How Not to DM Links How Not to DM Linktree Sponsor Links Episodify.com RPGMa…"
+    },
+    {
+      "id": "8ca6e9a6-fbab-4553-bd27-7c041421f953",
+      "title": "A-Mac is Designing His Gundam TTRPG While Recording the Actual Play \"Feddie Scum\"",
+      "pubDate": "2023-10-11T11:00:00.000Z",
+      "durationSeconds": 2731,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921867/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434650-44100-2-9be0ecd83098b27f.mp3",
+      "audioType": "audio/mpeg",
+      "description": "A-Mac is designing a Gundam TTRPG from scratch! Join his friends from Dead Set Media on \"Feddie Scum\", an actual play exploring the complex world of Gundam! Guest Links A-Mac Twitter Feddie Scum Website RPG Stress Test Links How Not to DM Links How Not to DM Linktree Sponsor Lin…"
+    },
+    {
+      "id": "6d10cf0f-501c-4b4b-91f8-18af2f407b81",
+      "title": "Riley, GM of Friend & Foe Adventure Co. Embraces the Wacky and",
+      "pubDate": "2023-10-04T11:00:00.000Z",
+      "durationSeconds": 3809,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434674-44100-2-bb4d54b04508979f.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Riley is the host of two awesome indie podcasts, an actual play Borderlands TTRPG show called Friend & Foe Adventure Co and The Board Game Community Show. Riley loves creating shenanigans for his players and chatting with board game designers. Guest Links Friend & Foe Adventure…"
+    },
+    {
+      "id": "ea128600-8096-4ad7-af82-0d283f357d46",
+      "title": "Will & Brian of The Dungeoncast Talk Origins, Current Projects, and Future Goals",
+      "pubDate": "2023-09-27T11:00:00.000Z",
+      "durationSeconds": 2745,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434566-44100-2-108b0802a23dc825.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Will and Brian have been making the Dungeoncast for years now, but dare just getting started on engaging, helpful content for GMs and DMs out there. Guest Links TheDungeoncast.com Starseeker's Guide to Draken Star How Not to DM Links How Not to DM Linktree Sponsor Links RPGMatch…"
+    },
+    {
+      "id": "4ffe742a-36df-4dbe-a3f9-53fa166e8e77",
+      "title": "Charles of Mann Shorts Has Run More \"Editions\" of D&D Than Anyone Else",
+      "pubDate": "2023-09-20T15:00:00.000Z",
+      "durationSeconds": 2682,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921782/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434550-44100-2-69abb6e5e3db8d6b.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Charles and his friends create a new skit almost weekly where they play a new \"edition\" of D&D and poke fun at the game and the show, movie, occupation, or situation. Guest Links YouTube: https://www.youtube.com/@MannShorts Patreon: patreon.com/mannshorts Twitter: twitter.com/ma…"
+    },
+    {
+      "id": "8c4d3f16-b02c-49db-9533-ca4cde6d907b",
+      "title": "Ivy B Might Be the Busiest Person in the Tabletop Industry",
+      "pubDate": "2023-09-13T11:00:00.000Z",
+      "durationSeconds": 3222,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434568-44100-2-81150ea1543267ea.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Ivy might be one of the busiest folks in the TTRPG industry! She’s been hard at work this year on multiple events, convention content, and running games! She is an incredibly hard worker, great networker, and fantastic game runner. Guest Links Ivy's Twitter CRIT Awards Links How…"
+    },
+    {
+      "id": "ee6b919c-e6f1-4486-8548-67c5032261da",
+      "title": "Andy Ashby Broke a D&D Record At His Own Gaming Tavern",
+      "pubDate": "2023-09-06T11:00:00.000Z",
+      "durationSeconds": 3173,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434605-44100-2-855f3e0761bce5c9.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Andy wanted a cool place to play games, so he and his family built a gaming tavern! And then, he wanted to break a world record so he invited more than 1,200 people to roll dice together! Guest Links We Geek Together Website How Not to DM Links How Not to DM Linktree Sponsor Lin…"
+    },
+    {
+      "id": "59069b50-beee-4fdb-9b3a-8491a2595ca9",
+      "title": "Cade of The Badventure Club is a Lover of Fun, Engaging TTRPGs",
+      "pubDate": "2023-08-30T11:00:00.000Z",
+      "durationSeconds": 3028,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921790/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434557-44100-2-3aaa3d23f082b792.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Cade mentioned starting The Badventure Club as a joke, and his friends called his bluff! Goes to show that you always need to watch what you promise to do. Check out The Badventure Club wherever you get your podcasts, or in the link below! Guest Links The Badventure Club Linktre…"
+    },
+    {
+      "id": "a8cd6fde-b6e4-44c9-8652-f581b6e25222",
+      "title": "GM Justin of Mastermind Adventures Loves Teaching New Players",
+      "pubDate": "2023-08-23T11:00:00.000Z",
+      "durationSeconds": 2843,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921792/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434561-44100-2-31db9998729700dc.mp3",
+      "audioType": "audio/mpeg",
+      "description": "GM Justin loves running games for new players! He also emphasizes a fun and light experience with plenty of jokes, antics, and tension relief. Enjoy! Guest Links Justin's Links How Not to DM Links How Not to DM Linktree Sponsor Links Next to Nothing Snyder's Return SAGAS Playtes…"
+    },
+    {
+      "id": "89cce295-398d-4468-904b-d58f3e7511ac",
+      "title": "Thomas of I Cast Fireball Takes Inspiration from Sneak Attack!",
+      "pubDate": "2023-08-16T11:00:00.000Z",
+      "durationSeconds": 3369,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921845/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434617-44100-2-9b7e5f29dfe46e43.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Thomas knew he wanted to make a quality Actual Play from the start, and focused on audio, story, and roleplaying to craft a masterful show. Thomas and his cast members trust each other and wort hard at their roles to create a truly unique and satisfying experience. Guest Links W…"
+    },
+    {
+      "id": "f13f0572-80b7-42c6-aa56-3d15744d1fbc",
+      "title": "GM Grant of Game Master Monday Records with a Rotating Cast AND Rotating TTRPG System!",
+      "pubDate": "2023-08-09T11:00:00.000Z",
+      "durationSeconds": 3445,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434564-44100-2-420d50397f304e17.mp3",
+      "audioType": "audio/mpeg",
+      "description": "GM Grant Decided a normal actual play sounded too easy, and started a show with a rotating cast AND rotating TTRPG system! With the help of his sister Jenny and tons of different actual play actors, Game Master Monday was born! Guest Links GMM Spotify GMM Apple Podcasts GMM Twit…"
+    },
+    {
+      "id": "601fa833-42e7-4be4-b3fb-f77ccdd657a9",
+      "title": "Season Four Premiere - Ned of Improv Tabletop Talks TTRPG Improv",
+      "pubDate": "2023-08-02T11:00:00.000Z",
+      "durationSeconds": 3510,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921846/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434612-44100-2-754abe17bee433f9.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Ned, GM of Improv Tabletop and player on I Cast Fireball has committed to the bit, the bit being improvisation. He's run over a dozen Fate mini games that are completely made up on the spot, and has also created some impressive narratives in the Avatar: the Last Airbender world…"
+    },
+    {
+      "id": "1de00ccb-2dcd-4f7b-a898-e3a1d8f28e60",
+      "title": "Wizards Content Creator Summit Review",
+      "pubDate": "2023-04-04T11:00:00.000Z",
+      "durationSeconds": 4678,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921897/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434635-44100-2-61ce0cda4d16dcb1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "A few months ago, Wizards of the Coast announced an invite-only \"Content Creator Summit\". It just so happens that I got invited! ...Well, digitally anyway. Neal avoided spoilers and info about it all day, and asks me the questions you're probably all wondering about yourselves,…"
+    },
+    {
+      "id": "4ec2f103-0f27-4aa6-bd6e-314e9d117459",
+      "title": "Season Three Finale - One Page Mage Discusses One Shot Design, and What Makes a Good Adventure",
+      "pubDate": "2023-03-15T11:00:00.000Z",
+      "durationSeconds": 4476,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434555-44100-2-8287be633ff7fa38.mp3",
+      "audioType": "audio/mpeg",
+      "description": "One Page Mage has been doing exactly what it sounds like for a few years now; creating awesome one page adventures for you to use as one shots or side quests or whatever else you need for your game group! He’s got some great advice on one shot design as well as broader concepts…"
+    },
+    {
+      "id": "61faa8aa-3975-4954-a530-4943a764f2fe",
+      "title": "Kaiya the Mirror-Lock Chats Game Design, LARPing, and Her Current Releases",
+      "pubDate": "2023-03-01T11:00:00.000Z",
+      "durationSeconds": 3786,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921808/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434565-44100-2-3c9009014a1ace0e.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Kaiya is a game designer who got started with a game jam and has been churning out creative and interesting games ever since! Her background in LARPing and Language means she has interesting perspectives on what makes TTRPGs fun. Guest Links Kaiya's Website - Buy Her Games! Kaiy…"
+    },
+    {
+      "id": "77d941fd-8fda-444a-bbad-58b414812904",
+      "title": "Quincy's Tavern and Critical Dice Double Feature! We Talk Running Games and The Convergence",
+      "pubDate": "2023-02-21T11:00:00.000Z",
+      "durationSeconds": 3977,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434666-44100-2-60be12e556c7a063.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Quincy of Quincy’s Tavern and Jason of Critical Dice have been collaborating on content and goods for almost three years now, and are incredibly excited to bring their vision of creating the real-life version of Quincy’s Tavern to life! The Convergence is coming to Utah this spr…"
+    },
+    {
+      "id": "03a30025-8fde-4373-89b0-9569a9375303",
+      "title": "Michael Low Talks About Teaching Through Games and Designing Games With a Focus on Storytelling",
+      "pubDate": "2023-02-15T11:00:00.000Z",
+      "durationSeconds": 4367,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434558-44100-2-155bbacbbcd25b48.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Michael Low has a background in teaching and has combined this with his love of tabletop games to create many kid friendly games focused on children’s learning and development! Michael is incredibly passionate about his work and is constantly thinking of new ways to help kids an…"
+    },
+    {
+      "id": "f257d565-3dde-4363-b72b-0056e327a8cf",
+      "title": "Travis Vengroff Pulls Out All the Stops on Actual Play Dark Dice",
+      "pubDate": "2023-02-08T11:00:00.000Z",
+      "durationSeconds": 3085,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921852/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434611-44100-2-3748100361714ec6.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Travis Vengroff, creator of Dark Dice has been telling stories since he was very young, and found his niche in incredibly well produced podcasts! Dark Dice truly is a labor of love, featuring specially composed music just for the show, professional voice actors, amazing soundsca…"
+    },
+    {
+      "id": "f7d0c262-0f4a-4eb7-b9ab-94c1e9c6028a",
+      "title": "Lord Gosumba Has Been Running His Greyhawk Game For 43 Years",
+      "pubDate": "2023-02-01T16:15:00.000Z",
+      "durationSeconds": 3003,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434577-44100-2-2c03ffad7ad2ba63.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Jay, known by one of his characters, Lord Gosumba, is a DM who has been running the same Greyhawk game for more than 43 years now! He started streaming his games within the last few years, ands has drawn some incredible names to his table, raised thousands for awesome charities,…"
+    },
+    {
+      "id": "5b98629a-5076-4445-b8ab-76c5d218110f",
+      "title": "Zachary Burrell, Creator of Warlock, Talks About Acting and Anime Influences in TTRPGs",
+      "pubDate": "2023-01-25T11:00:00.000Z",
+      "durationSeconds": 2958,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434614-44100-2-a5adbda2b590b7ce.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Zachary Burrell is the creator, writer, director, editor, and producer of the D&D influenced audio drama “Warlock”! As a big anime and TTRPG fan, Zach took both of his loves and created an orignal story which is tons of fun. Zach is also a player in the actual play podcast “Seve…"
+    },
+    {
+      "id": "583fdfe0-9c97-4de6-94c5-4434802a501f",
+      "title": "Vahid, DM of Dice Legenz Takes His Composition and Production Experience to Tabletop Streaming",
+      "pubDate": "2023-01-18T11:00:00.000Z",
+      "durationSeconds": 3669,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921788/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434548-44100-2-1aabef06f623540f.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Vahid, DM of Dice Legenz decided to take his field of expertise to a new level and build an actual play show in his home country of New Zealand! Using his background in creating soundtracks and sound effects and also writing for television, he found a way to combine them into an…"
+    },
+    {
+      "id": "bb2bcb5f-bdeb-4b37-9ab1-ee659b696bfe",
+      "title": "Michael, DM of Relic of the Past Needed an Actual Play So He Made One!",
+      "pubDate": "2023-01-11T11:00:00.000Z",
+      "durationSeconds": 3208,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921875/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434659-44100-2-ebdca2eaa00ad023.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Michael is DM of family friendly actual play podcast ‘Relic of the Past’ and game designer behind the level on adventure in Wizard of the Coast’s Candlekeep Mysteries! He has great advice for getting into TTRPG design and running your own games. Guest Links Relic of the Past Pod…"
+    },
+    {
+      "id": "186c9f5c-753e-4614-bfc5-e273e4e6232a",
+      "title": "D20 Deathmatch Hosts Couple CausticPhoenix and Mudcat Fell in Love with D&D",
+      "pubDate": "2023-01-04T11:00:00.000Z",
+      "durationSeconds": 3973,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921876/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434645-44100-2-8ffa51529a51c78a.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Caustic Phoenix and Mudcat make up the dynamic duo behind D&D actual play stream “D20 Deathmatch”! They got into TTRPGs and decided to take a crack at using their streaming skills to make something original and fun! Guest Links D20 Deathmatch Twitch D20 Deathmatch Twitter D20 De…"
+    },
+    {
+      "id": "b7ffcd8c-672a-485f-afb4-65dc34090409",
+      "title": "Ginny Loveday Volunteers Her Way Into Community Organization and Game Design",
+      "pubDate": "2022-12-21T11:00:00.000Z",
+      "durationSeconds": 3706,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921861/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434628-44100-2-e20a2289347350db.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Ginny Loveday is a staple in the TTRPG community, especially in the event planning and publishing circles! Her start in community organization and game design both came from volunteering and jumping in where she saw needs, and now it’s her full time gig! An amazing success story…"
+    },
+    {
+      "id": "80d9c929-ad51-4874-afb3-c60bdb322e94",
+      "title": "Callum and Paul of Homebrew Havoc Chat About Building a TTRPG Community and Running Games",
+      "pubDate": "2022-12-14T11:00:00.000Z",
+      "durationSeconds": 4069,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434644-44100-2-09f7ba09b576ab4e.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Callum and Paul are a dynamic TTRPG duo who play and create together to the delight of all. Together they helped create “Homebrew Havoc”, an actual play show that uses homebrew everything created by their community! Callum and Paul are also both patrons of mine and have been big…"
+    },
+    {
+      "id": "5b6b0816-7d30-473b-b3aa-5673acf62856",
+      "title": "DM Neal of The Dungeon Master's Block Talks About Running Games, Painting Minis, and Podcasting",
+      "pubDate": "2022-12-07T11:00:00.000Z",
+      "durationSeconds": 3301,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921779/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434543-44100-2-c5805289360eee7e.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Neal Powell, aka Joatmoniac online, is one of the hosts of the long running and well regarded D&D chat show, “Dungeon Master’s Block”. He’s chatted with countless talented DM’s in his time, and also flexes his creative muscles with his own publications, both game supplements and…"
+    },
+    {
+      "id": "2d90ecf7-b070-4794-994c-a1f3e9908a9a",
+      "title": "Shelly and Greg of Wizards of the Coast and Dragon Talk Give DMing Advice and Talk About Their New Book!",
+      "pubDate": "2022-11-30T11:00:00.000Z",
+      "durationSeconds": 3473,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434569-44100-2-048c5c5e80e323fa.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Shelly and Greg have been making “Dragon Talk” for more than 8 years together, and have met so many interesting and amazing personalities through the show. Their new book, “Welcome to Dragon Talk” is available for purchase and is a great buy for your D&D loving family members an…"
+    },
+    {
+      "id": "a65a1d23-48b3-47a4-9b03-4f2d0c153f72",
+      "title": "DM Dave of Tomes of the Chaos Bard Talks About Involving Players, Playing With Family, and More!",
+      "pubDate": "2022-11-23T11:00:00.000Z",
+      "durationSeconds": 4097,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921842/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434601-44100-2-55cd32d7f2f68b72.mp3",
+      "audioType": "audio/mpeg",
+      "description": "This week I’m chatting with DM Dave of “Tomes of the Chaos Bard”, a family friend 5e Adventure coming up on their two year anniversary! Dave and his group were having so much fun with the game they started, they decided to try and record it and share it with everyone else. Dave…"
+    },
+    {
+      "id": "de25fa72-b415-4e08-89a6-c1f741a8b0ee",
+      "title": "Promo - Dark Dice Episode 1",
+      "pubDate": "2022-11-18T16:45:00.000Z",
+      "durationSeconds": 3035,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921887/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434663-44100-2-cb11ca987209cf9a.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Dark Dice Twitter Dark Dice Homepage Dark Dice. Facebook Page Dark Dice Instagram Fool And Scholar Twitch Fool And Scholar YouTube"
+    },
+    {
+      "id": "171ea986-14d6-4780-bcc1-e3ac90eacab3",
+      "title": "Dragna Carta Discusses Curse of Strahd, Challenge Ratings, and What Makes a Good Player and DM",
+      "pubDate": "2022-11-16T11:00:00.000Z",
+      "durationSeconds": 4726,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434640-44100-2-cc964a9921170f5a.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Dragna Carta is known for his work in the “Curse of Strahd” DM community, both on Reddit and on the actual play podcast “Twice Bitten”. Guest Links Dragna Carta's Link Tree How Not to DM Links How Not to DM Linktree Sponsor Links Homebakery's Skeleton Closet on DriveThruRPG Dice…"
+    },
+    {
+      "id": "02430d1b-1fa5-4f45-8824-d8cad017ac4a",
+      "title": "Anthony Joyce-Rivera Discusses Balancing Games, Facilitating Fun, and Game Design",
+      "pubDate": "2022-11-09T11:00:00.000Z",
+      "durationSeconds": 3840,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434583-44100-2-b54400f37095f04a.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Anthony Joyce-Rivera is a talented and prolific game designer, with over 25 design credits to his name including work for MCDM’s Arcadia. His projects and work is well known and respected throughout the community! Guest Links https://anthonydreams.com/ How Not to DM Links How No…"
+    },
+    {
+      "id": "26906bfd-cc48-4eb9-97d3-1d11d0471dcc",
+      "title": "Chef Mike Dishes on Game Night Snacks, Fast Food Mascots, DM Advice and More!",
+      "pubDate": "2022-11-02T11:00:00.000Z",
+      "durationSeconds": 4422,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434585-44100-2-280c2aca6d4d9720.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Chef Mike Haracz is a lifelong nerd and TTRPG player whose love for games continue on to today! When he’s not thinking up awesome new recipes for your favorite restaurants or showing the internet how to make butter boards, he’s running games in his basement for his local group!…"
+    },
+    {
+      "id": "1934ef48-0c7d-4fe2-aeb8-0e3f532371eb",
+      "title": "Malcolm, Creator of The Weekly Roll Can't Help But Think About His Latest Comic Storyline",
+      "pubDate": "2022-10-26T11:00:00.000Z",
+      "durationSeconds": 3182,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921853/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434627-44100-2-515944f9d9d5b077.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Malcolm, the artist and brains behind “The Weekly Roll” had no idea his comic would grow as much as it has, but he’s enjoyed every second of people laughing at his work. He loves looking for inspiration for his next panel in the every day, and in the funniest TTRPG cliches. He e…"
+    },
+    {
+      "id": "ca6d3fbf-4793-456e-adaa-47d4fe4aea61",
+      "title": "Ron Ogden is a TTRPG Renaissance Man!",
+      "pubDate": "2022-10-19T11:00:00.000Z",
+      "durationSeconds": 4175,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434573-44100-2-01caab690a8495da.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Ron Ogden's nerdy roots run deep, and his penchant for performance made him a perfect cast member for the first season of \"The Dungeon Run\", and an amazing co-DM for the current second season! When Ron isn't crafting stories for a Top 50 D&D Twitch Stream, he's painting minis, d…"
+    },
+    {
+      "id": "7837929d-c960-4cc1-907a-48cae3803291",
+      "title": "Matt Joro AKA Dungeon Glitch on How He Got Into Running TTRPGs, Making T-Shirts, Lo-Fi Beats, and More!",
+      "pubDate": "2022-10-12T11:00:00.000Z",
+      "durationSeconds": 2840,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434581-44100-2-20d05c370b91462b.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Matt, aka Dungeon Glitch, has been sailing the TTRPG seas for two years now, and dips his toes in tons of different content and projects. Most recently, he’s releasing an album of lofi beats, playing in an actual play podcast, and working on worldbuilding prompts which he’s publ…"
+    },
+    {
+      "id": "96714378-5c4b-470a-b684-48cf58ddd93a",
+      "title": "DM Reid of Sneak Attack Dishes on DMing Mistakes and His Show's Lasting Influence",
+      "pubDate": "2022-10-05T11:00:00.000Z",
+      "durationSeconds": 3152,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434553-44100-2-93120e2216a1f65c.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Reid could be called one of the godfathers of TTRPG actual play podcasts. Along with his friends, he started Sneak Attack! in 2015, less than a year after the release of D&D 5e. Sneak Attack paved the way for so many other indie actual play shows, and has been inspiring creators…"
+    },
+    {
+      "id": "85f62789-baa4-4a30-92f2-8138f108b871",
+      "title": "Powerbuilding and Content Creation with Offbeat Outlaw",
+      "pubDate": "2022-09-28T11:00:00.000Z",
+      "durationSeconds": 3443,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921872/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434646-44100-2-4a8caa02171996f2.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Offbeat Outlaw is best know for his quirky skits featuring the Forever DM finally getting to play, crazy power builds, and more! With a background in acting and performance, they were drawn to the game during the start of the pandemic and have been consumed by D&D and related co…"
+    },
+    {
+      "id": "09d2874f-d63c-41da-b5f1-9392726b42a7",
+      "title": "Kerri Smith of Crossroads Games Excels at Horror",
+      "pubDate": "2022-09-21T11:00:00.000Z",
+      "durationSeconds": 2130,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921804/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434589-44100-2-c8dac8bc34c42dfb.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Kerri, DM for Crossroads Games, can always be found hard at work on her next creative TTRPG stream! She specializes in running lots of different games, types of adventures, and stories! Kerri has a flair for horror and suspense, even through a streamed game medium. Too Hot One S…"
+    },
+    {
+      "id": "a8c904e0-aee1-46f6-a337-43ddd790f2c8",
+      "title": "3 Black Halflings Join Derrick to Chat Nerdiness, Representation, and More!",
+      "pubDate": "2022-09-14T11:00:00.000Z",
+      "durationSeconds": 5651,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434572-44100-2-603f9813f64da49a.mp3",
+      "audioType": "audio/mpeg",
+      "description": "3 Black Halflings have taken the TTRPG community by storm with their humor and their willingness to talk frankly and openly about why representation matters in games. Each of them have a unique story of how they got into gaming as well as incredible insights into what makes a go…"
+    },
+    {
+      "id": "8a1ae334-aee1-4e14-9414-1194a4145ac4",
+      "title": "Quickfire Chaos Compilation Part Three - Other Mini Games",
+      "pubDate": "2022-09-07T11:00:00.000Z",
+      "durationSeconds": 3002,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434621-44100-2-0ab36ae1f626d1dd.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Enjoy this Quickfire Chaos compilation episode! This is part three, a collection of all of the other talents my guests had like game design, puzzles, traps, and more! How Not to DM Links How Not to DM Linktree Recent Guest Spots Next To Nothing Podcast - Spelljammer, DMing on a…"
+    },
+    {
+      "id": "41eb8df5-73ab-4f95-aff6-517deeb25614",
+      "title": "Quickfire Chaos Compilation Part Two - Other Mini Games",
+      "pubDate": "2022-09-07T11:00:00.000Z",
+      "durationSeconds": 3002,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434596-44100-2-8745c53d0a403c8c.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Enjoy this Quickfire Chaos compilation episode! This is part two, a collection of all of the other talents my guests had like game design, puzzles, traps, and more! How Not to DM Links How Not to DM Linktree Recent Guest Spots Next To Nothing Podcast - Spelljammer, DMing on a Bu…"
+    },
+    {
+      "id": "64813eec-615c-4291-8ce2-12dcd91113b3",
+      "title": "Quickfire Chaos Compilation Part One - Role-Playing",
+      "pubDate": "2022-08-10T11:00:00.000Z",
+      "durationSeconds": 4117,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434660-44100-2-239c9459dffad97f.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Enjoy this Quickfire Chaos compilation episode! This is part one, a collection of all of the role-playing mini games! Come enjoy all the incredibly talented guests and their role-playing skills! How Not to DM Links How Not to DM Linktree Sponsor Links Gemmed Firefly: Use Code DR…"
+    },
+    {
+      "id": "d737edf3-274f-4006-b137-175c77e8a9f9",
+      "title": "Season 2 Finale with Tanya DePass of Rivals of Waterdeep and I Need Diverse Games",
+      "pubDate": "2022-07-13T11:00:00.000Z",
+      "durationSeconds": 2770,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921784/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434552-44100-2-a3ac7de2780418e8.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Tanya De Pass, known online as “Cypher of Tyr”, is one of the most experienced TTRPG stream producers on this plane of existence! Tanya helped kickstart “Rivals of Waterdeep”, one of the longest running official D&D streams, now in it’s 13th season! She also helped create and pr…"
+    },
+    {
+      "id": "1947a6ff-1abe-4c5b-80d4-5ee5bd606567",
+      "title": "Michael aka Dead Aussie Gamer",
+      "pubDate": "2022-07-06T11:00:00.000Z",
+      "durationSeconds": 3144,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434623-44100-2-b4c766cc0561af98.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Micheal, known as “Dead Aussie Gamer”, or just “DAG” if you’re pressed for time, is a DM and streamer from the west coast of Australia who’s run and played in so many streamed games that he might as well be the TTRPG Kevin Bacon. When Michael’s not streaming, he’s at his other j…"
+    },
+    {
+      "id": "e9d3fce6-e3e3-41f8-bf2b-c9254fbd37fd",
+      "title": "JR of The Roll of Cool",
+      "pubDate": "2022-06-29T11:00:00.000Z",
+      "durationSeconds": 2594,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434685-44100-2-9821c8f7cd8f31b6.mp3",
+      "audioType": "audio/mpeg",
+      "description": "JR is an awesome DM of an all Filipino show, Roll of Cool! JR and his friends are playing a game heavily inspired by Hitpoint Press’s “The Islands of Sina Una”, a D&D setting for the pre-colonial Philippines! JR and crew spend a ton of time fine tuning and editing their show for…"
+    },
+    {
+      "id": "7d7e92da-e448-48f9-8dab-16ec7eabe86c",
+      "title": "Cassi Mothwin, Author of \"What Crooked Roots\"",
+      "pubDate": "2022-06-22T11:00:00.000Z",
+      "durationSeconds": 2899,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434578-44100-2-80afe9a335496909.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Cassi Mothwin, known as Countess Cassi online, is a DM, streamer, horror enthusiast, and tabletop game designer! She’s released an awesome supplement called “What Crooked Roots” which I have used in my own home game! Cassi is also hard at work on another supplement called “Clean…"
+    },
+    {
+      "id": "e95e6958-7f8f-4011-a3ec-cfd327dbef9c",
+      "title": "Skald of Shenanigans",
+      "pubDate": "2022-06-15T11:00:00.000Z",
+      "durationSeconds": 2806,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921873/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434662-44100-2-22be9f8884d7d363.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Skald of Shenanigans, or simply “Skald”, has been creating supplements for games since 2021 and specializes in creative traps and puzzles for different game environments. I’ve bought and used Skald’s puzzles in my home game and enjoyed them so much I knew I wanted to chat with h…"
+    },
+    {
+      "id": "4328a785-b5f1-458c-a1a6-d55c527291dd",
+      "title": "Dylan and Aram from Kill Every Monster",
+      "pubDate": "2022-06-08T11:00:00.000Z",
+      "durationSeconds": 3574,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434679-44100-2-39408bd4c0d6f2c6.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Dylan and Aram have been working together since late summer 2021 on their show Kill Every Monster, a creative hybrid of TTRPG discussion and Actual Play podcast that dives deep into an entry from the 5e Monster Manual with a new guest each time. They talk about what they like an…"
+    },
+    {
+      "id": "873c6942-ad31-4ddd-9c77-2824edca8eaf",
+      "title": "Sara Thompson Designer of the 5e Combat Wheelchair",
+      "pubDate": "2022-06-02T11:00:00.000Z",
+      "durationSeconds": 3970,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434641-44100-2-bbb072429424344f.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Sara is one of those game designers who saw a need in D&D for rules to make the game more inclusive and interesting for players when they created the 5e Combat Wheelchair! We chat about where the idea came from, and also where Sara's best inspiration comes from when she's prepar…"
+    },
+    {
+      "id": "b9dd7bb8-d4b6-4e62-aed9-dac5a67aa689",
+      "title": "Kat Kruger of D20 Dames and Steampunk Unicorn Studios",
+      "pubDate": "2022-05-25T11:00:00.000Z",
+      "durationSeconds": 2573,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921800/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434574-44100-2-591e7d92d7391349.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Kat Kruger has so many talents, it’s no wonder she took to game design and DMing a podcast so quickly! If you’re in the States, you’re probably familiar with her D&D/Nerds Candy collaboration that hit shelves in summer, 2021. She’s contributed to or written tons of other 5e supp…"
+    },
+    {
+      "id": "194d17d8-d65b-464f-8bf2-1a1941e8073f",
+      "title": "Mike Shea aka Sly Flourish, Author of \"The Lazy Dungeon Master\"",
+      "pubDate": "2022-05-18T11:00:00.000Z",
+      "durationSeconds": 2994,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921811/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434584-44100-2-e347d412a77a7c73.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Mike Shea, known as Sly Flourish in TTRPG circles, is an incredibly influential author, game designer, blogger, video creator, and much more! Mike's book, \"The Lazy Dungeon Master\" and \"Return of the Lazy Dungeon Master\" are regarded as some of the most informative and helpful b…"
+    },
+    {
+      "id": "0e43531d-2d8b-41b4-9ec4-62edd95bb2b6",
+      "title": "Will of DnD Shorts",
+      "pubDate": "2022-05-11T11:00:00.000Z",
+      "durationSeconds": 3215,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921901/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434667-44100-2-42e0bfbf65ce2c75.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Will of “DnD Shorts” is a self-proclaimed “Covid Generation” D&D player who got his start in March of 2020! With his experience in video content and his passion for creating, he found a niche and has been growing like crazy ever since! Will has some awesome ideas about running g…"
+    },
+    {
+      "id": "a8e374ec-5a7d-4d6f-b882-1dc1b7569b5f",
+      "title": "Logan Roe of The Mindful Gamer",
+      "pubDate": "2022-05-04T11:00:00.000Z",
+      "durationSeconds": 2853,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434665-44100-2-3ec50db9df09ad6e.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Logan Roe, known as the Mindful Gamer, has been playing tabletop games since his youth! Recently he’s been a part of a live D&D theater experience, and is running games for his family and friends. We chat about the stigma behind D&D and gaming in general, his best tips and trick…"
+    },
+    {
+      "id": "67342759-6bc7-4fd1-a691-4efdbab6fec6",
+      "title": "Mat of the Role Play Chat Podcast",
+      "pubDate": "2022-04-27T11:00:00.000Z",
+      "durationSeconds": 3589,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434579-44100-2-ce90394350ee12ce.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Mat is the host of Role Play Chat, a TTRPG podcast which covers different topics each episode, and lately has been featuring guests from all around the industry to chat about them! I was on Mat’s show a few weeks ago where we chatted about “Social Encounters” which was a lot of…"
+    },
+    {
+      "id": "4a3560a3-48b8-4269-9654-29d60f2fbfdb",
+      "title": "Grant Howitt of Rowan, Rook, & Decard",
+      "pubDate": "2022-04-20T11:00:00.000Z",
+      "durationSeconds": 3212,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921826/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434590-44100-2-6f45e1a64b40eb29.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Grant Howitt is a game designer at Rowan, Rook, and Decard. You’ve probably heard of at least two of his games, Honey Heist and Goblin Quest, both one-page RPGs that have spread like wildfire across the TTRPG world. He’s created tons more where that came from, including dozens o…"
+    },
+    {
+      "id": "85e2760b-3763-4a89-b55e-de3031f42b32",
+      "title": "Enrique, aka NewbieDM",
+      "pubDate": "2022-04-13T11:00:00.000Z",
+      "durationSeconds": 2795,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921827/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434602-44100-2-02fbbf58410813a5.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Enrique has been running games since 4e D&D, and has been blogging for almost as long! He started NewbieDM.com with the intent to create a resource for new DMs like him, and has been adding to it ever since! Though he’s not a newbie anymore, the advice and resources he’s curated…"
+    },
+    {
+      "id": "4beb0e19-01a2-43fd-98db-4d42bc833fe8",
+      "title": "Dungeon Maestro Kyle of the BomBARDed Podcast",
+      "pubDate": "2022-04-06T11:00:00.000Z",
+      "durationSeconds": 3568,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921840/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434606-44100-2-5c1329c8fdf400e6.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Dungeon Maestro Kyle and his family and friends have JUST finished their final episode of BomBARDed, an actual play podcast focused around three bards and their experience from getting into Bard School to saving the world in which they live! BomBARDed is an incredibly well made…"
+    },
+    {
+      "id": "5c9e31af-84db-4395-afcc-c5fed9eda5fd",
+      "title": "Nathan of Reckless Attack",
+      "pubDate": "2022-03-30T17:00:00.000Z",
+      "durationSeconds": 3467,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921829/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434610-44100-2-1aab1ae09b65e2a3.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Nathan and the rest of the Reckless Attack podcast burst on the scene mid 2021, and have been gaining momentum since with their amazing audio quality and unique story. Nathan spent many hours thinking about the show, how he wanted it to sound, how he wanted to market it, and mor…"
+    },
+    {
+      "id": "0c84ead0-c1aa-49c6-b3bd-c8131e83641f",
+      "title": "Sam Comerford of Roleplaying and Rollplaying",
+      "pubDate": "2022-03-23T17:00:00.000Z",
+      "durationSeconds": 3352,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434595-44100-2-91305201d66ee6b4.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Sam has been creating TTRPG content for a year and a half now, including the podcast Roleplaying and Rollplaying, now in its second season, TTRPG memes, a kickstarter project, and more! The RandR twitter account is well over 27k followers at the time of me recording this intro,…"
+    },
+    {
+      "id": "373dd93b-992a-4220-ac8d-6a69a51f4192",
+      "title": "Joel Kleine, the brain behind Midlife Dices",
+      "pubDate": "2022-03-16T17:00:00.000Z",
+      "durationSeconds": 3465,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434600-44100-2-8d71bccc222771b9.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Joel Kleine, aka Midlife Dices, is one of those people who has a knack for everything he touches! In his past he’s been in bands, was a school teacher for many years, and lately he’s found a knack for making cool stuff for TTRPGs! Joel has written some really creative and useful…"
+    },
+    {
+      "id": "bc7416d4-39dd-4d62-84ad-4ad05f74df3e",
+      "title": "James Introcaso from MCDM Productions",
+      "pubDate": "2022-03-09T18:00:00.000Z",
+      "durationSeconds": 3670,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434631-44100-2-5b8c39dc8b7845d6.mp3",
+      "audioType": "audio/mpeg",
+      "description": "James Introcaso is an accomplished game designer, having contributed to seven different official DandD books and a slew of other third party supplements including his current gig as lead designer for Matt Colville’s MCDM Productions. This means he’s got valuable insights into ge…"
+    },
+    {
+      "id": "b85c67ce-c0f8-4f3b-bbac-ccf18152e7b6",
+      "title": "Keith Ammann, Author of \"The Monsters Know What They're Doing\"",
+      "pubDate": "2022-03-02T18:00:00.000Z",
+      "durationSeconds": 3490,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434643-44100-2-34002afde8eab273.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Keith Ammann is the author of the popular DandD 5e blog “The Monsters Know What They’re Doing” which breaks down the stat blocks of all creatures in the monster manual and how you might best use them in combat encounters. The blog’s popularity led to Keith writing a series of bo…"
+    },
+    {
+      "id": "92ac7ee3-638b-412c-bf6c-5298458be6d7",
+      "title": "Lex Bobrow aka TitanomachyRPG, Creator of Caltrop Core!",
+      "pubDate": "2022-02-23T21:10:00.000Z",
+      "durationSeconds": 3816,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434559-44100-2-6d77340b378a7b71.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Lex has been interested in game design since they started playing TTRPGs! After getting started with subclasses and other 5e home brews, they decided to try designing new games, and Caltrop Core was born! Since October, over 100 games and counting have been made on Caltrop Core,…"
+    },
+    {
+      "id": "c88d1cc7-741e-4d20-a854-992fe12b2303",
+      "title": "Robert Hartley from Viva La Dirt League",
+      "pubDate": "2022-02-16T18:00:00.000Z",
+      "durationSeconds": 3752,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434604-44100-2-91b65aa488af408d.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Robert has learned a lot about reigning in and redirecting chaos as the DM for Viva La Dirt League's \"NPC DandD\" game. He's been running games for a few years, and a connection got him in touch with the VLDL crew which has helped him make DandD his full time gig! Robert streams…"
+    },
+    {
+      "id": "f6ce9371-3ed3-4b31-9d88-6d3ac39957f2",
+      "title": "Todd Stashwick of The Nerd Circus",
+      "pubDate": "2022-02-09T18:00:00.000Z",
+      "durationSeconds": 3639,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921854/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434639-44100-2-7c311796bfa2503a.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Todd Stashwick is an incredibly talented actor and writer with over 120 credits on IMDB and counting! He’s played hardened villains, brooding anti heros, loveable protagonaists, and most importantly, DandD! Todd has some really good tips on making your improv and roleplay more i…"
+    },
+    {
+      "id": "d360155f-8940-4550-92b7-5ba75a108d75",
+      "title": "Guy Sclanders of How to be a Great GM",
+      "pubDate": "2022-02-02T18:00:00.000Z",
+      "durationSeconds": 3146,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434680-44100-2-5810df7fffd6b4cb.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Guy Sclanders is a seasoned TTRPG content creator who has recorded thousands of hours of Youtube content, written books, and created his own games and supplements for other games. Guy is an incredible improvisor who comes up with characters at the drop of a hat and has dozens of…"
+    },
+    {
+      "id": "966ced06-52e4-4cbb-a837-2c7cb8e85a6c",
+      "title": "Hamilton from Dragon's Duel and The Role Play Factory",
+      "pubDate": "2022-01-26T19:00:00.000Z",
+      "durationSeconds": 2987,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434652-44100-2-beb33efafd7dfb3c.mp3",
+      "audioType": "audio/mpeg",
+      "description": "CW: Hamilton's friends, 'Backwater Bastards' are mentioned a few times, and there's a couple jokes about drinking and smoking \"like teenagers do\", all in fun. May not be suitable for very small ears. Hamilton is such a creative force in the TTRPG community! It seems like ever mo…"
+    },
+    {
+      "id": "28bb75f8-df95-49ad-9f18-87743076fcd1",
+      "title": "Tim Roven of Tabletop Audio",
+      "pubDate": "2022-01-19T18:00:00.000Z",
+      "durationSeconds": 2560,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921868/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434675-44100-2-382a1f4e49448082.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Tim Roven's project, Tabletop Audio, has been listened to on all seven continents! There are thousands of users looking for great ambiences for their TTRPGs, but Tim has also heard from school teachers, parents, writers, researchers, and more that his soundscapes have made their…"
+    },
+    {
+      "id": "da3f57f2-86b6-4383-b459-6ca531476ccc",
+      "title": "Johnny Stanton of the Cleveland Browns - HN2DM Season 2 Kickoff!",
+      "pubDate": "2022-01-12T20:00:00.000Z",
+      "durationSeconds": 3103,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921831/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434613-44100-2-d1f61eb8803437e2.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Johnny has been playing DandD since his college days, and has now graduated to running games for NFL teammates along with family and friends. His stories about finding people to play with in a pro sports locker room and advice on running games is definitely worth listening to, a…"
+    },
+    {
+      "id": "a4156f29-e958-4995-83f1-bbf6efc1a36c",
+      "title": "How Not to DM Season 2 Trailer",
+      "pubDate": "2022-01-12T11:58:00.000Z",
+      "durationSeconds": 88,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434580-44100-2-c86b9306b610802c.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Season 2 Starts January 12th! Support the Show! Affordable Tiers, Amazing Perks: https://www.patreon.com/hn2dm?fan_landing=true (HN2DM Patreon) Social Media Links, Podcast Platforms, Affiliate Links, Guest Appearance Links, and More: https://linktr.ee/hn2dm (HN2DM Linktree)"
+    },
+    {
+      "id": "82c462b7-fec4-4e93-ac48-98fd7d251279",
+      "title": "Derrick from How Not to DM - Featuring Guest Host Rachel! - Season One Finale",
+      "pubDate": "2021-11-10T12:07:00.000Z",
+      "durationSeconds": 2959,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434625-44100-2-49f7489d18d45482.mp3",
+      "audioType": "audio/mpeg",
+      "description": "This week's guest is... me! And features the lovely Rachel, my partner, as my guest host. Rachel grilled me on my origins, the good and bad parts of my game, and we chatted about fun moments from our home games we share together. This is the Season One Finale! Thank you so much…"
+    },
+    {
+      "id": "5c679cd4-3dc4-4ed0-9774-c4c76c57fdab",
+      "title": "Steph from TTRPGKids",
+      "pubDate": "2021-11-03T12:00:00.000Z",
+      "durationSeconds": 2694,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921791/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434576-44100-2-6246192235167492.mp3",
+      "audioType": "audio/mpeg",
+      "description": "This episode’s guest is Steph, creator of the TTRPG Kids blog. Steph created the site to compile games for kids, and has started a lot of other cool projects along the way, including reviewing tons of different indie games geared for kids and creating games of her own! TTRPGKids…"
+    },
+    {
+      "id": "2e57601e-ea30-4ebd-91cb-ce778f3cda01",
+      "title": "Beth the Bard, author of \"She is the Ancient\", a genderbent Curse of Strahd campaign guide",
+      "pubDate": "2021-10-27T12:00:00.000Z",
+      "durationSeconds": 2705,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921806/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434603-44100-2-cb988a7b32a90707.mp3",
+      "audioType": "audio/mpeg",
+      "description": "When Beth started playing DandD she quickly discovered the vampire module, Curse of Strahd, and just as quickly found it to be problematic. She started small with making changes in her own game as she ran it, and as she made more changes, decided to try and put all her thoughts…"
+    },
+    {
+      "id": "c40c6201-866f-4ec5-a2b6-c5d6c0b20b72",
+      "title": "Ty from Side Character Quest",
+      "pubDate": "2021-10-20T12:00:00.000Z",
+      "durationSeconds": 2354,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921795/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434586-44100-2-5e6e5e8994f52808.mp3",
+      "audioType": "audio/mpeg",
+      "description": "This show’s guest is Ty, DM of Side Character Quest! His show is unique among actual play podcasts because it features many different guests playing the roles of side characters in his world, and each game is a self contained story and played with one DM and one player. Ty has b…"
+    },
+    {
+      "id": "9bb23859-d0d3-46f7-bacc-513bdee94cef",
+      "title": "Fiona from What Am I Rolling? and The DM's Book Club",
+      "pubDate": "2021-10-13T12:00:00.000Z",
+      "durationSeconds": 2767,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921805/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434598-44100-2-111e27f1e9427db5.mp3",
+      "audioType": "audio/mpeg",
+      "description": "This episode’s guest is the multi-talented Fiona, host of two TTRPG podcasts! What Am I Rolling, and The DM’s Book Club. Fiona has run several dozen TTRPG systems as part of her podcasts, which gives her a very unique perspective on running games and the role of the GM. She’s al…"
+    },
+    {
+      "id": "9780fb27-9eda-4b62-bc73-249449708ba9",
+      "title": "Russell from Spawn of Chaos",
+      "pubDate": "2021-10-06T12:00:00.000Z",
+      "durationSeconds": 1749,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434594-44100-2-75fd83899f4790f9.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Russell is the DM of a brand new DandD Actual Play and stream called Spawn of Chaos! Born from a spark of ingenuity and kept alive by the sheer willpower of the cast and crew, Spawn of Chaos is an upstart show with lofty ambitions. Russell himself is quite the character, and has…"
+    },
+    {
+      "id": "593ca7dd-a7b2-4dd1-a9a9-846011e5ac49",
+      "title": "Julian from Dark Veil Studio",
+      "pubDate": "2021-09-29T12:00:00.000Z",
+      "durationSeconds": 2307,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434637-44100-2-ce7c7fc49c26fe05.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Julian and his team have been working non-stop on their brand new TTRPG - Dark Veil. We talked about creating a TTRPG from the ground up, what it’s like to start and run a game publishing company, and much more! Julian / Dark Veil Links https://www.darkveilstudio.com/ (Dark Veil…"
+    },
+    {
+      "id": "5c1d5914-2920-48d4-a3ef-55ca956bfe21",
+      "title": "Dice Queen Di, Ennie Awards Judge",
+      "pubDate": "2021-09-22T10:53:00.000Z",
+      "durationSeconds": 2372,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921848/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434620-44100-2-925219eef5d17caf.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Di found TTRPGs a few years ago, and fell in love with the narrative style possibilities for creation. She’s been playing, writing, and running TTRPGs ever since. Di also had the unique and challenging opportunity to judge 2021’s ENnie nominations, and worked hard with her four…"
+    },
+    {
+      "id": "00c02d11-e94e-44df-a019-ce94adb062eb",
+      "title": "Fernando and Matthew from Abyssal Brews",
+      "pubDate": "2021-09-15T12:00:00.000Z",
+      "durationSeconds": 3789,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921793/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434567-44100-2-71d75c792015125e.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Fernando and Matthew together make the dynamic homebrew duo that is Abyssal Brews! They’ve been churning out magic items and homebrew rules and add-ons for DandD 5e since February, and show no signs of stopping! We chatted about what they each bring to the table, their TTRPG jou…"
+    },
+    {
+      "id": "fbc7fa98-042d-43b4-b9e5-f7b20e574740",
+      "title": "B. Dave Walters from Black Dice Society, LA By Night, Heroes of the Planes, Into the Motherlands, and much more",
+      "pubDate": "2021-09-08T12:32:00.000Z",
+      "durationSeconds": 2826,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921898/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434676-44100-2-646bc94e25cf5b55.mp3",
+      "audioType": "audio/mpeg",
+      "description": "B. Dave Walters is TTRPG Royalty, and not just because he’s a pretty face! If he’s not your favorite GM/DM and player, look that person up now, and chances are they’ve played with B. Dave at some point. He’s been a player, GM, designed games for, and produced some of the most po…"
+    },
+    {
+      "id": "7dae1450-2115-4f7a-99f0-517274fe3121",
+      "title": "Shaun Sunday from Brainbeast Studios and Arkenforge",
+      "pubDate": "2021-09-01T11:10:00.000Z",
+      "durationSeconds": 2511,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434636-44100-2-7ea5bcb0103c967f.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Shaun has been playing TTRPGs for a few years now, and saw a need for players to have a quick reference of their own to remember rules, conditions, and more while playing DandD. He couldn't find anything out there that solved the problem, so he set out to create the 5E Player's…"
+    },
+    {
+      "id": "b35b684c-6076-412c-b3a3-6282ce09c76e",
+      "title": "Weston from Arcane Anthems",
+      "pubDate": "2021-08-25T12:00:00.000Z",
+      "durationSeconds": 3353,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921857/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434649-44100-2-bd27f52e859aa8a8.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Weston has been making music far longer than he's been playing TTRPGs, so it makes sense that the niche he saw he could fill in the community was bringing awesome free music for everyone to use in their own games! Weston's free to use RPG music and parody videos have been spread…"
+    },
+    {
+      "id": "9481c954-f501-4cde-b2f4-60d49e6c505b",
+      "title": "Hope from Hope4TTRPGs",
+      "pubDate": "2021-08-18T12:00:00.000Z",
+      "durationSeconds": 1726,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921891/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434686-44100-2-e76533c8c3071f32.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Hope is a force for good in the TTRPG community! She got her start as a podcaster, got into the social media marketing side, and as her podcast crew decided to go on hiatus, she looked for new ways to get involved! Hope and friends created the #ttrpgfamily hashtag and an incredi…"
+    },
+    {
+      "id": "2de2076e-d6d4-47db-a515-68c25a6ee40a",
+      "title": "Michael from Feralborn Trading Company",
+      "pubDate": "2021-08-11T12:00:00.000Z",
+      "durationSeconds": 2330,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921905/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434683-44100-2-08247f14816109a8.mp3",
+      "audioType": "audio/mpeg",
+      "description": "This episode’s gust is Michael, aka Declan Feralborn from Feralborn Trading Company! Michael has been homebrewing items for his account for almost two years now after getting back into TTRPGs a few years ago. His Instagram page is full of awesome items, subclasses, ideas, and mo…"
+    },
+    {
+      "id": "13fa0c1a-bf4f-4e3d-9c46-28d748656152",
+      "title": "Jake from Here For The Rolls",
+      "pubDate": "2021-08-04T12:00:00.000Z",
+      "durationSeconds": 2068,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921839/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434616-44100-2-7ff6a8bafdba5a46.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Jake is one of those DMs who started recording their games almost immediately after starting to run their own games. His players have incredible improv and voice acting skills from theater days that really add to the listening experience. Jake and I talked about the difference b…"
+    },
+    {
+      "id": "2903438a-8728-42df-9d6a-2d0919adf2c9",
+      "title": "Jenny from The Tabletop Tavern and justjenny.tv",
+      "pubDate": "2021-07-28T12:00:00.000Z",
+      "durationSeconds": 2265,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921888/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434647-44100-2-19dd3e75daba7afd.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Jenny is a really funny person which means that both her DandD games and her TikTok content are must-sees. I laughed out loud in my first scroll through her videos and knew I wanted to get her on the show so she could impart her wisdom and wit to all of you. Her streamed game, T…"
+    },
+    {
+      "id": "45204cc5-a252-475d-909a-ef5e84b93ae4",
+      "title": "Ben from NeverNotDM",
+      "pubDate": "2021-07-21T12:00:00.000Z",
+      "durationSeconds": 2749,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434599-44100-2-e9451101ef6d5522.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Ben is a content creator for DandD 5e that has some awesome advice on getting started in the TTRPG publishing game! Ben has been doing it for a while, and has some great ideas for spicing up your DandD game, making sure you and your players are aligned, and building memorable en…"
+    },
+    {
+      "id": "f985938d-877c-41e4-a7ad-27028519ea3b",
+      "title": "Josh from Titans of All'Terra and Sneak Attack",
+      "pubDate": "2021-07-14T16:00:00.000Z",
+      "durationSeconds": 3302,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434608-44100-2-5d32f36f0f8f1335.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Josh and I talked about a ton of different things including why anything you create has worth, Kickstarter advice, and his best advice on being an amazing Dungeon Master. If you're looking for creative motivation, listen to this interview and let Josh pump you up! Josh has been…"
+    },
+    {
+      "id": "d5b2a3dd-9264-4b0c-b6e9-58f17a78e1c7",
+      "title": "Jeff Cannata from The Dungeon Run",
+      "pubDate": "2021-07-07T14:00:00.000Z",
+      "durationSeconds": 2528,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921836/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434626-44100-2-4f0b7c82ba6d5a6e.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Jeff is the incredible DM of the live stream DandD show The Dungeon Run which I discovered a little over a year ago. The show has a really cool and unique audience participation aspect that made it stick out to me at first, but I kept coming back for the awesome roleplay and sto…"
+    },
+    {
+      "id": "9cff9d3e-13ec-41ba-9b3b-554380b3f2ed",
+      "title": "Mike from The Tangled Web",
+      "pubDate": "2021-07-01T11:39:00.000Z",
+      "durationSeconds": 1965,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921813/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434591-44100-2-4ecefe538c813f08.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Mike is the English teacher you wish you had in school, the kind who you could talk TTRPGs with after class! He started playing TTRPGs when he was a kid and hasn't stopped since. He first discovered play by post TTRPGs when his life became too busy for a weekly game. Mike talks…"
+    },
+    {
+      "id": "e8857f5c-046d-4f3f-ae9f-1ea09ae2c7a7",
+      "title": "Brian from Two Weeks One Shot",
+      "pubDate": "2021-06-22T12:00:00.000Z",
+      "durationSeconds": 2003,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921889/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434684-44100-2-57cb9173efee3ef5.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Brian has played more TTRPGs over the past 15 years than most people do in a lifetime. His experience running lots of different games makes him a perfect fit for the show Two Weeks One Shot, and for How Not to DM! You can find Brian on https://twitter.com/HelixMissionary (Twitte…"
+    },
+    {
+      "id": "c26f26b7-68bb-467f-8695-164380d9e376",
+      "title": "Benjamin from Lawful Great Adventures",
+      "pubDate": "2021-06-16T12:00:00.000Z",
+      "durationSeconds": 2861,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434609-44100-2-72e6d95aad9dc5a7.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Benjamin knew a few things when he started Lawful Great Adventures. He wanted to flip the typical TTRPG trope of going on an adventure to some unknown place and instead made it a journey home, and he wanted to really lean into the cast when he was crafting the story so the world…"
+    },
+    {
+      "id": "04dce3a3-c658-42bf-a11b-8599ef2b76bb",
+      "title": "Cam Banks from Fandom Tabletop",
+      "pubDate": "2021-05-27T22:23:00.000Z",
+      "durationSeconds": 1868,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434661-44100-2-292a28da2a2f43e4.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Cam Banks is an incredibly accomplished game designer who spends his time creating games out of the movies, TV shows, and books he loves. He's authored over 20 different games and supplements for properties such as Marvel, The Masters of the Universe, Dragonlance, Smallville, Se…"
+    },
+    {
+      "id": "cfc89b6a-c952-4519-a16f-3d4d8122549b",
+      "title": "Andrea and Blair from Adventure Dice",
+      "pubDate": "2021-05-24T10:39:00.000Z",
+      "durationSeconds": 1961,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434597-44100-2-4cccd99a5647025e.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Andrea and Blair are the power couple of the Vancouver, BC TTPRG scene. They own https://adventuredice.ca/ (Adventure Dice), organize https://terminalcitycon.ca/ (Terminal City Tabletop Convention), and also created the annual cancer fundraiser https://andreasadventurers.ca/ (An…"
+    },
+    {
+      "id": "38133b92-1932-413b-96d7-f4b0bbf613b7",
+      "title": "Robert from Unprepared DMs",
+      "pubDate": "2021-05-18T21:10:00.000Z",
+      "durationSeconds": 1619,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434622-44100-2-ffe283b55f92b9c5.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Robert is a modern renaissance man who is working on tons of different projects at once. He's got a Twitch channel that he streams on daily, both video games and DandD, and also has his own podcast where he talks to DandD content creators and Dungeon Masters. His episode focuses…"
+    },
+    {
+      "id": "ce12e931-2ec2-46af-a6ba-ef09272c15bd",
+      "title": "Ramji from The 4th Culture",
+      "pubDate": "2021-05-12T12:00:00.000Z",
+      "durationSeconds": 2107,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921858/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434664-44100-2-b99c01252f585c53.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Ramji has spent some serious time researching comparative mythology and the works of Joseph Campbell, which makes him a master of crafting amazing tales. As the DM of a group of incredibly talented and fun players on their stream The 4th Culture, he has an amazing sandbox in whi…"
+    },
+    {
+      "id": "e72dd707-9712-49d0-9194-7e4f32b95e66",
+      "title": "Josie from Short Quest Long Rest",
+      "pubDate": "2021-05-03T12:00:00.000Z",
+      "durationSeconds": 1419,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434634-44100-2-9391af3f7a37bbec.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Josie's eye for encounter design and knack for storytelling drew me into https://open.spotify.com/show/7emj9EdyFXYI2oxE56xPSE?si=sZGLdhqoRzC_SzF9ovjKngandnd=1 (Short Quest Long Rest) initially. It reminded me of the hours I spent listening to teachers or parents read me fantasy…"
+    },
+    {
+      "id": "0f39a728-6d41-4d40-9f99-deb669af2336",
+      "title": "Ryan from DnD Compendium",
+      "pubDate": "2021-04-27T12:05:00.000Z",
+      "durationSeconds": 2025,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434593-44100-2-b1bc4528405d9618.mp3",
+      "audioType": "audio/mpeg",
+      "description": "A self described Knowledge Cleric, Ryan has been working tirelessly for the past 4+ years to create the largest and most complete library of useful links for new and aspiring Dungeon Masters in the form of https://www.dnd-compendium.com/ (dnd-compendium.com). Ryan has combed thr…"
+    },
+    {
+      "id": "3db2cc3f-c585-41b6-9f7b-29abb16c8335",
+      "title": "Kevin from Chaotic Stupid Media",
+      "pubDate": "2021-04-19T03:13:00.000Z",
+      "durationSeconds": 1717,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921844/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434630-44100-2-be470deab1f9f7fc.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Kevin has been flexing his storytelling muscles for ten years now in a few different ways, and started running games in his homebrew world of Edeah in 2017. Kevin runs his game live on Twitch, participates as a player in another livestream game called the Ruined Keep, and record…"
+    },
+    {
+      "id": "fd3848b5-5ea2-4f5b-8075-82359dd56af3",
+      "title": "Shedayne and Alley from Bramble Bush Books",
+      "pubDate": "2021-04-15T08:39:00.000Z",
+      "durationSeconds": 1714,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434607-44100-2-1f422ce581bd0c40.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Shedayne and Alley have been working on their passion project, Bramble Bush Books, for a few years now and love creating new content for players and DMs alike. They are also co-DMs in a sprawling, 20+ player West Marches game which helps tie in that large amount of characters in…"
+    },
+    {
+      "id": "d8452341-da62-41e1-8fa6-d80221cc0937",
+      "title": "Kade from Knocked Prone",
+      "pubDate": "2021-04-08T09:48:00.000Z",
+      "durationSeconds": 2158,
+      "audioUrl": "https://anchor.fm/s/f7870bac/podcast/play/87921856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F380434638-44100-2-105c22df112ebe94.mp3",
+      "audioType": "audio/mpeg",
+      "description": "I stumbled upon Kade's actual play podcast, https://open.spotify.com/show/3G7J19BVVfAECJfi3a06xM?si=meMGsz0lSq2jzQVTrw-ugAandnd=1 (Knocked Prone) when searching for new DandD shows to listen to. I loved Kade's style of DMing and knew I wanted to interview him about his influence…"
+    }
+  ]
+}

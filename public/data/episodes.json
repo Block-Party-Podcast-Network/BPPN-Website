@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T07:48:57.233Z",
+  "generatedAt": "2026-10-23T14:24:21.593Z",
   "shows": [
     {
       "slug": "dungeon-masters-block",
@@ -12,7 +12,7 @@
         "podbean": "https://dungeonmasterblock.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonmasterblock/feed.xml",
-      "lastFetchedAt": "2026-10-23T07:48:57.233Z",
+      "lastFetchedAt": "2026-10-23T14:24:21.593Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -105,7 +105,8 @@
           "audioType": "audio/mpeg",
           "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We talk through some woodworking to help our games feel more lived in. Exercise: Woodworking Lightbulb: Tree Spirit Tavern Twitter: @DMs_Block DM Neal's @joatmoniac DM Celeste's @cconowitc…"
         }
-      ]
+      ],
+      "episodeCount": 446
     },
     {
       "slug": "titans-of-allterra",
@@ -117,7 +118,7 @@
         "spotify": "https://open.spotify.com/show/5U3jHHiHsnFQ3bW8EEZmBU"
       },
       "resolvedFeedUrl": "https://rss.libsyn.com/shows/136829/destinations/848429.xml",
-      "lastFetchedAt": "2026-10-23T07:48:57.233Z",
+      "lastFetchedAt": "2026-10-23T14:24:21.593Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -210,7 +211,8 @@
           "audioType": "audio/mpeg",
           "description": "Amidst the HEXpo, our reunited crew comes home to Lestraad. After visiting old friends and family, they gather for Bordu's memorial service, along with an unexpected guest. - This podcast is made possible thanks to our patrons. You can become a patron and support the ongoing pro…"
         }
-      ]
+      ],
+      "episodeCount": 91
     },
     {
       "slug": "badventure-club",
@@ -221,7 +223,7 @@
         "apple": "https://podcasts.apple.com/us/podcast/the-badventure-club/id1683253562"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/dea6f4d0/podcast/rss",
-      "lastFetchedAt": "2026-10-23T07:48:57.233Z",
+      "lastFetchedAt": "2026-10-23T14:24:21.593Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -314,7 +316,8 @@
           "audioType": "audio/x-m4a",
           "description": "The party continues to delve into the depths of the Ministry of Unity. As they take Clarence along deeper and deeper, what kind of sick truths will they uncover? Special Thanks to: Airgl0w for our theme song JStewIllustrations for our artwork The Badventure Club is a Block Party…"
         }
-      ]
+      ],
+      "episodeCount": 69
     },
     {
       "slug": "dungeons-dragons-daughters",
@@ -327,7 +330,7 @@
         "podbean": "https://dungeonsdragonsdaughters.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonsdragonsdaughters/feed.xml",
-      "lastFetchedAt": "2026-10-23T07:48:57.233Z",
+      "lastFetchedAt": "2026-10-23T14:24:21.593Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -420,7 +423,8 @@
           "audioType": "audio/mpeg",
           "description": "With the group divided in Skabatha’s stronghold of Loomlurch, Lyrup works on freeing the prisoners in the kitchen, while the entire rest of the party moves on to Skabatha’s bedroom to find their lost things. Lyrup is successful through stubborn tenacity - while the rest of TBD i…"
         }
-      ]
+      ],
+      "episodeCount": 111
     },
     {
       "slug": "knocked-prone",
@@ -433,7 +437,7 @@
         "website": "https://www.knockedprone.com/"
       },
       "resolvedFeedUrl": "https://rss.buzzsprout.com/2201541.rss",
-      "lastFetchedAt": "2026-10-23T07:48:57.233Z",
+      "lastFetchedAt": "2026-10-23T14:24:21.593Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -526,7 +530,8 @@
           "audioType": "audio/mpeg",
           "description": "Send us Fan Mail After dealing with the miniature figures of Hugh Pinkerton, the party ventures deeper into the Phylactery Factory where they find two Ichor cages like the one that used to contain Delry. The Inhabitants of the Ichor cages have keys to a long wondered mystery of…"
         }
-      ]
+      ],
+      "episodeCount": 173
     },
     {
       "slug": "how-not-to-dm",
@@ -538,7 +543,7 @@
         "linktree": "https://linktr.ee/HN2DM"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/f7870bac/podcast/rss",
-      "lastFetchedAt": "2026-10-23T07:48:57.233Z",
+      "lastFetchedAt": "2026-10-23T14:24:21.593Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -631,7 +636,8 @@
           "audioType": "audio/mpeg",
           "description": "Will and Brian have been making the Dungeoncast for years now, but dare just getting started on engaging, helpful content for GMs and DMs out there. Guest Links TheDungeoncast.com Starseeker's Guide to Draken Star How Not to DM Links How Not to DM Linktree Sponsor Links RPGMatch…"
         }
-      ]
+      ],
+      "episodeCount": 107
     }
   ]
 }

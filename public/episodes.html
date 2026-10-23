@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>All episodes | Block Party Podcast Network</title>
+  <meta name="description" content="Every episode of a Block Party Podcast Network show, newest first." />
+  <meta name="theme-color" content="#1a1512" />
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml" />
+  <link rel="preload" href="assets/fonts/bricolage-grotesque-variable.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#episodes">Skip to episodes</a>
+
+  <header class="masthead">
+    <a href="./" class="wordmark">
+      <img class="wordmark__mark" src="assets/images/brand/logo-mark.png" alt="" width="29" height="35" />
+      <span class="wordmark__text">
+        <span class="wordmark__line1">Block Party</span>
+        <span class="wordmark__line2">Podcast Network</span>
+      </span>
+    </a>
+  </header>
+
+  <!--
+    One page for every show's full back catalog. episodes.js reads ?show=<slug>,
+    fetches data/shows/<slug>.json (written by fetch-episodes.mjs) and fills
+    in the header, a sticky player, and a searchable list of every episode.
+  -->
+  <main class="archive">
+    <p class="archive__back"><a href="./#shows">&larr; All shows</a></p>
+
+    <div class="archive__header" data-archive-header hidden>
+      <img class="show__art" data-archive-art src="" alt="" width="160" height="160" />
+      <div>
+        <h1 data-archive-name></h1>
+        <p class="show__tagline" data-archive-tagline></p>
+        <p class="show__links" data-archive-links></p>
+      </div>
+    </div>
+
+    <div class="archive__body" id="episodes" data-archive-body>
+      <p class="show__player-loading">Loading episodes…</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <img class="site-footer__mark" src="assets/images/brand/logo-mark.png" alt="" width="20" height="24" />
+    <p>Block Party Podcast Network</p>
+    <p class="site-footer__meta">Episode data refreshed from each show's own feed.</p>
+  </footer>
+
+  <script type="module" src="assets/js/episodes.js"></script>
+</body>
+</html>

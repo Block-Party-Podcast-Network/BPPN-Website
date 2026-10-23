@@ -1,0 +1,834 @@
+{
+  "slug": "titans-of-allterra",
+  "name": "The Titans of All'Terra",
+  "tagline": "A high fantasy campaign spanning kingdoms, told one session at a time.",
+  "logo": "assets/images/logos/titans-of-allterra.jpg",
+  "platformLinks": {
+    "apple": "https://podcasts.apple.com/us/podcast/the-titans-of-allterra/id1440428321",
+    "spotify": "https://open.spotify.com/show/5U3jHHiHsnFQ3bW8EEZmBU"
+  },
+  "resolvedFeedUrl": "https://rss.libsyn.com/shows/136829/destinations/848429.xml",
+  "lastFetchedAt": "2026-10-23T14:24:21.593Z",
+  "lastFetchOk": true,
+  "episodes": [
+    {
+      "id": "9c5e61a3-bea2-47de-ad02-65ddd085c510",
+      "title": "UPDATE and Guest Appearances: Side Character Quest - Abbot Faer Landing's Quest",
+      "pubDate": "2024-08-31T20:18:00.000Z",
+      "durationSeconds": 900,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Update_08312024.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Hey everyone, Joshua here. I just got a quick update on my actual play guest appearances. Side Character Quest (SCQ) is an anthology of improvised fantasy adventures. In each short quest, the show's host takes a single guest player on a journey through a larger shared world. The…"
+    },
+    {
+      "id": "f244c532-b311-48c6-910a-8b29fb74205a",
+      "title": "Start Playing Games with Josh!",
+      "pubDate": "2024-05-09T21:28:00.000Z",
+      "durationSeconds": 262,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/PlayGamesWithJosh.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Josh here with another big announcement! I have launched four weekly games you can join. visit: https://startplaying.games/gm/joshualorimer Each campaign has 6 open seats available to be booked now. Mondays at 11:00 am CST Tuesdays at 8:00 am CST Wednesdays at 9:00 am CST Thursd…"
+    },
+    {
+      "id": "63f4a2f8-59ba-468b-bb5d-8ffde0760494",
+      "title": "Clips from Joshua's Guest Appearances and More!",
+      "pubDate": "2024-05-01T19:01:00.000Z",
+      "durationSeconds": 3156,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Josh-Guesting-Clip-Show-2024_01.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "DM Joshua here. We have scheduled a time for the cast and me to record a new episode of Titans Season 3! In the meantime, I have some awesome news and several incredible shows to share with you! TIMESTAMPS I Cast Fireball - Skull and Shackles - Episode 1 Clip - OUT NOW! 04:15 Mo…"
+    },
+    {
+      "id": "31b3d03b-25ef-4aa2-92d6-48bf303a4740",
+      "title": "S3E10 Immortal Overboard",
+      "pubDate": "2024-02-15T19:00:00.000Z",
+      "durationSeconds": 4000,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_310_main_show_scored.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "While fighting the titan form of an undead god, Joan goes full Gandalf. And their journey to New Allestria get's a lot more interesting. - This podcast is made possible thanks to our patrons. You can become a patron and support the ongoing production of The Titans of All'Terra h…"
+    },
+    {
+      "id": "76efa2cf-7e46-4848-bbf3-7165cb1bd442",
+      "title": "S3E9 An Uninvited Encounter",
+      "pubDate": "2024-02-13T19:00:00.000Z",
+      "durationSeconds": 2836,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_309_main_show_scored.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "While traveling toward New Allestria aboard the Airship Harris, our heroes have little time to meet their fellow passengers before a rather large uninvited guest comes aboard. - This podcast is made possible thanks to our patrons. You can become a patron and support the ongoing…"
+    },
+    {
+      "id": "5f4c5830-b7e9-4e38-b497-34f6283b435e",
+      "title": "S3E8 Another Boat Based Adventure",
+      "pubDate": "2023-08-10T18:00:00.000Z",
+      "durationSeconds": 2842,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_308_main_show_scored.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "With added urgency, the party prepares to depart Lestraad. Boarding the airship Harris, Winnie learns of some \"improvements\" Tubie has made, and we meet some curious new passengers. - This podcast is made possible thanks to our patrons. You can become a patron and support the on…"
+    },
+    {
+      "id": "40ebd8e9-aae4-492f-bdb6-eaaf5ae8f36b",
+      "title": "S3E7 A Violent Visitation",
+      "pubDate": "2023-06-07T18:00:00.000Z",
+      "durationSeconds": 3320,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_307_main_show_scored.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Joan comes clean about her amber orb issues, and the party receives some uninvited guests of the undead variety. - This podcast is made possible thanks to our patrons. You can become a patron and support the ongoing production of The Titans of All'Terra here: Patreon.com/thetita…"
+    },
+    {
+      "id": "8865a3fb-b7d0-4cc3-af5c-3d5ec8ba94fc",
+      "title": "S3E6 Immortal Library, Mortal Danger",
+      "pubDate": "2023-05-17T18:00:00.000Z",
+      "durationSeconds": 3392,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_306_main_show_scored.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Donny invites everyone to Josua's Orrery, a massive library with seemingly endless tomes of untold knowledge. Is this a chance for the party to learn about immortals and even the gods? Or will the party find themselves face-to-face with powerful beings who cannot be killed? - Th…"
+    },
+    {
+      "id": "2c1e3cb5-c0f6-49b1-8ed1-f5dedf9baf63",
+      "title": "S3E5 Donny, Deep Plates, and Decisions",
+      "pubDate": "2023-04-06T19:08:00.000Z",
+      "durationSeconds": 2392,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_305_main_show_scored.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Relnor confronts a very much alive Donny Russell. Afterward, the heroes gather at Dan & Relnor's Deep Plates to discuss what they should do next. - This podcast is made possible thanks to our patrons. You can become a patron and support the ongoing production of The Titans of Al…"
+    },
+    {
+      "id": "8e1a74ff-e963-4e8a-be5a-309e21003f69",
+      "title": "S3E4 The Dead and Not-So-Dead",
+      "pubDate": "2023-03-21T18:28:00.000Z",
+      "durationSeconds": 3797,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Titans_304_w_music_and_fx.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Amidst the HEXpo, our reunited crew comes home to Lestraad. After visiting old friends and family, they gather for Bordu's memorial service, along with an unexpected guest. - This podcast is made possible thanks to our patrons. You can become a patron and support the ongoing pro…"
+    },
+    {
+      "id": "c7473b55-c6c0-49ce-9360-3b8069d19857",
+      "title": "Coming Home Again",
+      "pubDate": "2022-11-12T10:00:00.000Z",
+      "durationSeconds": 3786,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/303_Coming_Home_Again.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Our heroes process the news of Bordu while catching up with one another. Returning to their home kingdom of Lestraad amidst the final day of the Gumble Hexpo, an annual magic/tech show. And be sure to check out the I Cast Fireball podcast. Their content is family-friendly and Jo…"
+    },
+    {
+      "id": "865efc9e-e876-4dad-b5a5-1056f8c12db4",
+      "title": "We're Back! A D&D Story",
+      "pubDate": "2022-07-21T09:00:38.000Z",
+      "durationSeconds": 4117,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S3_E2_There_and_Back_and_Back_Again_01.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "It's been six years since the allied kingdoms of All'Terra battled and defeated their false god. The War of Sol changed life in All'Terra, but some things are still the same. Relnor gives heroic speeches, Dalfin jumps head first into danger, Winnie finds new friends in strange p…"
+    },
+    {
+      "id": "3e816187-684c-4c10-9cc5-30dfdb8d4eb0",
+      "title": "The Story So Far",
+      "pubDate": "2022-07-19T17:40:09.000Z",
+      "durationSeconds": 4097,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S3_Recap.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Perhaps you're new to the show and want to jump into the latest episodes as fast as possible. Maybe you're a regular listener who has forgotten everything because it's been a year since we last published an episode. Perhaps you merely like the sound of my voice. This episode is…"
+    },
+    {
+      "id": "6632a4ac-2397-4b9e-b952-4a10960c0e54",
+      "title": "An Autopsy of S3E1 Part 2",
+      "pubDate": "2021-07-21T21:15:02.000Z",
+      "durationSeconds": 2953,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Autopsy_S3E1_Part2.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "This week we continue our Autopsy of Season 3 Episode 1. Ricky's been taking notes! He even remembers names now! Join us as we discuss Terry Turducken, Truffle's invention, and much more! This season's Autopsies will first be released for patrons at Patreon.com/thetitanpod , the…"
+    },
+    {
+      "id": "49c3daab-8524-4b2f-8edf-fec356a3c466",
+      "title": "An Autopsy of S3E1 Part 1",
+      "pubDate": "2021-07-12T19:00:00.000Z",
+      "durationSeconds": 2330,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Autopsy_S3E1_Part_1.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Our first instalment in this season's All'Terra Autopsy! An episodic retrospective, where Ricky(the voice of Dalfin) and DM Josh take a deeper look at the latest episode. If you're interested in the wider world of All'Terra, insights into Josh's Dungeon Mastering, or simply enjo…"
+    },
+    {
+      "id": "d81338a2-8691-4c4d-b936-87de95aa0bb5",
+      "title": "The Crown Before The Storm",
+      "pubDate": "2021-07-04T18:50:41.000Z",
+      "durationSeconds": 3312,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S3E1_TheCrownBeforeTheStorm.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Part 1 of our Season 3 Premier! In this episode our heroes find themselves trapped in the Sol-Realm. The heart of All'Terra. They have finally come face to face with the being who not only created their world, but now seeks to destroy it. We also take a peek into one of our hero…"
+    },
+    {
+      "id": "904f32eb-f8ba-4b15-aa7c-ab311def3125",
+      "title": "An Autopsy of Seasons 1 & 2",
+      "pubDate": "2021-06-29T23:24:35.000Z",
+      "durationSeconds": 6697,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S1-S2-Autopsy.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Season 3 of The Titans of All'Terra is launching later this week! Hard to believe it's been a year since the cliff hanger finale of season 2. To help everyone catch up with where the story is at, DM Josh and Ricky (Dalfin) take a trip down memory lane, recounting the titanic eve…"
+    },
+    {
+      "id": "bbc7ab35-64e9-425d-bb04-6b34c71f5397",
+      "title": "S2E26 A Godlike Encounter",
+      "pubDate": "2020-07-02T10:43:42.000Z",
+      "durationSeconds": 4169,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E26_A_Godlike_Encounter.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "In this unexpected Season 2 Finale, our heroes face off against an evil which might prove stronger than they anticipated."
+    },
+    {
+      "id": "0ff1672d-3971-4e54-a150-29aa1236a7c7",
+      "title": "S2E25 A Tower Tour",
+      "pubDate": "2020-06-25T10:51:03.000Z",
+      "durationSeconds": 4190,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E25_A_Tower_Tour.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "This week our heroes enter the mysterious and dangerous Inquisitor's Tower."
+    },
+    {
+      "id": "cf34884b-e02f-416e-95f3-9593ddcdc6b5",
+      "title": "S2E24 A Plan Comes Together",
+      "pubDate": "2020-06-18T09:00:00.000Z",
+      "durationSeconds": 2771,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E24_A_Plan_Comes_Together.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Our heroes make plans to storm the High Inquisitor's Tower!"
+    },
+    {
+      "id": "5928b4b0-93fc-42c2-bce2-e525d05a240c",
+      "title": "S2E23 A Willful Proposition",
+      "pubDate": "2020-06-11T09:00:00.000Z",
+      "durationSeconds": 3471,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E23_A_Willful_Proposition.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Josua continues to speak with the heroes, and reveals how he is himself connected to the gods."
+    },
+    {
+      "id": "e37e1231-00c7-4c1c-9fab-aa6cbcfdcb3d",
+      "title": "S2E22 A Bare Complication",
+      "pubDate": "2020-06-04T09:00:00.000Z",
+      "durationSeconds": 2607,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E22_A_Bare_Complication.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "We are back from our unexpected hiatus! We will likely be recording remotely for the remainder of Season 2, which means our audio won't be as quality as if we were all recording in the studio (our attic). This week our heroes learning a bit more about the gods and encounter a st…"
+    },
+    {
+      "id": "b75b9b1c-92bf-4023-ad89-c178f6fd178a",
+      "title": "Post Show Knock Knock Jokes",
+      "pubDate": "2020-04-09T09:00:00.000Z",
+      "durationSeconds": 965,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Post_Show_Knock_Knock_Jokes.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "A bit of bonus content to hold you over while our show is on an indefinite hiatus."
+    },
+    {
+      "id": "c637fa6f-eb26-41cd-80b8-be5c88ad553c",
+      "title": "S2E21 A Once Noble Null",
+      "pubDate": "2020-04-02T09:00:00.000Z",
+      "durationSeconds": 3557,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E21_A_Once_Noble_Null.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "One does not simply stroll into the Allestrian Keep and speak with the Arch Priest of the White Order... unless you are our heroes that is."
+    },
+    {
+      "id": "d1efa2ef-06dd-4526-941d-370f075c7326",
+      "title": "S2E20 A Trustworthy Gemini",
+      "pubDate": "2020-03-26T09:00:00.000Z",
+      "durationSeconds": 2889,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E20_A_Trustworthy_Gemini.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "This week Joan and Relnor are taken to the Allestrian Keep within the district of law."
+    },
+    {
+      "id": "c9ba4145-c36a-48b1-b26e-a33f34388d0b",
+      "title": "S2E19 A Gnome and a Null",
+      "pubDate": "2020-03-19T13:45:08.000Z",
+      "durationSeconds": 3553,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E19_A_Gnome_and_a_Null.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "This week, Joan and Relnor are confronted with a unexpected friend who might be an enemy, while Dalfin encounters an enemy who might be a friend."
+    },
+    {
+      "id": "0357b842-9883-417e-aa3c-2a5352ef40aa",
+      "title": "S2E18 A Half Seen Halfling",
+      "pubDate": "2020-03-12T09:00:00.000Z",
+      "durationSeconds": 2339,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E18_A_Half_Seen_Halfling.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Our heroes begin enacting their plan. The Titans arrive close enough to the kingdom, and Dalfin sneaks into the district of law with the help of Winnie and Iredell."
+    },
+    {
+      "id": "153da442-12ff-4e20-978a-f4d102bd636b",
+      "title": "S2E17 A Wrench To Throw",
+      "pubDate": "2020-03-05T10:00:00.000Z",
+      "durationSeconds": 2999,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E17_A_Wrench_To_Throw.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "After escaping the dwarves and white order our heroes regroup with Dah've and Iredell. The red cleric share's her plans and they begin working on a strategy to overthrow the occupation."
+    },
+    {
+      "id": "b8295303-057a-43d9-8af0-ac18996f202a",
+      "title": "S2E16 A Bazaar Encounter",
+      "pubDate": "2020-02-27T10:00:00.000Z",
+      "durationSeconds": 2686,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E16_A_Bazaar_Encounter_1.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The adventurers finally catch up with Joan's mentor Dah've. The long awaited reunion is cut short however by some unexpected figures in the crowd."
+    },
+    {
+      "id": "846844c0-b302-49f7-b10e-76a237cc285a",
+      "title": "S2E15 A Watchful Warden",
+      "pubDate": "2020-02-20T10:00:00.000Z",
+      "durationSeconds": 3482,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E15_A_Watchful_Warden.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "This week our heroes make contact with a being from forgotten lore. Somehow, this warden is uniquely connected to Relnor and even the keepers!"
+    },
+    {
+      "id": "e7735c0b-473c-4e0e-9482-cbf38582d979",
+      "title": "S2E14 A Leaf with Lines",
+      "pubDate": "2020-02-13T10:00:00.000Z",
+      "durationSeconds": 3164,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E14_A_Leaf_with_Lines.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Having arrived in Allestria, the gang begins exploring the city."
+    },
+    {
+      "id": "d8f389ec-b5d0-4075-93c6-b43b1efcf7cb",
+      "title": "S2E13 A Kingdom Conquered",
+      "pubDate": "2020-02-06T10:00:00.000Z",
+      "durationSeconds": 3173,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E13_A_Kingdom_Conquered.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Having met Jimmy and spoken with Valla'Sol, our heroes make way for the Kingdom of Allestria. Once called The People's Kingdom, the party learns quickly that such a title no longer suits it. Allestria is now the Kingdom of the White Order and the Dwarves."
+    },
+    {
+      "id": "1e3b38c5-4c33-469d-b337-6a0bd5ca7687",
+      "title": "S2E12 A Will In The Way",
+      "pubDate": "2020-01-30T10:00:00.000Z",
+      "durationSeconds": 4282,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E12_A_Will_In_The_Way.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "After learning a bit more about the ancient glyphs from Burtool, the party make they way to The Well of Valla'Sol!"
+    },
+    {
+      "id": "7dc7f4ad-3858-49a0-abfe-f20d7a0504eb",
+      "title": "S2E11 A Fond Farewell",
+      "pubDate": "2020-01-23T10:00:00.000Z",
+      "durationSeconds": 2726,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E11_A_Fond_Farewell.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "As the heroes head to Dan & Relnor's Deep Plates, to meet up before teleporting later that morning, each make their own connection with someone in the kingdom."
+    },
+    {
+      "id": "86bb596a-c85b-4bb4-870f-34bc90599dff",
+      "title": "S2E10 A Plan for Tomorrow",
+      "pubDate": "2020-01-16T17:37:22.000Z",
+      "durationSeconds": 3524,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E10_A_Plan_for_Tomorrow.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "After chatting with their spirit bonds, our heroes make there way to the gathering to hear what the High Captain has to say to her people."
+    },
+    {
+      "id": "e2f57d44-2919-48bf-ac5c-ab0dc1944b30",
+      "title": "S2E9 A Realm Beyond",
+      "pubDate": "2020-01-09T10:00:00.000Z",
+      "durationSeconds": 3770,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E9_A_Realm_Beyond.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "This week our heroes enter the Realm of Sol. Artemis Terra tells them of a forgotten age and who created the titans. However, what Winnie finds in this new realm is an old enemy."
+    },
+    {
+      "id": "c2d432e6-c5ac-48b9-93fe-dd1fb48339a1",
+      "title": "S2E8 A Given One",
+      "pubDate": "2019-12-26T11:15:42.000Z",
+      "durationSeconds": 2516,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E8_A_Given_One_Newyears.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "This week Relnor, Dalfin, and Winnie catch and confront the urdan traitor, but what he reveals is something no one expected. Meanwhile, Joan struggles to wake her golem up."
+    },
+    {
+      "id": "8648a882-ff7b-41c8-bf9f-70bcccb4e17d",
+      "title": "S2E7 A Pack Encounter",
+      "pubDate": "2019-12-19T10:00:00.000Z",
+      "durationSeconds": 2868,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E7_A_Pack_Encounter.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "For the first time since arriving, titans have appeared within the kingdom walls. Having entered their golems, our heroes face off against a pack of giant elemental wolves!"
+    },
+    {
+      "id": "8a026f17-b8ac-45e0-942a-f5bf73eb04ab",
+      "title": "S2E6 A Prone Encounter",
+      "pubDate": "2019-12-12T11:12:13.000Z",
+      "durationSeconds": 3167,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E6_A_Prone_Encounter.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Titanic wolves brimming with elemental powers are rampaging through the kingdom. Relnor, stabbed in the back by Bjorn through a knife in the chest, does his best to keep things together while Winnie, Dalfin, and Joan defend themselves against the wolf titans. patreon.com/thetita…"
+    },
+    {
+      "id": "83dae7e7-c646-4545-af85-02cc533293d6",
+      "title": "How You Can Help Titans",
+      "pubDate": "2019-12-10T03:54:12.000Z",
+      "durationSeconds": 1733,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/How_You_Can_Help_Titans.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "DM Josh here, Just wanted to give you an update on our Patreon channel and take some time to thank you for listening and making Titans of All'Terra something special. Patreon.com/thetitanpod twitter.com/thetitanpod thetitanpod@gmail.com"
+    },
+    {
+      "id": "a43e1db6-0353-48e7-89ea-04428759ecff",
+      "title": "S2E5 A Southern Fang",
+      "pubDate": "2019-12-05T10:00:00.000Z",
+      "durationSeconds": 3398,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E5_A_Southern_Fang.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Joan questions an old elf while Relnor shares a drink with an Urdan friend from the South. Neither are truly what they seem."
+    },
+    {
+      "id": "b2302125-a39f-43d6-86de-4a3f763e5d98",
+      "title": "S2E4 A New Arrival",
+      "pubDate": "2019-11-28T10:00:00.000Z",
+      "durationSeconds": 3288,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E4_A_New_Arrival.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Our heroes go about their daily lives within the newly formed kingdom, encountering new characters and learning more about All'Terra."
+    },
+    {
+      "id": "ca7eab1b-1c40-421e-8edd-5e0b041fb1af",
+      "title": "S2E3 A Change of Plans",
+      "pubDate": "2019-11-21T10:00:00.000Z",
+      "durationSeconds": 4199,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E3_A_Change_of_Plans.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Winnie discovers a way to communicate with the Well, possibly breaking her promise. And the heroes are faced with a choice that could decide the future of the Four Kingdoms."
+    },
+    {
+      "id": "6ce26be4-e409-4945-a39d-93645bbf0ca5",
+      "title": "S2E2 A Thing Beyond",
+      "pubDate": "2019-11-14T10:00:00.000Z",
+      "durationSeconds": 3353,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E2_A_Thing_Beyond.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Dalfin heads to the monastery at the request of the masters and Relnor takes a walk along the city walls while Joan and Winnie delve deeper into the ancient ruins."
+    },
+    {
+      "id": "20ac441b4339411ebcb091f2df40bcf0",
+      "title": "S2E1 A New Kingdom",
+      "pubDate": "2019-11-08T04:58:54.000Z",
+      "durationSeconds": 3389,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/S2E1_A_New_Kingdom.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "It's been six months since the events of Season 1. The empty Dwarven kingdom has now become the staging ground for a united resistance. Some semblance of peace has been found here, thanks in no small part to our four heroes and their powerful golems."
+    },
+    {
+      "id": "0a7be489fcb94992bba3d9f8a30a7473",
+      "title": "The Book of All'Terra Autopsy",
+      "pubDate": "2019-08-10T05:42:15.000Z",
+      "durationSeconds": 2263,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Kickstarter_Autopsy.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Josh and Ricky sit down to go over the kickstarter, looking at both the practical and personal issues that likely lead to falling short of our goal."
+    },
+    {
+      "id": "52cef66edfcf412f8ab353077225250f",
+      "title": "The Book of All'Terra Kickstarter",
+      "pubDate": "2019-07-05T16:00:00.000Z",
+      "durationSeconds": 126,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/KS_ToA.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Throughout Season 1 we have been fleshing out the world and testing all these golem and titan mechanics. Now, we want to bring All'Terra to your table! The Book of All'Terra"
+    },
+    {
+      "id": "8e47b78151384c29a32ce9305ae6d5e8",
+      "title": "Finale Post Show",
+      "pubDate": "2019-06-27T10:35:26.000Z",
+      "durationSeconds": 1056,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_36_Post_Show.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "If you enjoyed listening to our post show conversation and would like to find more bonus content like this, please take a moment to go check out our patreon page. /TheTitanPod We have over 21 hours of bonus content available for only $5. This post show was made possible thanks t…"
+    },
+    {
+      "id": "fa257476a8d64177b939cb4b8995b91c",
+      "title": "Episode 36 - A Dwarven Encounter Part 2",
+      "pubDate": "2019-06-27T10:08:50.000Z",
+      "durationSeconds": 4877,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_36_-_A_Dwarven_Encounter_Part_2.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "What started our heroes on a boat headed for their first adventure now comes to a thrilling conclusion. Thank you so much for joining us along this journey! Your engagement and investment in this story and our characters has made such an impact. We will see you all in November f…"
+    },
+    {
+      "id": "776898dd78974efbbf1a89fd4dd34dd3",
+      "title": "Episode 35 - A Dwarven Encounter Part 1",
+      "pubDate": "2019-06-20T09:00:00.000Z",
+      "durationSeconds": 3172,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_35_-_A_Dwarven_Encounter_Part_1.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The stage has been set. The pieces have been placed. Powerful forces seem to be pushing our heroes toward the abandoned Dwarven Kingdom. Could what lies within be the king or simply another pawn?"
+    },
+    {
+      "id": "33469a3b8d00415f908fb57147a8544b",
+      "title": "Episode 34 - A Cold Wind",
+      "pubDate": "2019-06-13T09:00:00.000Z",
+      "durationSeconds": 3062,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_34_-_A_Cold_Wind.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Relnor continues his trial, Dalfin and Archie get some one on one time, Joan and Winnie enter the House of Spells, and something dark stirs to the east."
+    },
+    {
+      "id": "c2c302354be9467a9c27edbb4acccb17",
+      "title": "Episode 33 - A Familiar Face",
+      "pubDate": "2019-06-06T09:00:00.000Z",
+      "durationSeconds": 2946,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_33_-_A_Familiar_Face.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Our heroes finally arrive at the Elven kingdom of Dal'Thoradyn, and Relnor begins the spirit quest for his golem."
+    },
+    {
+      "id": "f64e957b9cde4e19beac51d1040da33b",
+      "title": "Episode 32 - A Fair City",
+      "pubDate": "2019-05-30T15:04:43.000Z",
+      "durationSeconds": 3518,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_32_-_A_Fair_City.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The adventurers fly North, toward the Crystalline Kingdom of the Elves in hopes of finding another golem. With Orung's final words and the news from Gar, who knows what's waiting for them."
+    },
+    {
+      "id": "3f852a4876aa441c8358fd61220b2497",
+      "title": "Episode 31 - A Night After War",
+      "pubDate": "2019-05-23T09:00:00.000Z",
+      "durationSeconds": 3333,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_31_-_A_Night_After_War.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Now that the War at the World Bridge has ended, what's next for our heroes? All'Terra World Book Kickstarter Form: https://forms.gle/8ZeGTzwRmhEf86Z48"
+    },
+    {
+      "id": "f5491a2323164106a18f8f19d8c21cd7",
+      "title": "Episode 30 - A War at the World Bridge Part 6",
+      "pubDate": "2019-05-16T09:00:00.000Z",
+      "durationSeconds": 3126,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_30_-_A_War_at_the_World_Bridge_Part_6.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "\"Here, as the light rises, a young urden glowing as the sky takes hold of the earth, meets the light at the sacred place, and brings the shade!\" - Greytree of the Fyr Urden Tru All'Terra World Book Kickstarter Form: https://forms.gle/8ZeGTzwRmhEf86Z48"
+    },
+    {
+      "id": "4e2d6c5544384e85af4f525cb3d66c10",
+      "title": "Episode 29 - A War at the World Bridge Part 5",
+      "pubDate": "2019-05-09T09:00:00.000Z",
+      "durationSeconds": 3030,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_29_-_A_War_at_the_World_Bridge_Part_5.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Orung and his 100,000 orcs are attacking in force and our heroes are doing everything they can to stem the tide and push back his army. All'Terra World Book Kickstarter Form: https://forms.gle/8ZeGTzwRmhEf86Z48"
+    },
+    {
+      "id": "ead1128e5cdc4475944f0d37a606a55d",
+      "title": "Episode 28 - A War at the World Bridge Part 4",
+      "pubDate": "2019-05-02T09:00:00.000Z",
+      "durationSeconds": 4021,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_28_-_A_War_at_the_Worldbridge_Part_4.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Relnor does his best to keep the urdan united and prepared for the coming conflict, which may be coming sooner than he thinks, as the battle for Southern All'Terra begins in earnest!"
+    },
+    {
+      "id": "ec0aad16f97d47b9a557bced70029d65",
+      "title": "Episode 27 - A War at the World Bridge Part 3",
+      "pubDate": "2019-04-25T09:00:00.000Z",
+      "durationSeconds": 2934,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_27_-_A_War_at_the_Worldbridge_Part_3.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Winnie prepares to pull off a precarious prison break, and Dalfin dogfights a dangerous airborne denizen of the desert."
+    },
+    {
+      "id": "7760609e51784c2fbda319ea0f4d8b34",
+      "title": "Episode 26 - A War at the World Bridge Part 2",
+      "pubDate": "2019-04-18T07:27:55.000Z",
+      "durationSeconds": 3186,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_26_-_A_War_at_the_Worldbridge_Part_2.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The Four Urdan Leaders meet with Orung the Fellhammer, Winnie meets the Keeper of the Well, and Dalfin flies (kinda)."
+    },
+    {
+      "id": "22d25e0376be4385951cd7ce0fab0cd8",
+      "title": "Episode 25 - A War at the World Bridge Part 1",
+      "pubDate": "2019-04-11T09:00:00.000Z",
+      "durationSeconds": 3659,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_25_-_A_War_at_the_Worldbridge_Part_1.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Winnie learns some lore in the Well of the Orcs, and the War at the Worldbridge begins!"
+    },
+    {
+      "id": "089d7cb675ed4213b017d65742940805",
+      "title": "Episode 24 - A Best Laid Plan",
+      "pubDate": "2019-04-04T09:00:00.000Z",
+      "durationSeconds": 3447,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_24_-_A_Best_Laid_Plan.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "A week has passed. In that time Winnie finds an interesting cave, Joan and Relnor prepare the urden for war, and Dalfin tried to fly."
+    },
+    {
+      "id": "002e954f7612467c8f83ab521b2bc54c",
+      "title": "Episode 23 - A Wingless Halfling",
+      "pubDate": "2019-03-28T09:00:00.000Z",
+      "durationSeconds": 4321,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_23_-_A_Wingless_Halfling_1.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Winnie goes on an adventure, Joan enters a battle, Relnor vies with the Jorro for aid, and Dalfin finds a hole in the dirt."
+    },
+    {
+      "id": "30cb005df7a5435badda8b16877913f7",
+      "title": "Episode 22 - A Few Cliffhangers",
+      "pubDate": "2019-03-21T09:00:00.000Z",
+      "durationSeconds": 2473,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_22_-_A_Few_Cliffhangers.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Winnie enter the Iron City, Joan encounters the Stur Urden Stri, Relnor Speaks in the Hall of Ages to the Jorro Urden Hand, and Dalfin sees something."
+    },
+    {
+      "id": "cab43535211749758765b14d8a7f26b5",
+      "title": "Episode 21 - A Party Divided",
+      "pubDate": "2019-03-14T09:00:00.000Z",
+      "durationSeconds": 3317,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_21_-_A_Party_Divided-.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Our four heroes set out in three directions, each doing their part to unite the human tribes of the south."
+    },
+    {
+      "id": "dcf08293ceda4458ad139274474e4fe8",
+      "title": "Episode 20 - A TRU Prophecy",
+      "pubDate": "2019-03-07T10:00:00.000Z",
+      "durationSeconds": 2662,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_20_-_A_TRU_Prophecy_1.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Joan and the gang end up fulfilling one of the Urden's most ancient and sacred prophecies. Then they learn that traveling into the desert may not be as simple as they had hoped."
+    },
+    {
+      "id": "656c97417e6a4d3cb1335f98b4b91bcf",
+      "title": "Episode 19 - A Sacred Place",
+      "pubDate": "2019-02-28T10:00:00.000Z",
+      "durationSeconds": 4061,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_19_-_A_Sacred_Place.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "With the newly earned trust of the Fyr Urden Stri, our heroes prepare for what promises to be difficult peace talks between the two tribes. However, there may still be forces actively working against that peace, even now..."
+    },
+    {
+      "id": "1c858f20c25148afa7c5520018004a7f",
+      "title": "Episode 18 - A Short Negotiation",
+      "pubDate": "2019-02-21T10:00:00.000Z",
+      "durationSeconds": 4456,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_18_-_A_Short_Negotiation.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Our heroes venture to the treetop kingdom of the Fyr Urden Stri. As they try and convince Greytree to agree to peace talks with the Vas Urden, they will first have to prove themselves."
+    },
+    {
+      "id": "3006f421475d41808ac7589d59ee48af",
+      "title": "Episode 17 - A Phantom Menace",
+      "pubDate": "2019-02-14T10:00:00.000Z",
+      "durationSeconds": 3290,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_17_-_A_Phantom_Menace.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Another Titan defeated, the party meets a young tribesman who happened to witness the epic battle. He quickly warms to the adventurers and leads them deeper into the Forgotten Woods."
+    },
+    {
+      "id": "04fe2b2fba364c89a441630ea4029857",
+      "title": "Episode 16 - A Titan Encounter",
+      "pubDate": "2019-02-07T10:00:00.000Z",
+      "durationSeconds": 2597,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_16_-_A_Titan_Encounter.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The battle with Miscreant continues as the twisted creature grows into something more powerful than the team anticipated... but that won't stop them from trying to take it down."
+    },
+    {
+      "id": "49f58230db404bc6a6e3a1a0503c7041",
+      "title": "Episode 15 - A Miscreant Encounter",
+      "pubDate": "2019-01-31T10:00:00.000Z",
+      "durationSeconds": 3173,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_15_-_A_Miscreant_Encounter.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The party continues toward a cave near the Forgotten Woods. Gar warned that whatever goes in never comes out. Now Relnor, Winnie, Dalfin, and Joan go in."
+    },
+    {
+      "id": "68172ee5471049dc954862874024af05",
+      "title": "Episode 14 - A Decent Dilapidation",
+      "pubDate": "2019-01-24T10:00:00.000Z",
+      "durationSeconds": 4056,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_14_-_A_Decent_Dilapidation.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Past the Guardian River the party continues their journey south. Once they reach the Ranger Post Dalphin learns something interesting."
+    },
+    {
+      "id": "3246d166815e45b695f8db8e98b197ef",
+      "title": "Episode 13 - A Night in River Watch",
+      "pubDate": "2019-01-17T10:00:00.000Z",
+      "durationSeconds": 4958,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_13_-_A_Night_in_River_Watch.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The party continues their way south, through the border town of River Watch. Relnor meets a Captain who served under his father, and Winnie makes a new friend."
+    },
+    {
+      "id": "4ae44e0269ab4d528a7f8b81c0c33bd9",
+      "title": "Episode 12 - A Goat Based Adventure",
+      "pubDate": "2019-01-10T10:00:00.000Z",
+      "durationSeconds": 3800,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_12_-_A_Goat_Based_Adventure.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "After a night on the beach the team make their way south, encountering a rather quirky character along the way."
+    },
+    {
+      "id": "e71cfba892f4496ab87a490e60a009ee",
+      "title": "Episode 11 - A New Command",
+      "pubDate": "2019-01-03T10:00:00.000Z",
+      "durationSeconds": 3380,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_11_-_A_New_Command.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The city of Lestraad recovers and mourns from the aftermath of the titan attack. Relnor receives an unexpected summons."
+    },
+    {
+      "id": "9f301209ab5a4d76826b5163e748dbf7",
+      "title": "Episode 10 - A New Perspective Part 3",
+      "pubDate": "2018-12-27T12:42:55.000Z",
+      "durationSeconds": 3650,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_10_-_A_New_Perspective_Part_3.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Titans are in Lestraad! Winnie tries leading her parents to safety. Dalfin & Relnor try to help the monks. Joan goes toe to toe with a monster upon the wondering mountain."
+    },
+    {
+      "id": "511999bb26ff4e5392eb2d49345a2bcd",
+      "title": "A Non-Canon Christmas Special",
+      "pubDate": "2018-12-25T09:31:27.000Z",
+      "durationSeconds": 9573,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/A_Non-Canon_Christmas.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Happy Holidays and Merry Christmas everyone! Welcome to our special Christmas themed one shot adventure! The gang travel back to the Gnome Island to save Truffle Bundle from the evil inventor, Kringle Claw! Will they survive the machinations of this maniacal machinist? Find out,…"
+    },
+    {
+      "id": "8eb56672dbc94f3da3d7df0b24fdaf34",
+      "title": "Episode 9 - A New Perspective Part 2",
+      "pubDate": "2018-12-20T10:00:00.000Z",
+      "durationSeconds": 3650,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_9_-_A_New_Perspective_Part_2.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The party is split. Winnie heads for home, Relnor goes to talk with Cpt. Harris, Dalfin sees about the monks, and Joan lies unconscious on the floor of the grey temple. All the while, monsters roam the streets of Lestraad!"
+    },
+    {
+      "id": "5ea8c1872e3e40d68bacde89a5c84878",
+      "title": "Episode 8 - A New Perspective Part 1",
+      "pubDate": "2018-12-13T10:00:00.000Z",
+      "durationSeconds": 3275,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_8_-_A_New_Perspective_Part_1.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The gang reunites at the Grey Temple only to find it in chaos. Dah've tells them the history of the strange glyphs and shares a secret with Joan."
+    },
+    {
+      "id": "1e467bf093224af0932abee2beb0fa7c",
+      "title": "Episode 7 - A Girl and Her Orc",
+      "pubDate": "2018-12-06T10:00:00.000Z",
+      "durationSeconds": 3255,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_7_-_A_Girl_and_Her_Orc.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Reports of wizard attacks have stirred up some trouble in the Four Kingdoms. Winnie and Bordu have been arrested! Relnor, Joan, and Dalfin head to the High Captain's office to see what's going on."
+    },
+    {
+      "id": "01c754a24a7e4114936e3c56eaae322d",
+      "title": "Episode 6 - A Spa Day",
+      "pubDate": "2018-11-29T11:00:00.000Z",
+      "durationSeconds": 3876,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_6_-_A_Spa_Day.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The team awakens to find themselves recuperating at the peek of the Wandering Mountain. How much time has past, and what is waiting for them back in Lestraad?"
+    },
+    {
+      "id": "ebbb7c3a02d94c14978d8dd6581bc84a",
+      "title": "Episode 5 - A Ruinous Encounter",
+      "pubDate": "2018-11-22T11:00:00.000Z",
+      "durationSeconds": 3636,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_5_-_A_Ruinous_Encounter.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Relnor, Winnie, Dalfin, and Joan fight for their lives as they explore the magical and mysterious ancient ruins. The dice will fly in this combat and lore heavy episode!"
+    },
+    {
+      "id": "e04c8705d551464d8f3b68ebecb2f0f8",
+      "title": "Episode 4 - A Bundle of Fun",
+      "pubDate": "2018-11-15T11:00:00.000Z",
+      "durationSeconds": 3461,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_4_-_A_Bundle_of_Fun.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Welcome to the Gnome Isle, a place of technological wonders, endless secrets, and dangers untold."
+    },
+    {
+      "id": "0c162beb16324de1905090575a0b19b2",
+      "title": "Episode 3 - A Fishy Encounter",
+      "pubDate": "2018-11-08T11:00:00.000Z",
+      "durationSeconds": 3710,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_3_-_A_Fishy_Encounter_1.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The Sheamus sets off on their two day journey for the Gnome Island. Winnie learns a thing or two from the ship wizard Wilbert. Relnor and Joan continue to struggle with the self-important Captain Donnie Russell, while Dalfin takes an unexpected dip."
+    },
+    {
+      "id": "30e0359826ff4bcb98a538194ec6698c",
+      "title": "Episode 2 - A Boat Based Adventure",
+      "pubDate": "2018-11-01T08:35:00.000Z",
+      "durationSeconds": 3572,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_2_-_A_Boat_Based_Adventure.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The newly formed crew continues to prep for their mission and inevitable confrontation with Captain Russell and his crew. Twitter: @TheTitanPod"
+    },
+    {
+      "id": "cb26518666584fccb23c85f13b05cb13",
+      "title": "Episode 1 - A Non Boat Based Adventure",
+      "pubDate": "2018-11-01T08:30:00.000Z",
+      "durationSeconds": 3698,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Episode_1_-_A_Non_Boat_Based_Adventure_2.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "The High Captain of Lestraad has summoned several unique individuals to the command building. What begins in his office may very well change the future of All'Terra. Twitter: @TheTitanPod"
+    },
+    {
+      "id": "ae1887f3ee4543ac9ee522d43b52a96e",
+      "title": "Building All'Terra",
+      "pubDate": "2018-10-29T16:50:53.000Z",
+      "durationSeconds": 229,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Building_AllTerra.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "This is the introduction to both the world of All'Terra as well Part 1 in a series I'll be releasing through our Patreon. This creative endeavor would not have been possible without the incredible support of our patrons at Patreon.com/TheTitanPod Thank you all!"
+    },
+    {
+      "id": "0cab1f5e08574169b8e4ff8da3fb1868",
+      "title": "Meet Relnor",
+      "pubDate": "2018-10-29T15:41:44.000Z",
+      "durationSeconds": 846,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Meet_Relnor.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "When creating the Titans of All'Terra, I wanted to produce a podcast with my best friends, who also just so happen to be my family. This week, I sit down with my brother-in-law Eric to talk about his character Relnor Windhelm. Patreon.com/TheTitanPod"
+    },
+    {
+      "id": "04be83ba068f46d0ab3575aa7bff23ad",
+      "title": "Meet Winnie",
+      "pubDate": "2018-10-29T15:39:44.000Z",
+      "durationSeconds": 586,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Meet_Winnie.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "When creating the Titans of All'Terra, I wanted to produce a podcast with my best friends, who also just so happen to be my family. This week, I sit down with my sister-in-law Erin to talk about her character Winnebret \"Winnie\" Dumplekin. Patreon.com/TheTitanPod"
+    },
+    {
+      "id": "df45bab2d26341a5901d022a8af3d30c",
+      "title": "Meet Dalfin",
+      "pubDate": "2018-10-29T15:37:50.000Z",
+      "durationSeconds": 550,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Meet_Dalfin.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "When creating the Titans of All'Terra, I wanted to produce a podcast with my best friends, who also just so happen to be my family. This week, I sit down with my brother Ricky to talk about his character Dalfin Mugwart. Patreon.com/TheTitanPod"
+    },
+    {
+      "id": "74d36f19d55545a99d5db5404a792993",
+      "title": "Meet Joan",
+      "pubDate": "2018-10-29T15:35:33.000Z",
+      "durationSeconds": 1086,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Meet_Joan.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "When creating the Titans of All'Terra, I wanted to produce a podcast with my best friends, who also just so happen to be my family. This week, I sit down with Kelsey to talk about her character Joan Stormcrown. Patreon.com/thetitanpod"
+    },
+    {
+      "id": "aa06d1d67d3147cc8493890072301589",
+      "title": "Welcome",
+      "pubDate": "2018-10-28T19:37:59.000Z",
+      "durationSeconds": 189,
+      "audioUrl": "https://traffic.libsyn.com/secure/titansofallterra/Welcome.mp3?dest-id=848429",
+      "audioType": "audio/mpeg",
+      "description": "Hello and welcome to the Titans of All'Terra, a 5e Dungeons and Dragons Actual Play podcast adventure for gamers of all ages. patreon.com/thetitanpod twitter.com/thetitanpod facebook.com/thetitanpod youtube.com/channel/UCUP75jzx8xpVocdh8tLgf5Q"
+    }
+  ]
+}
