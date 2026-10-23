@@ -224,6 +224,48 @@ p {
 .wordmark__mark {
   height: 32px;
   width: auto;
+  transform-origin: 50% 85%;
+  transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.wordmark__text {
+  transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* Hover: the mark tips back like a raised mug and the name leans in. */
+.wordmark:hover .wordmark__mark,
+.wordmark:focus-visible .wordmark__mark {
+  transform: rotate(-12deg) scale(1.12);
+}
+
+.wordmark:hover .wordmark__text,
+.wordmark:focus-visible .wordmark__text {
+  transform: translateX(3px);
+}
+
+.wordmark:active .wordmark__mark {
+  transform: rotate(-4deg) scale(0.9);
+  transition-duration: 0.1s;
+}
+
+/* Click: one hop-and-spin, replayed by burst.js on every click. */
+.wordmark.is-bursting .wordmark__mark {
+  animation: wordmark-hop 0.6s cubic-bezier(0.34, 1.4, 0.64, 1);
+}
+
+@keyframes wordmark-hop {
+  0% {
+    transform: rotate(-12deg) scale(1.12);
+  }
+  35% {
+    transform: translateY(-7px) rotate(200deg) scale(1.2);
+  }
+  70% {
+    transform: translateY(1px) rotate(360deg) scale(0.95);
+  }
+  100% {
+    transform: rotate(348deg) scale(1.12);
+  }
 }
 
 .wordmark__line1 {
@@ -309,6 +351,38 @@ main {
   margin-top: var(--space-2);
 }
 
+/* The logo's own img is locked by its entrance animation's fill, so hover
+   and click motion go on the h1 wrapping it. */
+.hero__logo-wrap {
+  transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.hero__logo-wrap:hover {
+  transform: scale(1.025) rotate(0.75deg);
+}
+
+.hero__logo-wrap:active {
+  transform: scale(0.97);
+  transition-duration: 0.1s;
+}
+
+.hero__logo-wrap.is-bursting {
+  animation: logo-pop 0.55s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes logo-pop {
+  0% {
+    transform: scale(0.95);
+  }
+  40% {
+    transform: scale(1.06) rotate(-1.5deg);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
 .hero__logo {
   width: min(100%, 520px);
   margin-inline: auto;
@@ -392,6 +466,29 @@ main {
     animation: none;
     display: none;
   }
+}
+
+/* Confetti burst layer (burst.js): fixed over the whole viewport so pieces
+   are never clipped by the element that fired them. */
+.burst-layer {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 50;
+}
+
+.burst-bit {
+  position: absolute;
+  top: 0;
+  left: 0;
+  will-change: transform, opacity;
+}
+
+.burst-bit svg {
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 
 /* -------------------------------------------------------------------- */
