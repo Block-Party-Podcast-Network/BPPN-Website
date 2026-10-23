@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:06:46.299Z",
+  "generatedAt": "2026-10-23T07:48:57.233Z",
   "shows": [
     {
       "slug": "dungeon-masters-block",
@@ -12,9 +12,18 @@
         "podbean": "https://dungeonmasterblock.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonmasterblock/feed.xml",
-      "lastFetchedAt": "2026-10-21T18:06:46.299Z",
+      "lastFetchedAt": "2026-10-23T07:48:57.233Z",
       "lastFetchOk": true,
       "episodes": [
+        {
+          "id": "dungeonmasterblock.podbean.com/509dbb9f-4f41-3e41-83eb-6aaaa43a6091",
+          "title": "339: Villain Backstories (feat. Dillin Apelyan, ⁠James D’Amato)",
+          "pubDate": "2026-10-23T07:07:49.000Z",
+          "durationSeconds": 3680,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/xka6s4zshmsuf2xk/DMB339-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DM Neal sits down and talks to Dillin Apelyan and ⁠James D’Amato, the co-authors of The Ultimate RPG Villain Backstory Guide, about what it takes to make a compelling villain backstory. James' Books Dillin's Games One Shot Podcast Patreon @DMs_Block Discord Facebook Stitcher iTu…"
+        },
         {
           "id": "dungeonmasterblock.podbean.com/3617eebc-cf3a-31a4-b73d-70fa9006add7",
           "title": "DM-Nastics: Weird Science",
@@ -95,15 +104,6 @@
           "audioUrl": "https://mcdn.podbean.com/mf/web/qd7x29zgy4gda2g7/DMN123-Final.mp3",
           "audioType": "audio/mpeg",
           "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We talk through some woodworking to help our games feel more lived in. Exercise: Woodworking Lightbulb: Tree Spirit Tavern Twitter: @DMs_Block DM Neal's @joatmoniac DM Celeste's @cconowitc…"
-        },
-        {
-          "id": "dungeonmasterblock.podbean.com/ca62ae9e-7343-32a1-a7d9-870f3b8e925d",
-          "title": "334: Effective Narrations (feat. Diego F. Salinas)",
-          "pubDate": "2026-08-11T19:01:10.000Z",
-          "durationSeconds": 3663,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/47xbg6qaes27yi8c/DMB334-Final.mp3",
-          "audioType": "audio/mpeg",
-          "description": "DMs Neal and Derrick sit down and talk to Diego F. Salinas from Twenty Sided Tavern to discuss ways that we can work on our effective narration at our tables. Diego Salinas Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure…"
         }
       ]
     },
@@ -117,7 +117,7 @@
         "spotify": "https://open.spotify.com/show/5U3jHHiHsnFQ3bW8EEZmBU"
       },
       "resolvedFeedUrl": "https://rss.libsyn.com/shows/136829/destinations/848429.xml",
-      "lastFetchedAt": "2026-10-21T18:06:46.299Z",
+      "lastFetchedAt": "2026-10-23T07:48:57.233Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -221,7 +221,7 @@
         "apple": "https://podcasts.apple.com/us/podcast/the-badventure-club/id1683253562"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/dea6f4d0/podcast/rss",
-      "lastFetchedAt": "2026-10-21T18:06:46.299Z",
+      "lastFetchedAt": "2026-10-23T07:48:57.233Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -327,7 +327,7 @@
         "podbean": "https://dungeonsdragonsdaughters.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonsdragonsdaughters/feed.xml",
-      "lastFetchedAt": "2026-10-21T18:06:46.299Z",
+      "lastFetchedAt": "2026-10-23T07:48:57.233Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -433,7 +433,7 @@
         "website": "https://www.knockedprone.com/"
       },
       "resolvedFeedUrl": "https://rss.buzzsprout.com/2201541.rss",
-      "lastFetchedAt": "2026-10-21T18:06:46.299Z",
+      "lastFetchedAt": "2026-10-23T07:48:57.233Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -538,7 +538,7 @@
         "linktree": "https://linktr.ee/HN2DM"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/f7870bac/podcast/rss",
-      "lastFetchedAt": "2026-10-21T18:06:46.299Z",
+      "lastFetchedAt": "2026-10-23T07:48:57.233Z",
       "lastFetchOk": true,
       "episodes": [
         {
