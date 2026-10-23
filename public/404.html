@@ -6,15 +6,24 @@
   <title>Page not found | Block Party Podcast Network</title>
   <meta name="robots" content="noindex" />
   <meta name="theme-color" content="#1a1512" />
-  <!-- Absolute paths: this page is served for any missing URL, at any depth. -->
-  <link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml" />
-  <link rel="preload" href="/assets/fonts/bricolage-grotesque-variable.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/assets/css/styles.css" />
+  <script>
+    // This page is served for any missing URL, at any depth, so its links
+    // resolve against the site root instead of the current URL. On the
+    // GitHub Pages preview that root is /<repo>/; everywhere else it's /.
+    const base = document.createElement("base");
+    base.href = location.hostname.endsWith(".github.io")
+      ? `/${location.pathname.split("/")[1]}/`
+      : "/";
+    document.head.appendChild(base);
+  </script>
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml" />
+  <link rel="preload" href="assets/fonts/bricolage-grotesque-variable.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="assets/css/styles.css" />
 </head>
 <body>
   <header class="masthead">
-    <a href="/" class="wordmark">
-      <img class="wordmark__mark" src="/assets/images/brand/logo-mark.png" alt="" width="29" height="35" />
+    <a href="./" class="wordmark">
+      <img class="wordmark__mark" src="assets/images/brand/logo-mark.png" alt="" width="29" height="35" />
       <span class="wordmark__text">
         <span class="wordmark__line1">Block Party</span>
         <span class="wordmark__line2">Podcast Network</span>
@@ -30,7 +39,7 @@
           This page doesn't exist, or it wandered off into the dungeon. The
           shows are all back at the main hall.
         </p>
-        <a class="button button--primary" href="/">
+        <a class="button button--primary" href="./">
           <span>Back to the party</span>
         </a>
       </div>
@@ -38,7 +47,7 @@
   </main>
 
   <footer class="site-footer">
-    <img class="site-footer__mark" src="/assets/images/brand/logo-mark.png" alt="" width="20" height="24" />
+    <img class="site-footer__mark" src="assets/images/brand/logo-mark.png" alt="" width="20" height="24" />
     <p>Block Party Podcast Network</p>
   </footer>
 </body>
