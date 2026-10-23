@@ -33,7 +33,7 @@ export function renderShowPlayer(slot, show) {
     const details = document.createElement("details");
     details.className = "player__more";
     const summary = document.createElement("summary");
-    summary.textContent = `More episodes (${rest.length})`;
+    summary.textContent = "Recent episodes";
     details.appendChild(summary);
 
     const list = document.createElement("ol");
