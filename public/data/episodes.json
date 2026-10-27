@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T14:24:21.593Z",
+  "generatedAt": "2026-10-27T02:38:42.254Z",
   "shows": [
     {
       "slug": "dungeon-masters-block",
@@ -12,7 +12,7 @@
         "podbean": "https://dungeonmasterblock.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonmasterblock/feed.xml",
-      "lastFetchedAt": "2026-10-23T14:24:21.593Z",
+      "lastFetchedAt": "2026-10-27T02:38:42.254Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -119,7 +119,8 @@
       },
       "resolvedFeedUrl": "https://rss.libsyn.com/shows/136829/destinations/848429.xml",
       "lastFetchedAt": "2026-10-23T14:24:21.593Z",
-      "lastFetchOk": true,
+      "lastFetchOk": false,
+      "episodeCount": 91,
       "episodes": [
         {
           "id": "9c5e61a3-bea2-47de-ad02-65ddd085c510",
@@ -211,8 +212,7 @@
           "audioType": "audio/mpeg",
           "description": "Amidst the HEXpo, our reunited crew comes home to Lestraad. After visiting old friends and family, they gather for Bordu's memorial service, along with an unexpected guest. - This podcast is made possible thanks to our patrons. You can become a patron and support the ongoing pro…"
         }
-      ],
-      "episodeCount": 91
+      ]
     },
     {
       "slug": "badventure-club",
@@ -223,7 +223,7 @@
         "apple": "https://podcasts.apple.com/us/podcast/the-badventure-club/id1683253562"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/dea6f4d0/podcast/rss",
-      "lastFetchedAt": "2026-10-23T14:24:21.593Z",
+      "lastFetchedAt": "2026-10-27T02:38:42.254Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -330,7 +330,7 @@
         "podbean": "https://dungeonsdragonsdaughters.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonsdragonsdaughters/feed.xml",
-      "lastFetchedAt": "2026-10-23T14:24:21.593Z",
+      "lastFetchedAt": "2026-10-27T02:38:42.254Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -437,7 +437,7 @@
         "website": "https://www.knockedprone.com/"
       },
       "resolvedFeedUrl": "https://rss.buzzsprout.com/2201541.rss",
-      "lastFetchedAt": "2026-10-23T14:24:21.593Z",
+      "lastFetchedAt": "2026-10-27T02:38:42.254Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -543,7 +543,7 @@
         "linktree": "https://linktr.ee/HN2DM"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/f7870bac/podcast/rss",
-      "lastFetchedAt": "2026-10-23T14:24:21.593Z",
+      "lastFetchedAt": "2026-10-27T02:38:42.254Z",
       "lastFetchOk": true,
       "episodes": [
         {
