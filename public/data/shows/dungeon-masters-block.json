@@ -9,9 +9,18 @@
     "podbean": "https://dungeonmasterblock.podbean.com/"
   },
   "resolvedFeedUrl": "https://feed.podbean.com/dungeonmasterblock/feed.xml",
-  "lastFetchedAt": "2026-10-27T03:41:32.228Z",
+  "lastFetchedAt": "2026-11-04T05:02:25.517Z",
   "lastFetchOk": true,
   "episodes": [
+    {
+      "id": "dungeonmasterblock.podbean.com/00983289-43cf-33e2-830c-097c78279469",
+      "title": "DM-Nastics: Mycelial Behemoth (Actual Play)",
+      "pubDate": "2026-11-04T04:19:49.000Z",
+      "durationSeconds": 2666,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/zyjpwbuw3vpags7k/DMN124AP-Final.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: We set out on our first journey into Dayeimbe! Exercise: Weird Science DMB Patreon Twitter: @DMs_Block DM Neal's @joatmoniac DM Jess' @parqx BlueSky: @dmsblock.bsky.social Discord: https:/…"
+    },
     {
       "id": "dungeonmasterblock.podbean.com/509dbb9f-4f41-3e41-83eb-6aaaa43a6091",
       "title": "339: Villain Backstories (feat. Dillin Apelyan, ⁠James D’Amato)",
