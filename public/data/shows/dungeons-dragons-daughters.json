@@ -9,9 +9,18 @@
     "podbean": "https://dungeonsdragonsdaughters.podbean.com/"
   },
   "resolvedFeedUrl": "https://feed.podbean.com/dungeonsdragonsdaughters/feed.xml",
-  "lastFetchedAt": "2026-11-04T05:02:25.517Z",
+  "lastFetchedAt": "2026-11-06T01:12:56.429Z",
   "lastFetchOk": true,
   "episodes": [
+    {
+      "id": "dungeonsdragonsdaughters.podbean.com/94aef8cd-dabc-3432-88ef-5b8260af67e8",
+      "title": "99. DDD The Wild Beyond the Witchlight, Session 29",
+      "pubDate": "2026-11-06T00:01:00.000Z",
+      "durationSeconds": 6972,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/bsjjtpydtcb52g8v/DDD_Episode_99_podbean9cume.mp3",
+      "audioType": "audio/mpeg",
+      "description": "The Breakfast dudes do some library research! I’m not even kidding. However, they also run all over Endelyn’s abandoned castle and thoroughly loot the place. They meet some more guests and residents of Motherhorn while checking off a few more things from the old Wild Beyond the…"
+    },
     {
       "id": "dungeonsdragonsdaughters.podbean.com/829730ed-3275-373b-9bcb-084d99dfa1fe",
       "title": "98. DDD The Wild Beyond the Witchlight, Session 28",

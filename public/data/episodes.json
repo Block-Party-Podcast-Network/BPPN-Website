@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T05:02:25.517Z",
+  "generatedAt": "2026-11-06T01:12:56.429Z",
   "shows": [
     {
       "slug": "dungeon-masters-block",
@@ -12,7 +12,7 @@
         "podbean": "https://dungeonmasterblock.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonmasterblock/feed.xml",
-      "lastFetchedAt": "2026-11-04T05:02:25.517Z",
+      "lastFetchedAt": "2026-11-06T01:12:56.429Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -118,7 +118,7 @@
         "spotify": "https://open.spotify.com/show/5U3jHHiHsnFQ3bW8EEZmBU"
       },
       "resolvedFeedUrl": "https://rss.libsyn.com/shows/136829/destinations/848429.xml",
-      "lastFetchedAt": "2026-11-04T05:02:25.517Z",
+      "lastFetchedAt": "2026-11-06T01:12:56.429Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -223,7 +223,7 @@
         "apple": "https://podcasts.apple.com/us/podcast/the-badventure-club/id1683253562"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/dea6f4d0/podcast/rss",
-      "lastFetchedAt": "2026-11-04T05:02:25.517Z",
+      "lastFetchedAt": "2026-11-06T01:12:56.429Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -330,9 +330,18 @@
         "podbean": "https://dungeonsdragonsdaughters.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonsdragonsdaughters/feed.xml",
-      "lastFetchedAt": "2026-11-04T05:02:25.517Z",
+      "lastFetchedAt": "2026-11-06T01:12:56.429Z",
       "lastFetchOk": true,
       "episodes": [
+        {
+          "id": "dungeonsdragonsdaughters.podbean.com/94aef8cd-dabc-3432-88ef-5b8260af67e8",
+          "title": "99. DDD The Wild Beyond the Witchlight, Session 29",
+          "pubDate": "2026-11-06T00:01:00.000Z",
+          "durationSeconds": 6972,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/bsjjtpydtcb52g8v/DDD_Episode_99_podbean9cume.mp3",
+          "audioType": "audio/mpeg",
+          "description": "The Breakfast dudes do some library research! I’m not even kidding. However, they also run all over Endelyn’s abandoned castle and thoroughly loot the place. They meet some more guests and residents of Motherhorn while checking off a few more things from the old Wild Beyond the…"
+        },
         {
           "id": "dungeonsdragonsdaughters.podbean.com/829730ed-3275-373b-9bcb-084d99dfa1fe",
           "title": "98. DDD The Wild Beyond the Witchlight, Session 28",
@@ -413,18 +422,9 @@
           "audioUrl": "https://mcdn.podbean.com/mf/web/giu7hcm7ys3x7jz8/DDD_Episode_90_podbean6ce73.mp3",
           "audioType": "audio/mpeg",
           "description": "The breakfast dudes have to deal with Skabatha the hag’s really angry garden! But it’s not like a vegetable garden, and Pinky really has to show off her spells for the group to get through it. The group figures out where they want to go next, and Tude adopts a new coping mechani…"
-        },
-        {
-          "id": "dungeonsdragonsdaughters.podbean.com/0dd78af6-fd7a-3385-b296-ae760b9867ab",
-          "title": "89. DDD The Wild Beyond the Witchlight, Session 19",
-          "pubDate": "2025-09-24T03:46:47.000Z",
-          "durationSeconds": 6236,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/sib3ryqeqxxpb4jy/DDD_Episode_89_podbean9b0jp.mp3",
-          "audioType": "audio/mpeg",
-          "description": "With the group divided in Skabatha’s stronghold of Loomlurch, Lyrup works on freeing the prisoners in the kitchen, while the entire rest of the party moves on to Skabatha’s bedroom to find their lost things. Lyrup is successful through stubborn tenacity - while the rest of TBD i…"
         }
       ],
-      "episodeCount": 111
+      "episodeCount": 112
     },
     {
       "slug": "knocked-prone",
@@ -437,7 +437,7 @@
         "website": "https://www.knockedprone.com/"
       },
       "resolvedFeedUrl": "https://rss.buzzsprout.com/2201541.rss",
-      "lastFetchedAt": "2026-11-04T05:02:25.517Z",
+      "lastFetchedAt": "2026-11-06T01:12:56.429Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -543,7 +543,7 @@
         "linktree": "https://linktr.ee/HN2DM"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/f7870bac/podcast/rss",
-      "lastFetchedAt": "2026-11-04T05:02:25.517Z",
+      "lastFetchedAt": "2026-11-06T01:12:56.429Z",
       "lastFetchOk": true,
       "episodes": [
         {
