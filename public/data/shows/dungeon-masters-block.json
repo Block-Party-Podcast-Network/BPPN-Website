@@ -9,9 +9,18 @@
     "podbean": "https://dungeonmasterblock.podbean.com/"
   },
   "resolvedFeedUrl": "https://feed.podbean.com/dungeonmasterblock/feed.xml",
-  "lastFetchedAt": "2026-11-06T01:12:56.429Z",
+  "lastFetchedAt": "2026-11-11T09:00:27.288Z",
   "lastFetchOk": true,
   "episodes": [
+    {
+      "id": "dungeonmasterblock.podbean.com/8b35ad48-2e7d-3c47-a314-c156b5171e41",
+      "title": "340: Stay Classy; Monk (feat. Quique)",
+      "pubDate": "2026-11-11T08:36:44.000Z",
+      "durationSeconds": 3038,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/sntf9e4k3b5esf7u/DMB340-Final.mp3",
+      "audioType": "audio/mpeg",
+      "description": "DMs Neal and Derrick sit down and talk to Quique from Ex Regnum Publishing who are making the Game Master's Companion: The Legend of Aang and who better to talk about adding monks into are games and worlds. Avatar the Last Airbender Companion Exregnum Patreon @DMs_Block Discord…"
+    },
     {
       "id": "dungeonmasterblock.podbean.com/00983289-43cf-33e2-830c-097c78279469",
       "title": "DM-Nastics: Mycelial Behemoth (Actual Play)",

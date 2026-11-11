@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:12:56.429Z",
+  "generatedAt": "2026-11-11T09:00:27.288Z",
   "shows": [
     {
       "slug": "dungeon-masters-block",
@@ -12,9 +12,18 @@
         "podbean": "https://dungeonmasterblock.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonmasterblock/feed.xml",
-      "lastFetchedAt": "2026-11-06T01:12:56.429Z",
+      "lastFetchedAt": "2026-11-11T09:00:27.288Z",
       "lastFetchOk": true,
       "episodes": [
+        {
+          "id": "dungeonmasterblock.podbean.com/8b35ad48-2e7d-3c47-a314-c156b5171e41",
+          "title": "340: Stay Classy; Monk (feat. Quique)",
+          "pubDate": "2026-11-11T08:36:44.000Z",
+          "durationSeconds": 3038,
+          "audioUrl": "https://mcdn.podbean.com/mf/web/sntf9e4k3b5esf7u/DMB340-Final.mp3",
+          "audioType": "audio/mpeg",
+          "description": "DMs Neal and Derrick sit down and talk to Quique from Ex Regnum Publishing who are making the Game Master's Companion: The Legend of Aang and who better to talk about adding monks into are games and worlds. Avatar the Last Airbender Companion Exregnum Patreon @DMs_Block Discord…"
+        },
         {
           "id": "dungeonmasterblock.podbean.com/00983289-43cf-33e2-830c-097c78279469",
           "title": "DM-Nastics: Mycelial Behemoth (Actual Play)",
@@ -95,18 +104,9 @@
           "audioUrl": "https://mcdn.podbean.com/mf/web/zdxmxg67mfcmzgyk/DMN-26SS1-Final.mp3",
           "audioType": "audio/mpeg",
           "description": "DM Neal sits down and talks to DM Derrick about his show How Not to DM and the things he learned form it. How Not 2 DM Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Club Episode edited by: Neal Powell"
-        },
-        {
-          "id": "dungeonmasterblock.podbean.com/0c34da85-fa0a-3049-8f66-0e1a7e18c8cd",
-          "title": "335: Divine Spotlight; Mystra (feat. 3RPG Podcast)",
-          "pubDate": "2026-08-27T06:40:49.000Z",
-          "durationSeconds": 3001,
-          "audioUrl": "https://mcdn.podbean.com/mf/web/3xtiek466q696nj9/DMB335-Final.mp3",
-          "audioType": "audio/mpeg",
-          "description": "DMs Neal and Derrick sit down and talk to Jay and Sandra from 3RPG Podcast to discuss ways that we can add the god of all magic, Mystra, into our worlds. 3RPG Podcast Patreon @DMs_Block Discord Facebook Stitcher iTunes dungeonmasterblock@gmail.com Knocked Prone Badventure Club E…"
         }
       ],
-      "episodeCount": 447
+      "episodeCount": 448
     },
     {
       "slug": "titans-of-allterra",
@@ -118,7 +118,7 @@
         "spotify": "https://open.spotify.com/show/5U3jHHiHsnFQ3bW8EEZmBU"
       },
       "resolvedFeedUrl": "https://rss.libsyn.com/shows/136829/destinations/848429.xml",
-      "lastFetchedAt": "2026-11-06T01:12:56.429Z",
+      "lastFetchedAt": "2026-11-11T09:00:27.288Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -223,7 +223,7 @@
         "apple": "https://podcasts.apple.com/us/podcast/the-badventure-club/id1683253562"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/dea6f4d0/podcast/rss",
-      "lastFetchedAt": "2026-11-06T01:12:56.429Z",
+      "lastFetchedAt": "2026-11-11T09:00:27.288Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -330,7 +330,7 @@
         "podbean": "https://dungeonsdragonsdaughters.podbean.com/"
       },
       "resolvedFeedUrl": "https://feed.podbean.com/dungeonsdragonsdaughters/feed.xml",
-      "lastFetchedAt": "2026-11-06T01:12:56.429Z",
+      "lastFetchedAt": "2026-11-11T09:00:27.288Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -437,7 +437,7 @@
         "website": "https://www.knockedprone.com/"
       },
       "resolvedFeedUrl": "https://rss.buzzsprout.com/2201541.rss",
-      "lastFetchedAt": "2026-11-06T01:12:56.429Z",
+      "lastFetchedAt": "2026-11-11T09:00:27.288Z",
       "lastFetchOk": true,
       "episodes": [
         {
@@ -543,7 +543,7 @@
         "linktree": "https://linktr.ee/HN2DM"
       },
       "resolvedFeedUrl": "https://anchor.fm/s/f7870bac/podcast/rss",
-      "lastFetchedAt": "2026-11-06T01:12:56.429Z",
+      "lastFetchedAt": "2026-11-11T09:00:27.288Z",
       "lastFetchOk": true,
       "episodes": [
         {
