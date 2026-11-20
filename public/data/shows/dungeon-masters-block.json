@@ -9,9 +9,18 @@
     "podbean": "https://dungeonmasterblock.podbean.com/"
   },
   "resolvedFeedUrl": "https://feed.podbean.com/dungeonmasterblock/feed.xml",
-  "lastFetchedAt": "2026-11-11T09:00:27.288Z",
+  "lastFetchedAt": "2026-11-20T03:57:46.896Z",
   "lastFetchOk": true,
   "episodes": [
+    {
+      "id": "dungeonmasterblock.podbean.com/ba6632ce-c1bd-3058-9fb7-acc0eca6bd3f",
+      "title": "DM-Nastics: Contemporary Cryptids",
+      "pubDate": "2026-11-20T02:50:59.000Z",
+      "durationSeconds": 1375,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/72yvt6r2yxkhg3pc/DMN125-Final.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds! Content: Its Cryptid time! Exercise: Contemporary Cryptids Supplement: Cy_Borg Twitter: @DMs_Block DM Neal's @joatmoniac DM Jess' @parqx BlueSky: @dmsblock.bsky.social Discord: https://bit.ly/DMBan…"
+    },
     {
       "id": "dungeonmasterblock.podbean.com/8b35ad48-2e7d-3c47-a314-c156b5171e41",
       "title": "340: Stay Classy; Monk (feat. Quique)",
