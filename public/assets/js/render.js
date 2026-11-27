@@ -13,7 +13,7 @@ export function renderShowPlayer(slot, show) {
   if (episodes.length === 0) {
     const empty = document.createElement("p");
     empty.className = "show__player-empty";
-    empty.textContent = "No episodes found yet, check the show's own page above.";
+    empty.textContent = "No episodes found yet. Try one of the show's links.";
     slot.appendChild(empty);
     return;
   }
@@ -25,7 +25,7 @@ export function renderShowPlayer(slot, show) {
   if (!show.lastFetchOk) {
     const notice = document.createElement("p");
     notice.className = "show__player-notice";
-    notice.textContent = "Showing the last successfully fetched episodes for this show.";
+    notice.textContent = "This show's feed didn't load on the last update, so newer episodes may be missing.";
     slot.appendChild(notice);
   }
 
@@ -63,6 +63,6 @@ export function renderPlayerError(slot) {
   slot.setAttribute("aria-busy", "false");
   const notice = document.createElement("p");
   notice.className = "show__player-empty";
-  notice.textContent = "Episode player unavailable right now, use the links above to listen.";
+  notice.textContent = "The player isn't working right now. You can still listen through the show's links.";
   slot.appendChild(notice);
 }
