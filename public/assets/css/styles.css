@@ -567,6 +567,7 @@ main {
   position: relative;
   display: grid;
   grid-template-columns: 220px 1fr;
+  align-items: start;
   gap: var(--space-4);
   padding-block: var(--space-4);
   border-top: 1px dashed var(--ink-line);
@@ -624,6 +625,13 @@ main {
   border-radius: var(--radius-card);
   padding: var(--space-3);
   transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* Every show's card is the same height. It doesn't stretch to its own
+ * meta column (names, taglines, and link counts differ per show); instead
+ * the floor clears the tallest column (Dungeon Master's Block, ~365px). */
+.show > .show__player {
+  min-height: 23rem;
 }
 
 .show:hover .show__player {
